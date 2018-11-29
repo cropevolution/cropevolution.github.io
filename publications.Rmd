@@ -1,0 +1,190 @@
+
+# Publications <a href="http://scholar.google.com/citations?user=yYKVZQQAAAAJ"><img src="own_images/scholar.png" style="width: 80px;"></a>
+
+&nbsp;
+&nbsp;
+
+
+## Preprint
+(Next one hopefully coming soon)
+
+##2018
+* [Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](http://dx.doi.org/10.1371/journal.pgen.1007794)  
+ **Markus G Stetter**, Kevin Thornton and Jeffrey Ross-Ibarra *PLOS Genetics* [Preprint](http://dx.doi.org/10.1101/313247)
+
+* [From Zero to Hero: The past, present and future of grain amaranth breeding](http://dx.doi.org/10.1007/s00122-018-3138-y)  
+ Dinesh C Joshi, Salej Sood, Rajashekara H, Lakshmi Kant, A Pattanayak, Anil Kumar, Dinesh Yadav and **Markus G Stetter** *Theoretical and Applied Genetics* [PDF](articles/Joshi2018.pdf)
+
+* [Adaptation in plant genomes: Bigger is different](http://dx.doi.org/10.1002/ajb2.1002)  
+ Wenbin Mei, **Markus G Stetter**, Daniel J. Gates, Michelle C. Stitzer and Jeffrey Ross-Ibarra *American Journal of Botany* [Preprint](https://www.biorxiv.org/content/early/2017/10/10/196501)
+
+##2017
+
+* [How to make a domesticate](http://dx.doi.org/10.1016/j.cub.2017.06.048)  
+ **Markus G Stetter**, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra *Current Biology* [Preprint](10.7287/peerj.preprints.2902v1)
+
+* [Analysis of phylogenetic relationships and genome size evolution of the Amaranthus genus using GBS indicates the ancestors of an ancient crop](http://dx.doi.org/10.1016/j.ympev.2016.12.029)  
+ **Markus G Stetter** and Karl J Schmid *Molecular Phylogenetics and Evolution* [Preprint](http://dx.doi.org/10.1101/085472)
+
+* [Increased root hair density by loss of WRKY6 in Arabidopsis thaliana](http://dx.doi.org/10.7717/peerj.2891)  
+ **Markus G Stetter**, Martin Benz and Uwe Ludewig *PeerJ* [Preprint](http://dx.doi.org/10.7287/peerj.preprints.2267v1)
+
+* [Genomic and phenotypic evidence for an incomplete domestication of South American grain amaranth (Amaranthus caudatus)](http://dx.doi.org/10.1111/mec.13974)  
+ **Markus G Stetter**, Thomas Müller and Karl J Schmid *Molecular Ecology* [Preprint](http://dx.doi.org/10.1101/025866)
+
+##2016
+
+* [Crossing methods and cultivation conditions for rapid production of segregating populations in three grain amaranth species](http://dx.doi.org/10.3389/fpls.2016.00816)  
+ **Markus G Stetter**, Leo Zeitler, Adrian Steinhaus, Karoline Kroener, Michelle Biljecki and Karl J Schmid *Frontiers in Plant Science* [Preprint](http://dx.doi.org/10.7287/peerj.preprints.1951v1)
+
+##2015
+
+* [Regulation of length and density of Arabidopsis root hairs by ammonium and nitrate](http://dx.doi.org/10.1007/s10265-015-0733-8)  
+ Thomas Vatter, Benjamin Neuhäuser, **Markus G Stetter** and Uwe Ludewig *Journal of plant research*
+
+* [Uncovering genes and ploidy involved in the high diversity in root hair density, length and response to local scarce phosphate in Arabidopsis thaliana](http://dx.doi.org/10.1371/journal.pone.0120604)  
+ **Markus G Stetter**, Karl Schmid and Uwe Ludewig *PLOS one*
+
+
+
+```{r,results='asis',message=FALSE,warning=FALSE,echo=FALSE}
+library(scholar)
+library(knitr)
+library(RefManageR)
+library(bibtex)
+```
+
+
+
+```{r,results='asis',message=FALSE,warning=FALSE,echo=FALSE,eval=FALSE}
+my_pubs <- ReadBib('publications.bib')
+#sort(my_pubs, sorting = "nyt")
+my_pubs <-GetDOIs(my_pubs)
+my_pubs <- as.data.frame(my_pubs)
+
+## add google scholar stats
+# scholar_profile<-get_profile("yYKVZQQAAAAJ")
+
+# scholar_citations<-get_publications("yYKVZQQAAAAJ")
+# scholar_citations <- data.frame(scholar_citations$title,scholar_citations$cites)
+# names(scholar_citations) <- c('title','cites')
+# pubs_citations <- merge(my_pubs,scholar_citations,by = 'title',all.x = TRUE)
+
+pubs_citations <- my_pubs # comment this out when using google citation
+### make own name bold
+pubs_citations$author <- gsub(pubs_citations$author,pattern = 'Markus G Stetter',replacement = '**Markus G Stetter**')
+pubs_citations <- pubs_citations[order(pubs_citations$no,decreasing = T),]
+
+years <- unique(pubs_citations$year)
+for (y in years){
+year <- data.frame(subset(pubs_citations, year==y,drop = TRUE))
+cat(paste('##',y,sep=''))
+cat('\n\n')
+for (i in 1:length(year$title)){
+publications <- paste(sep='','[',year$title,']','(http://dx.doi.org/',year$doi,')',' ',year$author,'. *',year$journal,'*') # ,' Citations:',pubs_citations$cites)
+cat(publications[i])
+if (!is.na(year$preprint)){
+  cat(paste(sep='',' [preprint]','(',year$preprint[i],')'))
+}
+cat('\n\n')
+}
+}
+
+```
+
+
+```{r,results='asis',message=FALSE,warning=FALSE,echo=FALSE}
+
+correct_author <- function(author_list,highlighted_author){
+# This function highlights the one author and makes a readable author list.
+  author_list <- gsub(author_list,pattern = highlighted_author,replacement = paste('**',highlighted_author,'**',sep=''))
+  author <- as.vector(unlist(strsplit(author_list, split=' and ')))
+  out <- paste(paste(author[1:length(author)-1], collapse=', '),author[length(author)],sep=' and ')
+  return(out)
+  }
+
+add_doi_links <- function(description,doi){
+  # Add links doi link to a field
+  if (!is.na(doi)){
+    paste(sep='','[',description,']','(http://dx.doi.org/',doi,')') 
+  }
+  else{NA}
+}
+
+
+#my_pubs$author <- lapply(X=my_pubs$author,highlighted_author, FUN=correct_author)
+#my_pubs$title <- mapply(add_doi_links,my_pubs$title,my_pubs$doi)
+#my_pubs$preprint <- mapply(add_doi_links,'Preprint',my_pubs$preprint)
+#my_pubs$journal <- gsub(my_pubs$journal,my_pubs$journal,paste('*',my_pubs$journal,'*',sep=''))
+
+make_output <- function(title,author,journal,preprint){
+  publication <- paste('*', title, "\n", author, journal)
+  if (!is.na(preprint)){
+  publication <- paste(publication, preprint)
+  }
+  publication
+  }
+
+```
+
+```{r,results='asis',message=FALSE,warning=FALSE,echo=FALSE,eval=F}
+# Set eval to ture to add preprint
+cat("## Preprint\n")
+
+my_preprint <- ReadBib('preprints.bib')
+#my_preprint <-GetDOIs(my_preprint)
+my_preprint <- as.data.frame(my_preprint)
+my_preprint <- my_preprint[order(my_preprint$no,decreasing = TRUE),]
+my_preprint$preprint <- NA
+#my_preprint$author <- "Markus G Stetter, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra"
+for (i in 2:length(my_preprint$title)){
+  my_preprint$author[i] <- correct_author(my_preprint$author[i],'Markus G Stetter')
+  my_preprint$title[i] <- add_doi_links(my_preprint$title[i],my_preprint$doi[i])
+  my_preprint$preprint[i] <- add_doi_links('Preprint',my_preprint$preprint[i])
+  my_preprint$journal[i] <- gsub(my_preprint$journal[i],my_preprint$journal[i],paste('*',my_preprint$journal[i],'*',sep=''))
+  cat(make_output(my_preprint$title[i],my_preprint$author[i],my_preprint$journal[i],my_preprint$preprint[i]))
+  cat('\n\n')
+}
+```
+
+
+```{r,results='asis',message=FALSE,warning=FALSE,echo=FALSE,eval=F}
+my_pubs <- ReadBib('publications.bib')
+my_pubs <-GetDOIs(my_pubs)
+#write.bib(my_pubs,'test.bib')
+my_pubs <- as.data.frame(my_pubs)
+my_pubs <- my_pubs[order(my_pubs$no,decreasing = TRUE),]
+
+years <- unique(my_pubs$year)
+for (y in years){
+  year <- subset(my_pubs, year==y,drop = TRUE)
+  cat(paste('##',y,sep=''))
+  cat('\n\n')
+  for (i in 1:length(year$title)){
+    year$author[i] <- correct_author(year$author[i],'Markus G Stetter')
+    year$title[i] <- add_doi_links(year$title[i],year$doi[i])
+    year$preprint[i] <- paste0('[Preprint](',year$preprint[i],')')
+    year$journal[i] <- gsub(year$journal[i],year$journal[i],paste('*',year$journal[i],'*',sep=''))
+    cat(make_output(year$title[i],year$author[i],year$journal[i],year$preprint[i]))
+    cat('\n\n')
+  }
+}
+```
+
+
+
+
+```{r,echo=FALSE}
+#\* Data retrieved from google scholar
+```
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96594188-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

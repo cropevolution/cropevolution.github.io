@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Current lab members</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
+<!-- Slideshow container -->
+<div class="slideshow-container" ></div>
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <img id="myPicture1" src="" style="width:100%; margin:0; padding:0">
+ <!--    <div class="text">Amarath and maize in the field</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <img id="myPicture2" src="" style="width:100%">
+ <!--    <div class="text">Amaranth seedlings for genotyping</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <img id="myPicture3" src="" style="width:100%">
+ <!--    <div class="text">Amaranth flower closeup</div> -->
+  </div>
+
+
+  <!-- Next and previous buttons -->
+<!--  <a class="prev" onclick="plusSlides(-1)">&#10094;</a> -->
+<!--  <a class="next" onclick="plusSlides(1)">&#10095;</a> -->
+<!-- </div> -->
+<br>
+
+<!-- The dots/circles -->
+<!-- <div style="text-align:center"> -->
+<!--  <span class="dot" onclick="currentSlide(1)"></span>  -->
+<!--  <span class="dot" onclick="currentSlide(2)"></span>  -->
+<!--  <span class="dot" onclick="currentSlide(3)"></span>  -->
+<!-- </div> -->
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1} 
+    slides[slideIndex-1].style.display = "block"; 
+    setTimeout(showSlides, 4000); // Change image every 2 seconds
+}
+
+
+  var myPix = new Array("own_images/amarant_banner.jpg","own_images/labels_banner.jpg","own_images/flower_banner.jpg","own_images/polygenic_banner.jpg");
+window.onload = shuffle(myPix);
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+
+  document.getElementById("myPicture1").src = array[0];
+  document.getElementById("myPicture2").src = array[1];
+  document.getElementById("myPicture3").src = array[2];
+};
+
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#252e39"
+    },
+    "button": {
+      "background": "#14a7d0"
+    }
+  }
+})});
+</script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Stetter Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="people.html">
+    <span class="ion ion-android-contacts"></span>
+     
+    People
+  </a>
+</li>
+<li>
+  <a href="research.html">
+    <span class="ion ion-erlenmeyer-flask"></span>
+     
+    Research
+  </a>
+</li>
+<li>
+  <a href="publications.html">
+    <span class="ion ion-document-text"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="reading.html">
+    <span class="ion ion-ios-book"></span>
+     
+    C.R.O.P.
+  </a>
+</li>
+<li>
+  <a href="news.html">
+    <span class="ion ion-flash"></span>
+     
+    News
+  </a>
+</li>
+<li>
+  <a href="contact.html">
+    <span class="ion ion-android-contact"></span>
+     
+    Contact
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://twitter.com/mgstetter">
+    <span class="fa fa-twitter"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Current lab members</h1>
+
+</div>
+
+
+<p>Please contact us if you are interested in joining the lab.</p>
+<!-- break -->
+<p><br> <!-- break --></p>
+<div style="float: left">
+<p><img src="own_images/me_2016.jpg" style="width: 100px ;border:10px solid white"></p>
+</div>
+<strong>Markus Stetter</strong>
+<div style="float: left">
+<p><a href="https://twitter.com/mgstetter"><img src="own_images/Twitter_logo_blue.png" style="width: 20px;"></a><a href="http://mstetter.github.io"><img src="own_images/Home_icon_black.png" style="width: 20px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="own_images/scholar.png" style="width: 30px;"></a><a href="http://github.com/mstetter"><img src="own_images/GitHub-Mark-32px.png" style="width:20px;"></a></p>
+</div>
+<p>Building a lab and trying to do cool science <a href="about.html">read more</a></p>
+<!-- break -->
+<p><br> <br> <br> <br> <br> <!-- break --></p>
+<div style="float: left">
+<p><img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white"></p>
+</div>
+<strong>Maybe you?</strong>
+<div style="float: left">
+
+</div>
+<p>Contact me if you are interested in joining the lab. <a href="mailto:mgstetter@gmail.com">contact me</a></p>
+<!-- break -->
+<p><br> <br> <br> <br> <br> <!-- break --></p>
+
+
+<p>	&copy; Markus Stetter 2018 <A HREF="impressum.html">Impressum</A> </p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

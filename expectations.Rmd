@@ -1,0 +1,94 @@
+<!-- break -->
+<br>
+<!-- break -->
+
+As young scientist myself, I have the PhD and postdoc time in fresh memory. My goal is to pass on the numerous great experiences and implement some of the ideas and inspirations I have gotten along the way. Everyone in the lab should get the training and opportunities they need to follow their curiosity and advance in their chosen career path. My task is to create the environment in which we can collaboratively advance. Below you can find information on the lab philosophy and expectations of lab members. Text and ideas in places borrow heavily from [Jeff Ross-Ibarra](http://www.rilab.org/expectations.html) and [Rubén Rellán-Álvarez](http://www.rrlab.org/expectations.html).
+
+## General Rules
+
+### Safety first
+
+Your health and safety are more important than your research. This includes adhering to lab safety codes, as well as maintaining your physical and mental health. Never work in the lab if you are feeling sick, under medication that might affect your ability to work normally and definitely not under the effects of any kind of drugs. Avoid working in the lab by yourself doing potentially dangerous activities.
+
+### Respect
+
+I expect lab members to contribute to a productive and friendly environment conducive to learning and research. This includes treating your colleagues with respect, listening to others’ viewpoints and ideas, and ensuring the lab is a place where everybody feels welcome and appreciated. Racist, sexist, or other inappropriate comments or behavior will not be tolerated under any circumstance.
+
+## General lab functioning
+- We use slack for lab internal communication
+- The use of shared project management tools (e.g. trello) is encouraged.
+- We have regular lab meetings and journal clubs where every lab member participates
+- We write manuscripts in latex (unless there is a really good reason not to)
+- Everyone is encouraged to take notes during meetings
+- We use shared repositories to manage code and analysis notebooks
+- We post preprints and publish open access
+
+## Expectations (for all members)
+
+#### Work hours
+In general the time spent in the lab or working on your projects is not the most important factor, the progress is what counts. That being said, there is usually some correlation between productivity and time investment.
+We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours during the work week, since this is when most academic activities occur. There may be times when you feel like your project requires work late at night or on the weekends, but you are *not* expected to regularly work more than the normal work time in your contract.  It is important that you take time off for personal life, vacations, etc. I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.
+
+#### Seminars, journal clubs and other lab and institutional activities   
+Attendance to regular weekly lab meetings and journal club is expected of all lab members. Participation in weekly lab coffee is encouraged but not required. 
+
+#### Conferences
+Everyone is encouraged to attend at least one conference a year. Members of the lab regularly attend such meetings as the maize meeting, SMBE, ESEB, GPZ meetings and other national and international meetings. CEPLAS and other sources offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks. Each PhD student should be able to attend one conference per year after the first year and present their results at least one large international conference during their PhD. Postdocs are encouraged to attend at least one conference per year.
+
+#### Authorship
+We follow the [IJME rules for authorship rules](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html):   
+1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND  
+2. Drafting the work or revising it critically for important intellectual content; AND  
+3. Final approval of the version to be published; AND  
+4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+Projects evolve over time and authorship, inclusion and author order will be re-evaluated accordingly.
+
+#### Open Science
+I feel strongly that open science is important. We publish preprints as soon as a manuscript is ready for submission.  We publish our data as soon as we can. We document our work -- with github, R markdown, readme files, etc. -- so it is intelligible and reusable in the future. I expect members of the lab to practice open science.
+
+
+## Specific rules for the different members of the lab
+
+### Postdocs and senior PhD students  
+
+#### My responsibilities to postdocs and senior PhD students:  
+
+
+- Meet weekly (or bi-weekly if preferred) to discuss progress & pitfalls. 
+- Help interpreting results.
+- Proof-read manuscripts in an acceptable amount of time (aiming for within 2 weeks)
+- Assist with identifying and writing postdoctoral fellowships.  
+- Develop project ideas, including independent projects that can be taken with the postdoc.
+- Discuss future career goals (e.g., do you want to teach, go into academia, industry, continue in research?), and plan ways to facilitate these goals.
+ 
+
+#### Expectations of postdocs and senior PhD students:
+- Prepare for our regular progress/pitfalls meetings
+- Write and submit manuscripts.  I strongly encourage collaboration within the lab and with other labs. On average I expect your time as a postdoc in the lab to generate ~1-2 papers per year (first or co-authored), and in general this expectation seems to be not unreasonable.
+- Proof-read manuscripts from other lab members.  
+- Apply for external funding (either individual postdoc fellowships or contributing to larger lab grant writing).  
+- Maintain a set of lab notes, including directories of data, annotated codes & versions, detailed methods. These need to be sufficient to reproduce results without additional instructions.
+- Active participation in meetings (others will appreciate your feedback)
+- Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors). 
+- Participate in talk rehearsals of your colleagues.
+- Optional, but encouraged: Mentor at least one undergraduate student.
+
+### Master and junior PhD students
+
+#### My responsibilities to Master and junior PhD students:
+
+- Develop project ideas.   
+- Help interpreting results.  
+- Proof-read and contribute to writing of thesis, abstracts and manuscripts.  
+- Discuss future career goals (e.g., do you want to teach, go into academia, continue in research?), and plan ways to facilitate these goals.  
+- Meet weekly to discuss progress and pitfalls.
+
+#### Expectations of Master and junior PhD students:  
+
+- Prepare for our regular progress/pitfalls 
+- Write and submit manuscripts.  On average, I expect most students to produce three publications over the course of their PhD, including at least one first-author paper. 
+- Maintain a set of lab notes, including directories of data, annotated codes & versions, detailed methods. These need to be sufficient to reproduce results without additional instructions.
+- Write thesis in due time.  
+- Participate in talk rehearsals of your colleagues.  
+- Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors, communal sampling and field work etc). 
+- Present research talks/posters at conferences over the course of your time in the lab. You are encouraged to do so annually, but this isn't always possible.

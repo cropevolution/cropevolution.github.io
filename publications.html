@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
+<!-- Slideshow container -->
+<div class="slideshow-container" ></div>
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <img id="myPicture1" src="" style="width:100%; margin:0; padding:0">
+ <!--    <div class="text">Amarath and maize in the field</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <img id="myPicture2" src="" style="width:100%">
+ <!--    <div class="text">Amaranth seedlings for genotyping</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <img id="myPicture3" src="" style="width:100%">
+ <!--    <div class="text">Amaranth flower closeup</div> -->
+  </div>
+
+
+  <!-- Next and previous buttons -->
+<!--  <a class="prev" onclick="plusSlides(-1)">&#10094;</a> -->
+<!--  <a class="next" onclick="plusSlides(1)">&#10095;</a> -->
+<!-- </div> -->
+<br>
+
+<!-- The dots/circles -->
+<!-- <div style="text-align:center"> -->
+<!--  <span class="dot" onclick="currentSlide(1)"></span>  -->
+<!--  <span class="dot" onclick="currentSlide(2)"></span>  -->
+<!--  <span class="dot" onclick="currentSlide(3)"></span>  -->
+<!-- </div> -->
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1} 
+    slides[slideIndex-1].style.display = "block"; 
+    setTimeout(showSlides, 4000); // Change image every 2 seconds
+}
+
+
+  var myPix = new Array("own_images/amarant_banner.jpg","own_images/labels_banner.jpg","own_images/flower_banner.jpg","own_images/polygenic_banner.jpg");
+window.onload = shuffle(myPix);
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+
+  document.getElementById("myPicture1").src = array[0];
+  document.getElementById("myPicture2").src = array[1];
+  document.getElementById("myPicture3").src = array[2];
+};
+
+
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#252e39"
+    },
+    "button": {
+      "background": "#14a7d0"
+    }
+  }
+})});
+</script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Stetter Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="people.html">
+    <span class="ion ion-android-contacts"></span>
+     
+    People
+  </a>
+</li>
+<li>
+  <a href="research.html">
+    <span class="ion ion-erlenmeyer-flask"></span>
+     
+    Research
+  </a>
+</li>
+<li>
+  <a href="publications.html">
+    <span class="ion ion-document-text"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="reading.html">
+    <span class="ion ion-ios-book"></span>
+     
+    C.R.O.P.
+  </a>
+</li>
+<li>
+  <a href="news.html">
+    <span class="ion ion-flash"></span>
+     
+    News
+  </a>
+</li>
+<li>
+  <a href="contact.html">
+    <span class="ion ion-android-contact"></span>
+     
+    Contact
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://twitter.com/mgstetter">
+    <span class="fa fa-twitter"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="publications" class="section level1">
+<h1>Publications <a href="http://scholar.google.com/citations?user=yYKVZQQAAAAJ"><img src="own_images/scholar.png" style="width: 80px;"></a></h1>
+<p>   </p>
+<div id="preprint" class="section level2">
+<h2>Preprint</h2>
+<p>(Next one hopefully coming soon)</p>
+</div>
+<div id="section" class="section level2">
+<h2>2018</h2>
+<ul>
+<li><p><a href="http://dx.doi.org/10.1371/journal.pgen.1007794">Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima</a><br />
+<strong>Markus G Stetter</strong>, Kevin Thornton and Jeffrey Ross-Ibarra <em>PLOS Genetics</em> <a href="http://dx.doi.org/10.1101/313247">Preprint</a></p></li>
+<li><p><a href="http://dx.doi.org/10.1007/s00122-018-3138-y">From Zero to Hero: The past, present and future of grain amaranth breeding</a><br />
+Dinesh C Joshi, Salej Sood, Rajashekara H, Lakshmi Kant, A Pattanayak, Anil Kumar, Dinesh Yadav and <strong>Markus G Stetter</strong> <em>Theoretical and Applied Genetics</em> <a href="articles/Joshi2018.pdf">PDF</a></p></li>
+<li><p><a href="http://dx.doi.org/10.1002/ajb2.1002">Adaptation in plant genomes: Bigger is different</a><br />
+Wenbin Mei, <strong>Markus G Stetter</strong>, Daniel J. Gates, Michelle C. Stitzer and Jeffrey Ross-Ibarra <em>American Journal of Botany</em> <a href="https://www.biorxiv.org/content/early/2017/10/10/196501">Preprint</a></p></li>
+</ul>
+</div>
+<div id="section-1" class="section level2">
+<h2>2017</h2>
+<ul>
+<li><p><a href="http://dx.doi.org/10.1016/j.cub.2017.06.048">How to make a domesticate</a><br />
+<strong>Markus G Stetter</strong>, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra <em>Current Biology</em> <a href="10.7287/peerj.preprints.2902v1">Preprint</a></p></li>
+<li><p><a href="http://dx.doi.org/10.1016/j.ympev.2016.12.029">Analysis of phylogenetic relationships and genome size evolution of the Amaranthus genus using GBS indicates the ancestors of an ancient crop</a><br />
+<strong>Markus G Stetter</strong> and Karl J Schmid <em>Molecular Phylogenetics and Evolution</em> <a href="http://dx.doi.org/10.1101/085472">Preprint</a></p></li>
+<li><p><a href="http://dx.doi.org/10.7717/peerj.2891">Increased root hair density by loss of WRKY6 in Arabidopsis thaliana</a><br />
+<strong>Markus G Stetter</strong>, Martin Benz and Uwe Ludewig <em>PeerJ</em> <a href="http://dx.doi.org/10.7287/peerj.preprints.2267v1">Preprint</a></p></li>
+<li><p><a href="http://dx.doi.org/10.1111/mec.13974">Genomic and phenotypic evidence for an incomplete domestication of South American grain amaranth (Amaranthus caudatus)</a><br />
+<strong>Markus G Stetter</strong>, Thomas Müller and Karl J Schmid <em>Molecular Ecology</em> <a href="http://dx.doi.org/10.1101/025866">Preprint</a></p></li>
+</ul>
+</div>
+<div id="section-2" class="section level2">
+<h2>2016</h2>
+<ul>
+<li><a href="http://dx.doi.org/10.3389/fpls.2016.00816">Crossing methods and cultivation conditions for rapid production of segregating populations in three grain amaranth species</a><br />
+<strong>Markus G Stetter</strong>, Leo Zeitler, Adrian Steinhaus, Karoline Kroener, Michelle Biljecki and Karl J Schmid <em>Frontiers in Plant Science</em> <a href="http://dx.doi.org/10.7287/peerj.preprints.1951v1">Preprint</a></li>
+</ul>
+</div>
+<div id="section-3" class="section level2">
+<h2>2015</h2>
+<ul>
+<li><p><a href="http://dx.doi.org/10.1007/s10265-015-0733-8">Regulation of length and density of Arabidopsis root hairs by ammonium and nitrate</a><br />
+Thomas Vatter, Benjamin Neuhäuser, <strong>Markus G Stetter</strong> and Uwe Ludewig <em>Journal of plant research</em></p></li>
+<li><p><a href="http://dx.doi.org/10.1371/journal.pone.0120604">Uncovering genes and ploidy involved in the high diversity in root hair density, length and response to local scarce phosphate in Arabidopsis thaliana</a><br />
+<strong>Markus G Stetter</strong>, Karl Schmid and Uwe Ludewig <em>PLOS one</em></p></li>
+</ul>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96594188-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</div>
+</div>
+
+
+<p>	&copy; Markus Stetter 2018 <A HREF="impressum.html">Impressum</A> </p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
