@@ -92,3 +92,15 @@ I feel strongly that open science is important. We publish preprints as soon as 
 - Participate in talk rehearsals of your colleagues.  
 - Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors, communal sampling and field work etc). 
 - Present research talks/posters at conferences over the course of your time in the lab. You are encouraged to do so annually, but this isn't always possible.
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-96594188-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-96594188-4');
+</script>

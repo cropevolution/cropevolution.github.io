@@ -16,3 +16,14 @@ Until this (imaginary) journal club actually exists I will try to put up a weekl
 
 #### Thursday November 29
 [Kelleher et al preprint](https://www.biorxiv.org/content/early/2018/11/01/458067) Inferring the ancestry of everyone
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-96594188-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-96594188-4');
+</script>
