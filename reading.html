@@ -20,9 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
 <!-- Slideshow container -->
 <div class="slideshow-container" ></div>
@@ -124,10 +126,12 @@ window.cookieconsent.initialise({
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -182,6 +186,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -342,7 +349,7 @@ $(document).ready(function () {
 
 
 <p> </p>
-<p>This page is intended for our future weekly journal club. The format for this journal club will probably be informal in a bar or coffee place with open discussion on the paper and beyond in a relaxed atmosphere. Anybody will be invited to join us. Until this (imaginary) journal club actually exists I will try to put up a weekly paper that I would suggest.</p>
+<p>This page is intended for our future weekly journal club. The format for this journal club will probably be informal in a coffee place or pub with open discussion on the paper and beyond in a relaxed atmosphere. Anybody will be invited to join us. Until this (imaginary) journal club actually exists I will try to put up a weekly paper that I would suggest.</p>
 <div id="december" class="section level3">
 <h3>December</h3>
 <div id="thursday-december-6" class="section level4">

@@ -14,8 +14,12 @@ Your health and safety are more important than your research. This includes adhe
 
 I expect lab members to contribute to a productive and friendly environment conducive to learning and research. This includes treating your colleagues with respect, listening to others’ viewpoints and ideas, and ensuring the lab is a place where everybody feels welcome and appreciated. Racist, sexist, or other inappropriate comments or behavior will not be tolerated under any circumstance.
 
+## Work 
+Our lab is mostly a dry lab, meaning that we mostly work computational, but depending on the project wet lab and greenhouse experiments are involved from time to time. A perfect day in the lab (hopefully) starts with a cup of coffee, before checking on your plants in the greenhouse on the roof of the building. After, you sit down in front of your computer (Linux or Mac), you log onto the computing cluster, and realize that all the jobs you started the day before, finished successfully. All excited about the new results, you open R and make a wonderful plot that you share with your lab during lab meeting. Your lab fellows give you great feedback that motivates you for the next analysis and to write a manuscript. Somewhere in between all that you've also taken a lunch break and maybe someone brought cookies to the lab. Of course, not every day is perfect, but these are some of the things we do. If that sounds like a good work day to you, or includes things that you would like to do/learn, our lab is a good place for you.
+
+
 ## General lab functioning
-- We use slack for lab internal communication
+- We use Slack for lab internal communication
 - The use of shared project management tools (e.g. trello) is encouraged.
 - We have regular lab meetings and journal clubs where every lab member participates
 - We write manuscripts in latex (unless there is a really good reason not to)

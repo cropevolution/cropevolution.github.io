@@ -20,9 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
 <!-- Slideshow container -->
 <div class="slideshow-container" ></div>
@@ -124,10 +126,12 @@ window.cookieconsent.initialise({
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -182,6 +186,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -354,10 +361,14 @@ $(document).ready(function () {
 <p>I expect lab members to contribute to a productive and friendly environment conducive to learning and research. This includes treating your colleagues with respect, listening to others’ viewpoints and ideas, and ensuring the lab is a place where everybody feels welcome and appreciated. Racist, sexist, or other inappropriate comments or behavior will not be tolerated under any circumstance.</p>
 </div>
 </div>
+<div id="work" class="section level2">
+<h2>Work</h2>
+<p>Our lab is mostly a dry lab, meaning that we mostly work computational, but depending on the project wet lab and greenhouse experiments are involved from time to time. A perfect day in the lab (hopefully) starts with a cup of coffee, before checking on your plants in the greenhouse on the roof of the building. After, you sit down in front of your computer (Linux or Mac), you log onto the computing cluster, and realize that all the jobs you started the day before, finished successfully. All excited about the new results, you open R and make a wonderful plot that you share with your lab during lab meeting. Your lab fellows give you great feedback that motivates you for the next analysis and to write a manuscript. Somewhere in between all that you’ve also taken a lunch break and maybe someone brought cookies to the lab. Of course, not every day is perfect, but these are some of the things we do. If that sounds like a good work day to you, or includes things that you would like to do/learn, our lab is a good place for you.</p>
+</div>
 <div id="general-lab-functioning" class="section level2">
 <h2>General lab functioning</h2>
 <ul>
-<li>We use slack for lab internal communication</li>
+<li>We use Slack for lab internal communication</li>
 <li>The use of shared project management tools (e.g. trello) is encouraged.</li>
 <li>We have regular lab meetings and journal clubs where every lab member participates</li>
 <li>We write manuscripts in latex (unless there is a really good reason not to)</li>
