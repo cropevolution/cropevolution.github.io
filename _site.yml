@@ -2,9 +2,9 @@ name: "my-website"
 navbar:
   title: "Stetter Lab"
   left:
-    - text: "Home"
-      href: index.html
-      icon: fa-home
+#    - text: "Home"
+#      href: index.html
+#      icon: ion-home
     - text: "People"
       icon: ion-android-contacts
       href: people.html
