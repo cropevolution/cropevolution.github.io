@@ -15,7 +15,7 @@ One Shields Ave
 Davis, CA 95616  
 mail: [mstetter(a)ucdavis.edu](mailto:mstetter@ucdavis.edu)  
 twitter: [\@mgstetter](https://twitter.com/mgstetter)  
-web: [mstetter.github.io](mstetter.github.io)
+web: [mstetter.github.io](https://mstetter.github.io)
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
