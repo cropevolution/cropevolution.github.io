@@ -3,7 +3,7 @@ title: "What we study"
 ---
 &nbsp;
 
-# Crop evolution
+## Crop evolution
 Crop evolution combines the domestication of wild plants and the consecutive adaptation of crops to new enviromnemt outside of their ancestors origin during their spread across the globe.
 The domestication of crops was the foundation for modern societies and has taken place across the globe over the last 10,000 years. Humans selected consciously and unconsciously for traits that made wild plants more favourable for human use.
 The strong selection transformed a number of common traits across species, such as reduced seed shattering, increased seed size, changed seed color, and modified plant architecture. Together these traits are referred to as the domestication syndrome. 
@@ -12,7 +12,7 @@ While almost 2,000 have been cultivated in human history, only few crops are ful
 The lab studies crops along the spectrum of domestication, with the maybe strongest domesticated crop, maize on the one hand, and the only partially domesticated grain amaranth on the other hand, to understand how plants adapt and what hinders them to adapt.
 
 
-# Polygenic adaptation
+## Polygenic adaptation
 
 How adaptation proceeds is a fundamental question in evolutionary genetics.
 While it has been assumed for a long time that plants adapt mostly via few mutation in key genes, it is now well appreciated that adaptation and evolution depends on a complex network of factors.
@@ -28,8 +28,9 @@ Understanding how populations adapt to changing environments is essential to be 
 Crop domestication is a well-suited model to study polygenic adaptation, because strong selection shaped the phenotype of crops in evolutionary short time.
 Additionally, for many crops, such as maize, phenotype and genotype data is available for a large number of individuals over many generations.
 
+# Our models
 
-# Domestication genomics of amaranth
+## Domestication genomics of amaranth
 
 The genus Amaranthus comprises several crop species that are potentially only partially domesticated. Additionally, grain amaranth seeds have a high nutritional value and the crop has high potential to contribute to human nutrition in the future. Together, these characteristics make the genus, and in particular grain amaranth, interesting models to study domestication, genome evolution and crop adaptation.
 
@@ -48,6 +49,19 @@ Therefore, the genomic and phenotypic signatures of amaranth domestication diffe
 ```
 
 ![](own_images/map_dom_scenario.png)
+
+## Expansion of maize across the globe
+Maize is one of the most important crops in the world and has spread across the globe after its domestication in Mexico.
+This fast expansion required adaptation to a variety of climates and cropping systems and included different source population.
+Maize, e.g. entered Europe along a northern and a southern route, brought back from the Americas by early European explorers. 
+These introduction routes can be traced, looking at the genomes of traditional European landraces.
+
+We are interested in the evolutionary consequences of maize expansion and in particular accumulation of deleterious alleles as a result of small founder populations and intense selection.
+We also make use of genomic data from doubled haploid libraries, generated from heterozygous maize landraces, and experimental populations to study the impact of negative alleles.
+
+
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96594188-4"></script>
 <script>
