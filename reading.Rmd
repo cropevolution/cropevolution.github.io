@@ -6,9 +6,12 @@ title: "What we read"
 This page is intended for our future weekly journal club. 
 The format for this journal club will probably be informal in a coffee place or pub with open discussion on the paper and beyond in a relaxed atmosphere. 
 Anybody will be invited to join us.
-Until this (imaginary) journal club actually exists I will try to put up a weekly paper that I would suggest.
+Until this (for now virtual) journal club actually exists I will try to put up a weekly paper that I would suggest, feel free to email me for discssion, questions or suggesions.
 
 ### December 
+#### Thursday November 15
+[Weng et al 2018](http://www.genetics.org/content/early/2018/12/04/genetics.118.301721) Fine-Grained Analysis of Spontaneous Mutation Spectrum and Frequency in Arabidopsis thaliana
+
 #### Thursday December 6
 [Mieulet et al. 2018](https://www.nature.com/articles/s41477-018-0311-x.epdf?author_access_token=xkzOA83JbiSoU_JcVl-jntRgN0jAjWel9jnR3ZoTv0Ns64ESdcFnXqL2H6X2hOFO74BnjG-JklRF4Wbzm1M5_mixFqX7kt5fUEIyqVSE6l8VRhsCCo5jwGw3gxKZ-XSg4c4mto3kDdAQVTl0uW8nBA%3D%3D) Unleashing meiotic crossovers in crops
 
