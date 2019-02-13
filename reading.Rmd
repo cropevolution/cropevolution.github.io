@@ -9,6 +9,10 @@ Anybody will be invited to join us.
 Until this journal club actually exists (starting in March 2019) I will put up a weekly paper that I would suggest, feel free to email me for discssion, questions or suggesions.
 
 ### February 
+
+#### Thursday February 7
+[Yeaman, et al 2018](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007717) Quantifying how constraints limit the diversity of viable routes to adaptation
+
 #### Thursday February 7
 [Chen, et al 2019](https://www.pnas.org/content/116/6/2158) Allele frequency dynamics in a pedigreed natural population
 
