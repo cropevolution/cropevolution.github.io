@@ -10,7 +10,13 @@ Until this journal club actually exists (starting in March 2019) I will put up a
 
 ### February 
 
-#### Thursday February 7
+#### Thursday February 28
+[Mackintosh, et al preprint](https://www.biorxiv.org/content/10.1101/534123v1) The determinants of genetic diversity in butterflies - Lewontin's paradox revisited
+
+#### Thursday February 21
+[ Haenel, et al 2018](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14699) Meta‐analysis of chromosome‐scale crossover rate variation in eukaryotes and its significance to evolutionary genomics
+
+#### Thursday February 14
 [Yeaman, et al 2018](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007717) Quantifying how constraints limit the diversity of viable routes to adaptation
 
 #### Thursday February 7
