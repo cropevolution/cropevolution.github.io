@@ -6,7 +6,8 @@
 
 
 ## Preprint
-(Next one hopefully coming soon)
+* [Convergent seed color adaptation during repeated domestication of an ancient new world grain](https://www.biorxiv.org/content/10.1101/547943v1)  
+ **Markus G Stetter**, M Vidal-Villarejo and K Schmid *bioRxiv*
 
 ##2018
 * [Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](http://dx.doi.org/10.1371/journal.pgen.1007794)  
