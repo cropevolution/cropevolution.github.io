@@ -2,7 +2,8 @@
 title: "News"
 ---
 &nbsp;
-
+- **March 1** We are officially open for business
+- **February 13** New preprint online. Read it [here](https://www.biorxiv.org/content/10.1101/547943v1)
 - **December 20** Open PhD student position in the lab [read more](files/phd_offer2018.pdf)
 - **November 27** lab website comes to life
 

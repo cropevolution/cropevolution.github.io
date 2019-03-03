@@ -6,10 +6,13 @@ title: "What we read"
 This page is intended for our future weekly journal club. 
 The format for this journal club will probably be informal in a coffee place or pub with open discussion on the paper and beyond in a relaxed atmosphere. 
 Anybody will be invited to join us.
-Until this journal club actually exists (starting in March 2019) I will put up a weekly paper that I would suggest, feel free to email me for discssion, questions or suggesions.
+Until this journal club actually exists (starting late March 2019) I will put up a weekly paper that I would suggest, feel free to email me for discssion, questions or suggesions.
+
+### March 
+#### Thursday March 7
+[Buffalo and Coop preprint](https://www.biorxiv.org/content/10.1101/559419v1) The Linked Selection Signature of Rapid Adaptation in Temporal Genomic Data
 
 ### February 
-
 #### Thursday February 28
 [Mackintosh, et al preprint](https://www.biorxiv.org/content/10.1101/534123v1) The determinants of genetic diversity in butterflies - Lewontin's paradox revisited
 
