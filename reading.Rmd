@@ -9,6 +9,16 @@ Anybody will be invited to join us.
 Until this journal club actually exists (starting late March 2019) I will put up a weekly paper that I would suggest, feel free to email me for discssion, questions or suggesions.
 
 ### March 
+
+#### Thursday March 28
+[Athanasiadis et al preprint](https://www.biorxiv.org/content/10.1101/581389v1) Estimating narrow-sense heritability from genome-wide data in admixed populations
+
+#### Thursday March 21
+[Marand et al 2019](http://www.genetics.org/content/early/2019/03/18/genetics.119.302036) Residual Heterozygosity and Epistatic Interactions Underlie the Complex Genetic Architecture of Yield in Diploid Potato
+
+#### Thursday March 14
+Break
+
 #### Thursday March 7
 [Buffalo and Coop preprint](https://www.biorxiv.org/content/10.1101/559419v1) The Linked Selection Signature of Rapid Adaptation in Temporal Genomic Data
 
