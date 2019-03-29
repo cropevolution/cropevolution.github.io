@@ -38,7 +38,7 @@ The genus Amaranthus comprises several crop species that are potentially only pa
 ![](own_images/hyp_genome_fastAnc_with_BM.png)
 
 Although grain amaranth has been cultivated for over 5,000 years and in the same regions as maize and other domesticated crops, the domestication syndrome is only weakly pronounced. Grain amaranth has tiny seeds that shatter and cultivated amaranth species do not have lower genetic diversity than their wild ancestors.
-Therefore, the genomic and phenotypic signatures of amaranth domestication differ from other, highly domesticated crops that originated from single domestication event. In contrast, the history of cultivated amaranth may include multiregional, multiple and incomplete domestication events with frequent and ongoing gene flow from sympatric relatives.
+Therefore, the genomic and phenotypic signatures of amaranth domestication differ from other, highly domesticated crops that originated from a single domestication. In contrast, the history of cultivated amaranth may include multiregional, multiple and incomplete domestication with frequent and ongoing gene flow from sympatric relatives.
 
 
 
