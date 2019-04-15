@@ -28,6 +28,24 @@ Building a lab and trying to do cool science  [read more](about.html)
 <br>
 <!-- break -->
 
+<div style="float: left">
+<img src="own_images/people/jose.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**José Dias** 
+<div style="float: left">
+</div>
+José is a PhD student studying introgression during grain amaranth domestication and its influence on the crop's genome biology. 
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!-- break -->
 
 <div style="float: left">
 <img src="own_images/people/catia.jpg" style="width: 100px ;border:10px solid white">
