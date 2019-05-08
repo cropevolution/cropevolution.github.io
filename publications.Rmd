@@ -5,11 +5,17 @@
 &nbsp;
 
 
-## Preprint
-* [Convergent seed color adaptation during repeated domestication of an ancient new world grain](https://www.biorxiv.org/content/10.1101/547943v1)  
- **Markus G Stetter**, M Vidal-Villarejo and K Schmid *bioRxiv*
 
-##2018
+## Preprint
+
+* [The temporal dynamics of background selection in non-equilibrium populations](https://www.biorxiv.org/content/10.1101/618389v1)  
+ Raul Torres\*, **Markus G Stetter**\*, Ryan Hernandez and Jeffrey Ross-Ibarra *bioRxiv*
+ 
+* [Convergent seed color adaptation during repeated domestication of an ancient new world grain](https://www.biorxiv.org/content/10.1101/547943v1)  
+ **Markus G Stetter**, Mireia Vidal-Villarejo and Karl Schmid *bioRxiv*  
+
+## 2018
+
 * [Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima](http://dx.doi.org/10.1371/journal.pgen.1007794)  
  **Markus G Stetter**, Kevin Thornton and Jeffrey Ross-Ibarra *PLOS Genetics* [Preprint](http://dx.doi.org/10.1101/313247)
 
@@ -19,7 +25,7 @@
 * [Adaptation in plant genomes: Bigger is different](http://dx.doi.org/10.1002/ajb2.1002)  
  Wenbin Mei, **Markus G Stetter**, Daniel J. Gates, Michelle C. Stitzer and Jeffrey Ross-Ibarra *American Journal of Botany* [Preprint](https://www.biorxiv.org/content/early/2017/10/10/196501)
 
-##2017
+## 2017
 
 * [How to make a domesticate](http://dx.doi.org/10.1016/j.cub.2017.06.048)  
  **Markus G Stetter**, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra *Current Biology* [Preprint](10.7287/peerj.preprints.2902v1)
@@ -33,12 +39,12 @@
 * [Genomic and phenotypic evidence for an incomplete domestication of South American grain amaranth (Amaranthus caudatus)](http://dx.doi.org/10.1111/mec.13974)  
  **Markus G Stetter**, Thomas Müller and Karl J Schmid *Molecular Ecology* [Preprint](http://dx.doi.org/10.1101/025866)
 
-##2016
+## 2016
 
 * [Crossing methods and cultivation conditions for rapid production of segregating populations in three grain amaranth species](http://dx.doi.org/10.3389/fpls.2016.00816)  
  **Markus G Stetter**, Leo Zeitler, Adrian Steinhaus, Karoline Kroener, Michelle Biljecki and Karl J Schmid *Frontiers in Plant Science* [Preprint](http://dx.doi.org/10.7287/peerj.preprints.1951v1)
 
-##2015
+## 2015
 
 * [Regulation of length and density of Arabidopsis root hairs by ammonium and nitrate](http://dx.doi.org/10.1007/s10265-015-0733-8)  
  Thomas Vatter, Benjamin Neuhäuser, **Markus G Stetter** and Uwe Ludewig *Journal of plant research*
@@ -46,6 +52,7 @@
 * [Uncovering genes and ploidy involved in the high diversity in root hair density, length and response to local scarce phosphate in Arabidopsis thaliana](http://dx.doi.org/10.1371/journal.pone.0120604)  
  **Markus G Stetter**, Karl Schmid and Uwe Ludewig *PLOS one*
 
+\*Equal contribution 
 
 
 ```{r,results='asis',message=FALSE,warning=FALSE,echo=FALSE}
