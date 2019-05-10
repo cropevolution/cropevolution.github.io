@@ -18,7 +18,7 @@ Please contact us if you are interested in joining the lab.
 <div style="float: left">
 <a href="https://twitter.com/mgstetter"><img src="own_images/Twitter_logo_blue.png" style="width: 20px;"></a><a href="http://mstetter.github.io"><img src="own_images/Home_icon_black.png" style="width: 20px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="own_images/scholar.png" style="width: 30px;"></a><a href="http://github.com/mstetter"><img src="own_images/GitHub-Mark-32px.png" style="width:20px;"></a>
 </div>
-Building a lab and trying to do cool science  [read more](about.html)  
+Markus is a group leader in the Botanical Institute of the University of Cologne  [read more](about.html)  
 
 <!-- break -->
 <br>
@@ -65,6 +65,30 @@ Cátia is visting the lab to study the evolution of diocey in Amaranthus
 <br>
 
 <!-- break -->
+
+
+
+<div style="float: left">
+<img src="own_images/people/sophie.JPG" style="width: 100px ;border:10px solid white">
+</div>
+
+**Sophie Scherer** 
+<div style="float: left">
+</div>
+Sophie is a biology undergraduate student doing her thesis research in the lab. She is studying the molecular control of seed color variation in amaranth.
+
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!-- break -->
+
+
 
 <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
