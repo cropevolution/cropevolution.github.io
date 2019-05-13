@@ -72,7 +72,7 @@ Cátia is visting the lab to study the evolution of diocey in Amaranthus
 <img src="own_images/people/sophie.JPG" style="width: 100px ;border:10px solid white">
 </div>
 
-**Sophie Scherer** 
+**Sophie Schreiner** 
 <div style="float: left">
 </div>
 Sophie is a biology undergraduate student doing her thesis research in the lab. She is studying the molecular control of seed color variation in amaranth.
