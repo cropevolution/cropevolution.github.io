@@ -9,10 +9,16 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
-### June 
-#### Thursday June 27
+### July
+
+#### Thursday July 4
 [Marin et al preprint](https://www.biorxiv.org/content/biorxiv/early/2018/08/06/385377.full.pdf) Evolutionary inference from QST-FST comparisons: disentangling local
 adaptation from altitudinal gradient selection in snapdragon plants
+
+### June 
+#### Thursday June 27
+Holiday 
+
 #### Thursday June 20
 [Oziolor et al 2019](https://science.sciencemag.org/content/364/6439/455) Adaptive introgression enables evolutionary rescue from extreme environmental pollution
 
