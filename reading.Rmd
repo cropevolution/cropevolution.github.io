@@ -10,6 +10,14 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 ### June 
+#### Thursday June 27
+[Marin et al preprint](https://www.biorxiv.org/content/biorxiv/early/2018/08/06/385377.full.pdf) Evolutionary inference from QST-FST comparisons: disentangling local
+adaptation from altitudinal gradient selection in snapdragon plants
+#### Thursday June 20
+[Oziolor et al 2019](https://science.sciencemag.org/content/364/6439/455) Adaptive introgression enables evolutionary rescue from extreme environmental pollution
+
+#### Thursday June 13
+[Marand et al 2019](http://www.plantcell.org/content/plantcell/early/2019/01/31/tpc.18.00750.full.pdf) Historical Meiotic Crossover Hotspots Fueled Patterns of Evolutionary Divergence in Rice
 
 #### Thursday June 6
 [ Stankowski et al preprint](https://www.biorxiv.org/content/10.1101/342352v3) Widespread selection and gene flow shape the genomic landscape during a radiation of monkeyflowers
