@@ -11,6 +11,14 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### July
 
+#### Thursday July 18
+[Gutaker et al 2019](https://www.nature.com/articles/s41559-019-0921-3.epdf?author_access_token=kznXiIAdgFg9lxODJs8hxtRgN0jAjWel9jnR3ZoTv0Ml7gUsC8aCYaDCupeTf4iBjACiGZ4_78WkjD4m9xJXsdGGTXJSAQ9cibBuRA_HJFVyBfxjb1E2BKNDKL2RXRa9mybyBy508AFZNrq0EuAWzQ%3D%3D) 
+The origins and adaptation of European potatoes reconstructed from historical genomes
+
+#### Thursday July 11
+[Moest et al preprint](https://www.biorxiv.org/content/10.1101/685685v1) 
+Classic and introgressed selective sweeps shape mimicry loci across a butterfly adaptive radiation 
+
 #### Thursday July 4
 [Marin et al preprint](https://www.biorxiv.org/content/biorxiv/early/2018/08/06/385377.full.pdf) Evolutionary inference from QST-FST comparisons: disentangling local
 adaptation from altitudinal gradient selection in snapdragon plants
