@@ -11,6 +11,10 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### July
 
+#### Thursday July 25
+[Hermisson and Pennings 2017](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12808) 
+Soft sweeps and beyond: understanding the patterns and probabilities of selection footprints under rapid adaptation
+
 #### Thursday July 18
 [Gutaker et al 2019](https://www.nature.com/articles/s41559-019-0921-3.epdf?author_access_token=kznXiIAdgFg9lxODJs8hxtRgN0jAjWel9jnR3ZoTv0Ml7gUsC8aCYaDCupeTf4iBjACiGZ4_78WkjD4m9xJXsdGGTXJSAQ9cibBuRA_HJFVyBfxjb1E2BKNDKL2RXRa9mybyBy508AFZNrq0EuAWzQ%3D%3D) 
 The origins and adaptation of European potatoes reconstructed from historical genomes
