@@ -9,6 +9,11 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### August
+#### Thursday August 1
+[Apuli et al preprint](https://www.biorxiv.org/content/biorxiv/early/2019/06/10/664037.full.pdf)
+Constructing a high-density linkage map to infer the genomic landscape of recombination rate variation in European Aspen (Populus tremula) 
+
 ### July
 
 #### Thursday July 25
