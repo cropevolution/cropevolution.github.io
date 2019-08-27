@@ -9,7 +9,20 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
+### September
+
+#### Thursday September 3
+[Mattila et al 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5463)
+Impact of demography on linked selection in two outcrossing Brassicaceae species
+
 ### August
+
+
+#### Thursday August 29
+[Yang et al 2019](https://www.pnas.org/content/116/12/5643.short)
+The genetic architecture of teosinte catalyzed and constrained maize domestication
+
 
 #### Thursday August 22
 [Christodoulaki et al preprint](https://www.biorxiv.org/content/10.1101/721340v1.full)
