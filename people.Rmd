@@ -45,12 +45,11 @@ José is a PhD student studying introgression during grain amaranth domesticatio
 <br>
 <br>
 
-<!-- break -->
+
 
 <div style="float: left">
-<img src="own_images/people/catia.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/sophie.JPG" style="width: 100px ;border:10px solid white">
 </div>
-
 
 **Sophie Schreiner** 
 <div style="float: left">
