@@ -51,26 +51,6 @@ José is a PhD student studying introgression during grain amaranth domesticatio
 <img src="own_images/people/catia.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Cátia José Neves** 
-<div style="float: left">
-</div>
-Cátia is visting the lab to study the evolution of dioecy in Amaranthus
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!-- break -->
-
-
-
-<div style="float: left">
-<img src="own_images/people/sophie.JPG" style="width: 100px ;border:10px solid white">
-</div>
 
 **Sophie Schreiner** 
 <div style="float: left">
@@ -125,6 +105,9 @@ Contact me if you are interested in joining the lab. [contact me](mailto:mgstett
 <br>
 <!-- break -->
 
+## Past Visitors
+- Cátia José Neves
+- Sabarna Bhattacharyya
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

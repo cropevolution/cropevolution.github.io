@@ -12,7 +12,13 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### September
 
-#### Thursday September 3
+
+#### Thursday September 12
+[Exposito-Alonso et al 2019](https://www.nature.com/articles/s41586-019-1520-9)
+Natural selection on the Arabidopsis thaliana genome in present and future climates
+
+
+#### Thursday September 5
 [Mattila et al 2019](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5463)
 Impact of demography on linked selection in two outcrossing Brassicaceae species
 

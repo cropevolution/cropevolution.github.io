@@ -28,7 +28,7 @@
 ## 2017
 
 * [How to make a domesticate](http://dx.doi.org/10.1016/j.cub.2017.06.048)  
- **Markus G Stetter**, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra *Current Biology* [Preprint](10.7287/peerj.preprints.2902v1)
+ **Markus G Stetter**, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra *Current Biology* [Preprint](https://peerj.com/preprints/2902)
 
 * [Analysis of phylogenetic relationships and genome size evolution of the Amaranthus genus using GBS indicates the ancestors of an ancient crop](http://dx.doi.org/10.1016/j.ympev.2016.12.029)  
  **Markus G Stetter** and Karl J Schmid *Molecular Phylogenetics and Evolution* [Preprint](http://dx.doi.org/10.1101/085472)
