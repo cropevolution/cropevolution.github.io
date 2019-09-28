@@ -8,6 +8,9 @@
 
 ## Preprint
 
+* [Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize](https://doi.org/10.1101/777623)  
+Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Jeffrey Ross-Ibarra, Edward S. Buckler and Michael A. Gore *bioRxiv*
+
 * [The temporal dynamics of background selection in non-equilibrium populations](https://www.biorxiv.org/content/10.1101/618389v1)  
  Raul Torres\*, **Markus G Stetter**\*, Ryan Hernandez and Jeffrey Ross-Ibarra *bioRxiv*
  
