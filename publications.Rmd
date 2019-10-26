@@ -8,6 +8,9 @@
 
 ## Preprint
 
+* [Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landrace](https://www.biorxiv.org/content/10.1101/817791v1)  
+Leo Zeitler, Jeffrey Ross-Ibarra and **Markus G Stetter**
+
 * [Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize](https://doi.org/10.1101/777623)  
 Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Jeffrey Ross-Ibarra, Edward S. Buckler and Michael A. Gore *bioRxiv*
 
