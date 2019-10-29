@@ -10,7 +10,24 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### November
+
+#### Thursday November 14
+[Ostevik et al preprint](https://www.biorxiv.org/content/10.1101/767970v2.full)
+Asymmetric gene flow causes cascading reproductive isolation
+
+
+#### Thursday November 7
+[Wisser et al 2019](https://www.genetics.org/content/early/2019/10/15/genetics.119.302780)
+The Genomic Basis for Short-Term Evolution of Environmental Adaptation in Maize
+
+
 ### October
+
+#### Thursday October 31
+[Grossen et al preprint](https://www.biorxiv.org/content/10.1101/605147v1.full)
+Accumulation and purging of deleterious mutations through severe bottlenecks in ibex
+
 
 #### Thursday October 24
 [Samuk et al preprint](https://www.biorxiv.org/content/10.1101/787382v1)
