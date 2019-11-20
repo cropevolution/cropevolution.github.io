@@ -11,6 +11,9 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 
 ### November
+#### Thursday November 21
+[Lu et al 2019](https://www.nature.com/articles/s41477-019-0548-z)
+The prevalence, evolution and chromatin signatures of plant regulatory elements
 
 #### Thursday November 14
 [Ostevik et al preprint](https://www.biorxiv.org/content/10.1101/767970v2.full)

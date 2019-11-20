@@ -46,25 +46,6 @@ José is a PhD student studying introgression during grain amaranth domesticatio
 <br>
 
 
-
-<div style="float: left">
-<img src="own_images/people/sophie.JPG" style="width: 100px ;border:10px solid white">
-</div>
-
-**Sophie Schreiner** 
-<div style="float: left">
-</div>
-Sophie is a biology undergraduate student doing her thesis research in the lab. She is studying the molecular control of seed color variation in amaranth.
-
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <!-- break -->
 <div style="float: left">
 <img src="own_images/people/tom.jpg" style="width: 100px ;border:10px solid white">
@@ -103,6 +84,10 @@ Contact me if you are interested in joining the lab. [contact me](mailto:mgstett
 <br>
 <br>
 <!-- break -->
+
+## Lab alumni
+- Sophie Schreiner (BSc student)
+
 
 ## Past Visitors
 - Cátia José Neves
