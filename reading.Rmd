@@ -4,13 +4,18 @@ title: "What we read"
 &nbsp;
 
 C.R.O.P is our weekly journal club for anyone interested in evolution. 
-We meet on Thursdays at 4 pm at [Magnus](https://goo.gl/maps/HTsuGbneog1P3uWs5) for an open discussion about the weekly paper in a relaxed atmosphere. 
+We meet on Thursdays at 4 pm at [Cafe Duddel](https://goo.gl/maps/3FA8MjibbLWhtGJV6) (NEW PLACE!) for an open discussion about the weekly paper in a relaxed atmosphere. 
 Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
 ### November
+
+#### Thursday November 28
+No C.R.O.P
+
+
 #### Thursday November 21
 [Lu et al 2019](https://www.nature.com/articles/s41477-019-0548-z)
 The prevalence, evolution and chromatin signatures of plant regulatory elements
