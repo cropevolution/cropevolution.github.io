@@ -14,11 +14,17 @@ Leo Zeitler, Jeffrey Ross-Ibarra and **Markus G Stetter**
 * [Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize](https://doi.org/10.1101/777623)  
 Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Jeffrey Ross-Ibarra, Edward S. Buckler and Michael A. Gore *bioRxiv*
 
+## 2020
+
 * [The temporal dynamics of background selection in non-equilibrium populations](https://www.biorxiv.org/content/10.1101/618389v1)  
  Raul Torres\*, **Markus G Stetter**\*, Ryan Hernandez and Jeffrey Ross-Ibarra *bioRxiv*
  
-* [Convergent seed color adaptation during repeated domestication of an ancient new world grain](https://www.biorxiv.org/content/10.1101/547943v1)  
- **Markus G Stetter**, Mireia Vidal-Villarejo and Karl Schmid *bioRxiv*  
+## 2019
+
+* [Parallel seed color adaptation during multiple domestication attempts of an ancient new world grain](http://dx.doi.org/10.1093/molbev/msz304) 
+ **Markus G Stetter**, Mireia Vidal-Villarejo and Karl Schmid *MBE*  
+[Preprint](https://www.biorxiv.org/content/10.1101/547943v1)
+
 
 ## 2018
 

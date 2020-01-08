@@ -46,26 +46,7 @@ José is a PhD student studying introgression during grain amaranth domesticatio
 <br>
 
 
-<!-- break -->
-<div style="float: left">
-<img src="own_images/people/tom.jpg" style="width: 100px ;border:10px solid white">
-</div>
 
-**Tom Winkler** 
-<div style="float: left">
-</div>
-
-Tom is a biology undergraduate student conducting his thesis research in the lab. He is identifying transcription factor families in _Amaranthus_ and related species.
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!-- break -->
 
 <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
@@ -87,7 +68,7 @@ Contact me if you are interested in joining the lab. [contact me](mailto:mgstett
 
 ## Lab alumni
 - Sophie Schreiner (BSc student)
-
+- Tom Winkler (BSc student)
 
 ## Past Visitors
 - Cátia José Neves
