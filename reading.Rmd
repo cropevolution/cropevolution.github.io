@@ -11,6 +11,9 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### January
 
+#### Thursday January 16
+No C.R.O.P
+
 #### Thursday January 9
 No C.R.O.P - Machine learning workshop
 
