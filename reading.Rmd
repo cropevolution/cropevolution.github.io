@@ -9,8 +9,17 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
-### January
+### Feburary
 
+#### Thursday Febraury 12
+[Albers and McVean 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000586)
+Dating genomic variants and shared ancestry in population-scale sequencing data
+
+#### Thursday Febraury 6
+[Baduel et al. 2019](https://www.nature.com/articles/s41467-019-13730-0)
+Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation
+
+### January
 
 #### Thursday January 30
 [Gilbert et al. 2020](https://www.sciencedirect.com/science/article/abs/pii/S0960982219315659)
