@@ -9,29 +9,31 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
 ### March
 #### Thursday March 12
 [Vasseur et al 2020](https://journals.plos.org/plosbiology/article/file?type=printable&id=10.1371/journal.pbio.3000214)
+Nonlinear phenotypic variation uncovers the emergence of heterosis in Arabidopsis thaliana
 
 #### Thursday March 5
 [Price et al. 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6002)
 In the presence of population structure: From genomics to candidate genes underlying local adaptation
 
-### Feburary
 
+### February
 
-#### Thursday Febraury 27
+#### Thursday February 27
 [Groen et al. 2020](https://www.nature.com/articles/s41586-020-1997-2)
 The strength and pattern of natural selection on gene expression in rice
 
-#### Thursday Febraury 20
+#### Thursday February 20
 No C.R.O.P - Carnaval 
 
-#### Thursday Febraury 12
+#### Thursday February 12
 [Albers and McVean 2020](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000586)
 Dating genomic variants and shared ancestry in population-scale sequencing data
 
-#### Thursday Febraury 6
+#### Thursday February 6
 [Baduel et al. 2019](https://www.nature.com/articles/s41467-019-13730-0)
 Relaxed purifying selection in autopolyploids drives transposable element over-accumulation which provides variants for local adaptation
 
