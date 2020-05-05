@@ -15,8 +15,9 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 ### May
 
 #### Thursday May 7
-What is ancestry?
+
 [Mathieson and Scally 2020](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008624)
+What is ancestry?
 
 ### March
 
