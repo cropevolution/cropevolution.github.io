@@ -45,8 +45,56 @@ José is a PhD student studying introgression during grain amaranth domesticatio
 <br>
 <br>
 
+<div style="float: left">
+<img src="own_images/people/tom.jpg" style="width: 100px ;border:10px solid white">
+</div>
 
+**Tom Winkler** 
+<div style="float: left">
+</div>
+Tom is a master student studying the genomic distribution of MYB transcription factors in the amaranth genome and their involvement in metabolic pathways
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Kerstin Schulz** 
+<div style="float: left">
+</div>
+Kerstin is CEPLAS graduate student rotating in the lab. Kerstin emplyes ancestral recombination graphs to study the evolution of maize 
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Julio Martinez** 
+<div style="float: left">
+</div>
+Julio is a master student wroking on the molecular validation of domestication genes in grain amaranth.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
