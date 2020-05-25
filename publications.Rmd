@@ -7,23 +7,26 @@
 
 
 ## Preprint
-
-* [Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landrace](https://www.biorxiv.org/content/10.1101/817791v1)  
-Leo Zeitler, Jeffrey Ross-Ibarra and **Markus G Stetter**
+* [Male linked genomic regions determine sex in dioecious *Amaranthus palmeri*]()  
+**Cátia José Neves**, Maor Matzrafi, **Meik Thiele**, Anne Lorant, Mohsen B. Mesgaran and **Markus G. Stetter**
+*bioRxiv*
 
 * [Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize](https://doi.org/10.1101/777623)  
 Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Jeffrey Ross-Ibarra, Edward S. Buckler and Michael A. Gore *bioRxiv*
 
 
 ## 2020
+* [Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landrace](https://www.biorxiv.org/content/10.1101/817791v1)  
+Leo Zeitler, Jeffrey Ross-Ibarra and **Markus G Stetter**
 
-
-* [The temporal dynamics of background selection in non-equilibrium populations](https://www.biorxiv.org/content/10.1101/618389v1)  
- Raul Torres\*, **Markus G Stetter**\*, Ryan Hernandez and Jeffrey Ross-Ibarra *bioRxiv*
+* [The temporal dynamics of background selection in non-equilibrium populations](https://doi.org/10.1534/genetics.119.302892)  
+ Raul Torres\*, **Markus G Stetter**\*, Ryan Hernandez and Jeffrey Ross-Ibarra *Genetics*
+ [Preprint](https://www.biorxiv.org/content/10.1101/618389v1)  
+ 
  
 ## 2019
 
-* [Parallel seed color adaptation during multiple domestication attempts of an ancient new world grain](http://dx.doi.org/10.1093/molbev/msz304) 
+* [Parallel seed color adaptation during multiple domestication attempts of an ancient new world grain](http://dx.doi.org/10.1093/molbev/msz304)  
  **Markus G Stetter**, Mireia Vidal-Villarejo and Karl Schmid *MBE*  
 [Preprint](https://www.biorxiv.org/content/10.1101/547943v1)
 

@@ -14,8 +14,15 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### May
 
+#### Thursday May 28
+[Gutaker et al. 2020](https://www.nature.com/articles/s41477-020-0659-6)
+Genomic history and ecology of the geographic spread of rice
+
+#### Thursday May 21
+Holiday
+
 #### Thursday May 14
-[Molin et al 2020](http://www.plantcell.org/content/early/2020/04/23/tpc.20.00099)
+[Molin et al. 2020](http://www.plantcell.org/content/early/2020/04/23/tpc.20.00099)
 The eccDNA Replicon: A Heritable, Extra-Nuclear Vehicle that Enables Gene Amplification and Glyphosate Resistance in Amaranthus palmeri
 
 #### Thursday May 7
@@ -30,7 +37,7 @@ No C.R.O.P.
 
 
 #### Thursday March 12
-[Vasseur et al 2020](https://journals.plos.org/plosbiology/article/file?type=printable&id=10.1371/journal.pbio.3000214)
+[Vasseur et al. 2020](https://journals.plos.org/plosbiology/article/file?type=printable&id=10.1371/journal.pbio.3000214)
 Nonlinear phenotypic variation uncovers the emergence of heterosis in Arabidopsis thaliana
 
 #### Thursday March 5
