@@ -12,6 +12,12 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### June
+#### Thursday May 28
+[Voichek and Weigel 2020](https://www.nature.com/articles/s41588-020-0612-7)
+Identifying genetic variants underlying phenotypic variation in plants without complete genomes
+
+
 ### May
 
 #### Thursday May 28
