@@ -13,6 +13,7 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 ### June
+
 #### Thursday June 4
 [Voichek and Weigel 2020](https://www.nature.com/articles/s41588-020-0612-7)
 Identifying genetic variants underlying phenotypic variation in plants without complete genomes
