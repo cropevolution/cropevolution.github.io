@@ -14,6 +14,11 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### June
 
+#### Thursday June 18
+[Leder et al 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4327155/)
+The Evolution and Adaptive Potential of Transcriptional Variation in Sticklebacks—Signatures of Selection and Widespread Heritability
+
+
 #### Thursday June 4
 [Voichek and Weigel 2020](https://www.nature.com/articles/s41588-020-0612-7)
 Identifying genetic variants underlying phenotypic variation in plants without complete genomes
