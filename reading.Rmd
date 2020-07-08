@@ -14,6 +14,10 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### July
 
+#### Thursday July 9
+[Choi and Purugganan preprint](https://www.biorxiv.org/content/10.1101/2020.07.04.188102v1)
+Telomere lengths in plants are correlated with flowering time variation
+
 #### Thursday July 2
 [Razifrad et al 2020](https://academic.oup.com/mbe/article/37/4/1118/5679792#201242622)
 Genomic Evidence for Complex Domestication History of the Cultivated Tomato in Latin America
