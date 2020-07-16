@@ -14,6 +14,10 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### July
 
+#### Thursday July 16
+[Zhang et al 2020](https://www.genetics.org/content/215/3/799)
+The Impact of Recessive Deleterious Variation on Signals of Adaptive Introgression in Human Populations
+
 #### Thursday July 9
 [Choi and Purugganan preprint](https://www.biorxiv.org/content/10.1101/2020.07.04.188102v1)
 Telomere lengths in plants are correlated with flowering time variation
