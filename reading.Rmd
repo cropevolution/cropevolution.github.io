@@ -12,6 +12,17 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
+### October
+
+#### Thursday October 8
+[Kreiner et al preprint](https://www.biorxiv.org/content/10.1101/2020.08.19.257972v1)
+The genetic architecture and genomic context of glyphosate resistance
+
+#### Thursday October 1
+[Le Corre et al. 2020](https://www.pnas.org/content/early/2020/09/25/2006633117)
+Adaptive introgression from maize has facilitated the establishment of teosinte as a noxious weed in Europe
+
 ### September
 
 #### Thursday September 24
