@@ -11,7 +11,7 @@ Please contact us if you are interested in joining the lab.
 <!-- break -->
 
 <div style="float: left">
-<img src="own_images/me_2016.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/markus.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 **Markus Stetter** 
@@ -24,10 +24,9 @@ Markus is group leader in the Institute for Plant Sciences at the University of 
 <br>
 <br>
 <br>
-<br>
-<br>
 <!-- break -->
 
+## PhD students
 <div style="float: left">
 <img src="own_images/people/jose.jpg" style="width: 100px ;border:10px solid white">
 </div>
@@ -46,7 +45,7 @@ José is a PhD student studying introgression during grain amaranth domesticatio
 <br>
 
 <div style="float: left">
-<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/kerstin.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 **Kerstin Schulz** 
@@ -62,9 +61,13 @@ Kerstin is a PhD student and part of the CEPLAS graduate school. Kerstin employs
 <br>
 <br>
 
+## Master students
+
 <div style="float: left">
 <img src="own_images/people/tom.jpg" style="width: 100px ;border:10px solid white">
 </div>
+
+
 
 **Tom Winkler** 
 <div style="float: left">
@@ -79,17 +82,19 @@ Tom is a master student studying the genomic distribution of MYB transcription f
 <br>
 <br>
 
+<!--
 <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
+-->
 
-
+## Student helpers and interns
 
 **Julio Martinez** 
 <div style="float: left">
 </div>
 Julio is a master student wroking on the molecular validation of domestication genes in grain amaranth.
-<!-- break -->
+<!-- break 
 <br>
 <br>
 <br>
@@ -97,6 +102,50 @@ Julio is a master student wroking on the molecular validation of domestication g
 <br>
 <br>
 <br>
+
+
+<div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+-->
+
+
+
+**Ahad Kazmi** 
+<div style="float: left">
+</div>
+Ahad is a biochemistry master student wroking on long read sequencing in amaranth.
+<!-- break 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ <div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>-->
+
+
+
+**Lucas Weber** 
+<div style="float: left">
+</div>
+Lucas is a CEPLAS intern establishing differnt mapping populations for amaranth.
+<!-- break 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> 
+-->
+
+
+## Joining the lab
 
 <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
@@ -105,7 +154,7 @@ Julio is a master student wroking on the molecular validation of domestication g
 **Maybe you?** 
 <div style="float: left">
 </div>
-Contact me if you are interested in joining the lab. [contact me](mailto:mgstetter@gmail.com) 
+Contact us if you are interested in joining the lab. [contact us](mailto:mgstetter@gmail.com) 
 
 
 <!-- break -->
