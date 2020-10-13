@@ -15,6 +15,16 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### October
 
+#### Thursday October 22
+No meeting!  
+[Barton and Keightley 2002](https://www.nature.com/articles/nrg700)
+Understanding quantitative genetic variation
+
+#### Thursday October 15
+No meeting!  
+[Purugganan 2019](https://www.sciencedirect.com/science/article/pii/S0960982219306232#:~:text=Domestication%20is%20a%20co%2Devolutionary,are%20critical%20for%20human%20survival.)
+Evolutionary Insights into the Nature of Plant Domestication
+
 #### Thursday October 8
 [Kreiner et al preprint](https://www.biorxiv.org/content/10.1101/2020.08.19.257972v1)
 The genetic architecture and genomic context of glyphosate resistance

@@ -16,6 +16,10 @@ Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, 
 
 
 ## 2020
+
+* [Limits and constraints to crop domestication]()  
+**Markus G Stetter** *American Journal of Botany*
+
 * [Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landrace](https://www.g3journal.org/content/early/2020/05/28/g3.120.401196)  
 Leo Zeitler, Jeffrey Ross-Ibarra and **Markus G Stetter** *G3*  
 [Preprint](https://www.biorxiv.org/content/10.1101/817791v1)
