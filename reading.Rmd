@@ -13,6 +13,13 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### November
+
+#### Thursday November 5
+[Tusso et al, preprint](https://www.biorxiv.org/content/10.1101/2020.11.02.364695v1)
+Experimental evolution of adaptive divergence under varying degrees of gene flow
+
+
 ### October
 
 #### Thursday October 29
