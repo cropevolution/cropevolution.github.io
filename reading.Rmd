@@ -15,6 +15,15 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### November
 
+
+#### Thursday November 19
+[Zhang et al, preprint](https://www.biorxiv.org/content/10.1101/2020.11.09.374413v1.full)
+Evolution of the genetic architecture of local adaptations under genetic rescue is determined by mutational load and polygenicity
+
+#### Thursday November 12
+[Mayer et al, 2020](https://www.nature.com/articles/s41467-020-18683-3)
+Discovery of beneficial haplotypes for complex traits in maize landraces
+
 #### Thursday November 5
 [Tusso et al, preprint](https://www.biorxiv.org/content/10.1101/2020.11.02.364695v1)
 Experimental evolution of adaptive divergence under varying degrees of gene flow
