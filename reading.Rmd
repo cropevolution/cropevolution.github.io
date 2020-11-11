@@ -15,6 +15,10 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### November
 
+#### Thursday November 12
+[Mayer et al, 2020](https://www.nature.com/articles/s41467-020-18683-3)
+Discovery of beneficial haplotypes for complex traits in maize landraces
+
 #### Thursday November 5
 [Tusso et al, preprint](https://www.biorxiv.org/content/10.1101/2020.11.02.364695v1)
 Experimental evolution of adaptive divergence under varying degrees of gene flow
