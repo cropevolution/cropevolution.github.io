@@ -15,6 +15,11 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### November
 
+#### Thursday November 26
+[Mooney et al, preprint](https://www.biorxiv.org/content/10.1101/2020.11.16.385443v1)
+The impact of identity-by-descent on fitness and disease in natural and domesticated Canid populations
+
+
 #### Thursday November 19
 [Zhang et al, preprint](https://www.biorxiv.org/content/10.1101/2020.11.09.374413v1.full)
 Evolution of the genetic architecture of local adaptations under genetic rescue is determined by mutational load and polygenicity
