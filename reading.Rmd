@@ -13,6 +13,17 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### December
+
+#### Thursday December 10
+[Pérez-Escobar et al, preprint](https://www.biorxiv.org/content/10.1101/2020.11.26.400408v1.full)
+Archaeogenomics of a ~2,100-year-old Egyptian leaf provides a new timestamp on date palm domestication
+
+#### Thursday December 3
+[James et al, preprint](https://www.biorxiv.org/content/10.1101/2020.02.05.936450v2)
+A framework to quantify phenotypic and genotypic parallel evolution
+
+
 ### November
 
 #### Thursday November 26
