@@ -13,6 +13,18 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### January
+
+#### Thursday January 21
+[Desbiez-Piat et al preprint](https://www.biorxiv.org/content/10.1101/2020.12.22.423930v1)
+Interplay between high-drift and high-selection limits the genetic load in small selfing maize populations
+
+#### Thursday January 14
+[Kistler et al 2020](https://www.pnas.org/content/117/52/33124)
+Archaeological Central American maize genomes suggest ancient gene flow from South America
+
+## 2020
+
 ### December
 
 #### Thursday December 10

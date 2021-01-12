@@ -129,22 +129,6 @@ Ahad is a biochemistry master student wroking on long read sequencing in amarant
 </div>-->
 
 
-
-**Lucas Weber** 
-<div style="float: left">
-</div>
-Lucas is a CEPLAS intern establishing differnt mapping populations for amaranth.
-<!-- break 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> 
--->
-
-
 ## Joining the lab
 
 <div style="float: left">
