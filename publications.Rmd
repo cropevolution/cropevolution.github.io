@@ -7,21 +7,25 @@
 
 
 ## Preprint
+[PopAmaranth: A population genetic genome browser for grain amaranths and their wild relatives](https://doi.org/10.1101/2020.12.09.415331)  
+**José Gonçalves-Dias** and **Markus G Stetter**  
+[amaranthGDB.org](https://amaranthgdb.org)
+
+
+## 2021
 
 * [Male linked genomic regions determine sex in dioecious *Amaranthus palmeri*](https://www.biorxiv.org/content/10.1101/2020.05.25.113597v1.full)  
 **Cátia José Neves**, Maor Matzrafi, **Meik Thiele**, Anne Lorant, Mohsen B. Mesgaran and **Markus G. Stetter**
 *bioRxiv*
 
 
+* [Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize](https://www.nature.com/articles/s41477-020-00834-5.epdf?sharing_token=_mN9oSJzgPbS9Ldsr01s8dRgN0jAjWel9jnR3ZoTv0OIqw-nLs7dqtihevHgjRdBgKyJmnWQSkGOUEc4hulR2jnTLjP4fqtKbSUSzA7iWbyA0E0YEvXdfVUO_1_dmi2uNdJtrPRcKz9O_jp58VwFcP02Yhzr7I3YNxgg8Oit1Xk%3D)   
+Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Edward S. Buckler, Jeffrey Ross-Ibarra and Michael A. Gore  *Nature Plants* [Preprint](https://doi.org/10.1101/777623)
 
 ## 2020
 
 * [Limits and constraints to crop domestication]()  
 **Markus G Stetter** *American Journal of Botany*
-
-
-* [Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize](https://doi.org/10.1101/777623)  
-Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Edward S. Buckler, Jeffrey Ross-Ibarra and Michael A. Gore [Preprint](https://doi.org/10.1101/777623)
 
 * [Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landrace](https://www.g3journal.org/content/early/2020/05/28/g3.120.401196)  
 Leo Zeitler, Jeffrey Ross-Ibarra and **Markus G Stetter** *G3*  
