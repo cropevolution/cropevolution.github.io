@@ -7,7 +7,7 @@
 
 
 ## Preprint
-[PopAmaranth: A population genetic genome browser for grain amaranths and their wild relatives](https://doi.org/10.1101/2020.12.09.415331)  
+* [PopAmaranth: A population genetic genome browser for grain amaranths and their wild relatives](https://doi.org/10.1101/2020.12.09.415331)  
 **José Gonçalves-Dias** and **Markus G Stetter**  
 [amaranthGDB.org](https://amaranthgdb.org)
 
