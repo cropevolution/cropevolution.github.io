@@ -13,7 +13,22 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### February
+
+#### Thursday Febraury 11
+[Liu et al 2021](https://www.nature.com/articles/s41586-020-03091-w)
+Genomic basis of geographical adaptation to soil nitrogen in rice
+
+#### Thursday Febraury 4
+[Shirsekar et al preprint](https://www.biorxiv.org/content/10.1101/2021.01.22.427575v1)
+Fine-scale Population Structure of North American Arabidopsis thaliana Reveals Multiple Sources of Introduction from Across Eurasia
+
 ### January
+
+#### Thursday January 28
+[Migicovsky et al 2021](https://www.nature.com/articles/s41438-020-00441-7)
+Genomic consequences of apple improvement
+
 
 #### Thursday January 21
 [Desbiez-Piat et al preprint](https://www.biorxiv.org/content/10.1101/2020.12.22.423930v1)
