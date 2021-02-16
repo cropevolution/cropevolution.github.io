@@ -15,6 +15,14 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### February
 
+#### Thursday Febraury 25
+[Crouse et al 2020](https://www.genetics.org/content/216/4/957)
+Inferring the Allelic Series at QTL in Multiparental Populations
+
+#### Thursday Febraury 18
+[Lovell et al 2021](https://www.nature.com/articles/s41586-020-03127-1)
+Genomic mechanisms of climate adaptation in polyploid bioenergy switchgrass
+
 #### Thursday Febraury 11
 [Liu et al 2021](https://www.nature.com/articles/s41586-020-03091-w)
 Genomic basis of geographical adaptation to soil nitrogen in rice
