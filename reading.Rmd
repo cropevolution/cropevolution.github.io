@@ -13,7 +13,18 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### April
+
+#### Thursday April 8
+[Burban et al preprint](https://www.biorxiv.org/content/10.1101/2021.03.19.436202v1)
+Gene network simulations provide testable predictions for the molecular domestication syndrome
+
 ### March
+
+#### Thursday March 25
+[Zhong et al 2021](https://www.pnas.org/content/118/5/e2023347118)
+DNA methylation-linked chromatin accessibility affects genomic architecture in Arabidopsis
+
 #### Thursday March 18
 [Huang et al 2020](https://www.nature.com/articles/s41467-020-19131-y)
 Genotype by environment interaction for gene expression in Drosophila melanogaster
