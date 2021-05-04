@@ -2,7 +2,7 @@
 title: "Stetter lab"
 ---
 
-```{r echo=FALSE,eval=FALSE}
+```{r echo=FALSE,eval=FALSE,warning=FALSE}
 shiny::includeHTML("custom_header.html")
 ```
 
@@ -16,7 +16,7 @@ Read more about our [research](research.html) and who we are on this site. If yo
 ![](own_images/labcloud.png)
 
 
-```{r,echo=FALSE, eval=T}
+```{r,echo=FALSE, eval=T,warning=FALSE}
 
 
 library(htmltools)
@@ -32,7 +32,7 @@ thumbnail <- function(title, img, href, caption = TRUE) {
 }
 ```
 
-```{r, echo=FALSE, eval=F}
+```{r, echo=FALSE,eval=FALSE,warning=FALSE}
 #thumbnail("Twitter", "own_images/me_2016.jpg", "https://twitter.com/mgstetter")
 thumbnail("Science", "own_images/hyp_genome_fastAnc_with_BM.png", "science.html")
 thumbnail("Breeding", "own_images/DSC_0020.jpg", "breeding.html")
