@@ -12,6 +12,17 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### May
+
+#### Thursday May 20
+[Groen et al preprint](https://doi.org/10.1101/2021.03.16.435597)
+Fitness costs and benefits of gene expression plasticity in rice under drought
+
+
+
+#### Thursday May 6
+[Berdan et al 2021](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009411)
+Deleterious mutation accumulation and the long-term fate of chromosomal inversions
 
 ### April
 
