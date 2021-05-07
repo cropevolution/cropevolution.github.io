@@ -6,25 +6,25 @@
 
 
 
-## Preprint
-* [PopAmaranth: A population genetic genome browser for grain amaranths and their wild relatives](https://doi.org/10.1101/2020.12.09.415331)  
-**José Gonçalves-Dias** and **Markus G Stetter**  
-[amaranthGDB.org](https://amaranthgdb.org)
-
 
 ## 2021
-
-* [Male linked genomic regions determine sex in dioecious *Amaranthus palmeri*](https://www.biorxiv.org/content/10.1101/2020.05.25.113597v1.full)  
-**Cátia José Neves**, Maor Matzrafi, **Meik Thiele**, Anne Lorant, Mohsen B. Mesgaran and **Markus G. Stetter**
-*bioRxiv*
+* [PopAmaranth: A population genetic genome browser for grain amaranths and their wild relatives](https://doi.org/10.1093/g3journal/jkab103)       
+**José Gonçalves-Dias** and **Markus G Stetter** *G3*  
+Link to PopAmaranth: [amaranthGDB.org](https://amaranthgdb.org)       
+[Preprint](https://doi.org/10.1101/2020.12.09.415331)  
 
 
 * [Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize](https://www.nature.com/articles/s41477-020-00834-5.epdf?sharing_token=_mN9oSJzgPbS9Ldsr01s8dRgN0jAjWel9jnR3ZoTv0OIqw-nLs7dqtihevHgjRdBgKyJmnWQSkGOUEc4hulR2jnTLjP4fqtKbSUSzA7iWbyA0E0YEvXdfVUO_1_dmi2uNdJtrPRcKz9O_jp58VwFcP02Yhzr7I3YNxgg8Oit1Xk%3D)   
-Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Edward S. Buckler, Jeffrey Ross-Ibarra and Michael A. Gore  *Nature Plants* [Preprint](https://doi.org/10.1101/777623)
+Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, **Markus G Stetter**, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Edward S. Buckler, Jeffrey Ross-Ibarra and Michael A. Gore  *Nature Plants*          [Preprint](https://doi.org/10.1101/777623)
 
 ## 2020
 
-* [Limits and constraints to crop domestication]()  
+* [Male linked genomic regions determine sex in dioecious *Amaranthus palmeri*](https://doi.org/10.1093/jhered/esaa047)       
+**Cátia José Neves**, Maor Matzrafi, **Meik Thiele**, Anne Lorant, Mohsen B. Mesgaran and **Markus G. Stetter** *Journal of Heredity*        
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.05.25.113597v1.full)
+
+
+* [Limits and constraints to crop domestication](https://doi.org/10.1002/ajb2.1585)  
 **Markus G Stetter** *American Journal of Botany*
 
 * [Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landrace](https://www.g3journal.org/content/early/2020/05/28/g3.120.401196)  
@@ -40,7 +40,7 @@ Leo Zeitler, Jeffrey Ross-Ibarra and **Markus G Stetter** *G3*
 ## 2019
 
 * [Parallel seed color adaptation during multiple domestication attempts of an ancient new world grain](http://dx.doi.org/10.1093/molbev/msz304)  
- **Markus G Stetter**, Mireia Vidal-Villarejo and Karl Schmid *MBE*  
+ **Markus G Stetter**, Mireia Vidal-Villarejo and Karl Schmid *Molecular Biology and Evolution*  
 [Preprint](https://www.biorxiv.org/content/10.1101/547943v1)
 
 
@@ -54,12 +54,13 @@ Leo Zeitler, Jeffrey Ross-Ibarra and **Markus G Stetter** *G3*
  Dinesh C Joshi, Salej Sood, Rajashekara H, Lakshmi Kant, A Pattanayak, Anil Kumar, Dinesh Yadav and **Markus G Stetter** *Theoretical and Applied Genetics* [PDF](articles/Joshi2018.pdf)
 
 * [Adaptation in plant genomes: Bigger is different](http://dx.doi.org/10.1002/ajb2.1002)  
- Wenbin Mei, **Markus G Stetter**, Daniel J. Gates, Michelle C. Stitzer and Jeffrey Ross-Ibarra *American Journal of Botany*   [Preprint](https://www.biorxiv.org/content/early/2017/10/10/196501)
+ Wenbin Mei, **Markus G Stetter**, Daniel J. Gates, Michelle C. Stitzer and Jeffrey Ross-Ibarra *American Journal of Botany*           [Preprint](https://www.biorxiv.org/content/early/2017/10/10/196501)
 
 ## 2017
 
 * [How to make a domesticate](http://dx.doi.org/10.1016/j.cub.2017.06.048)  
- **Markus G Stetter**, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra *Current Biology*   [Preprint](https://peerj.com/preprints/2902)
+ **Markus G Stetter**, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra *Current Biology*       
+[Preprint](https://peerj.com/preprints/2902)
 
 * [Analysis of phylogenetic relationships and genome size evolution of the Amaranthus genus using GBS indicates the ancestors of an ancient crop](http://dx.doi.org/10.1016/j.ympev.2016.12.029)  
  **Markus G Stetter** and Karl J Schmid *Molecular Phylogenetics and Evolution*  

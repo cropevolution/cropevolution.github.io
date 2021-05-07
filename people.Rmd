@@ -107,7 +107,7 @@ Roswitha runs the wet lab and does the pipetting magic
 **Tom Winkler** 
 <div style="float: left">
 </div>
-Tom is a master student studying the genomic distribution of MYB transcription factors in the amaranth genome and their involvement in metabolic pathways
+Tom is a master student studying the the amaranth transcriptome and the involvement of transcriptomic changes in metabolic pathways
 <!-- break -->
 <br>
 <br>
@@ -124,6 +124,24 @@ Tom is a master student studying the genomic distribution of MYB transcription f
 -->
 
 ## Student helpers and interns
+
+<div style="float: left">
+<img src="own_images/people/Leonie_Eberhard.jpeg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+**Leonie Eberhard** 
+<div style="float: left">
+</div>
+Leonie is a CEPLAS intern evaluating the phenotypic diversity of a grain amaranth reference population.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Julio Martinez** 
 <div style="float: left">
