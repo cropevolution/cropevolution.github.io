@@ -14,6 +14,12 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### May
 
+#### Thursday May 27
+[ Ma et al 2021](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tpj.15298)
+A chromosome-level Amaranthu cruentus genome assembly highlights gene family evolution and
+biosynthetic gene clusters that may underpin the nutritional value of this traditional crop
+
+
 #### Thursday May 20
 [Groen et al preprint](https://doi.org/10.1101/2021.03.16.435597)
 Fitness costs and benefits of gene expression plasticity in rice under drought
