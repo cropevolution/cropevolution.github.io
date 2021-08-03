@@ -13,7 +13,11 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### August
 
+#### Thursday August 5
+[Milla and Osborne, 2021](https://www.nature.com/articles/s41477-021-00905-1)
+Crop origins explain variation in global agricultural relevance
 
 ### July
 
