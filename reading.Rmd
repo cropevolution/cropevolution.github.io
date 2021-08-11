@@ -15,6 +15,14 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### August
 
+#### Thursday August 19
+[Sachdeva et al, preprint](https://www.biorxiv.org/content/10.1101/2021.08.05.455207v1)
+Genetic load and extinction in peripheral populations: the roles of migration, drift and demographic stochasticity
+
+#### Thursday August 12
+[Katz et al., 2021](https://elifesciences.org/articles/67784)
+Genetic variation, environment and demography intersect to shape Arabidopsis defense metabolite variation across Europe
+
 #### Thursday August 5
 [Milla and Osborne, 2021](https://www.nature.com/articles/s41477-021-00905-1)
 Crop origins explain variation in global agricultural relevance
