@@ -15,6 +15,10 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### August
 
+#### Thursday August 26
+[ Aguirre-Liguori et al, 2021](https://www.nature.com/articles/s41559-021-01526-9)
+The evolutionary genomics of species’ responses to climate change
+
 #### Thursday August 19
 [Sachdeva et al, preprint](https://www.biorxiv.org/content/10.1101/2021.08.05.455207v1)
 Genetic load and extinction in peripheral populations: the roles of migration, drift and demographic stochasticity
