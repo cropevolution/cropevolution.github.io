@@ -7,7 +7,7 @@ shiny::includeHTML("custom_header.html")
 ```
 
 
-Welcome to the Stetter lab in the [Botanical Institute](http://www.botanik.uni-koeln.de/1634.html?&L=1) at the [University of Cologne](https://www.uni-koeln.de/). 
+Welcome to the Stetter lab in the [Institute for Plant Sciences](http://www.botanik.uni-koeln.de/1634.html?&L=1) at the [University of Cologne](https://www.uni-koeln.de/). 
 We are interested in crop evolution and adaptation. We study the incomplete domestication of the South American pseudo-cereal, amaranth, and the domestication and cultivation history of maize. We use population and quantitative genetic methods to understand how wild plants became crops and how these crops spread across the globe. 
 
 Read more about our [research](research.html) and who we are on this site. If you like what we do and would like to join the lab please contact [Markus](mailto:m.stetter@uni-koeln.de) to find out more about openings and possibilities to apply for fellowships.
@@ -15,6 +15,10 @@ Read more about our [research](research.html) and who we are on this site. If yo
 
 ![](own_images/labcloud.png)
 
+Our lab is also a member of the Cluster of Excellence on Plant Sciences ([CEPLAS](https://www.ceplas.eu/en/research/principal-investigators/dr-markus-stetter/)). 
+In this video we give some insight how we contribute to the goal of CEPLAS, "SMART Plants for Tomorrow’s Needs"
+
+[![Youtube](own_images/csm_Bild_Video_Stetter.png)](https://www.youtube.com/watch?v=XitwCNy9knk "link title")
 
 ```{r,echo=FALSE, eval=T,warning=FALSE}
 

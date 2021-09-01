@@ -17,9 +17,9 @@ navbar:
     - text: "C.R.O.P."
       href: reading.html
       icon: ion-ios-book
-    - text: "News"
-      href: news.html
-      icon: ion-flash
+#    - text: "News"
+#      href: news.html
+#      icon: ion-flash
 #    - text: "Resources"
 #      href: resources.html
 #      icon: ion-bug

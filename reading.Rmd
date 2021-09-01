@@ -12,6 +12,16 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### September
+
+#### Thursday September 9
+[Hämälä et al, 2021](https://doi.org/10.1073/pnas.2102914118)
+Genomic structural variants constrain and facilitate adaptation in natural populations of Theobroma cacao, the chocolate tree
+
+
+#### Thursday September 2
+[Schaefer et al, 2021](https://www.science.org/doi/10.1126/sciadv.abc0776)
+An ancestral recombination graph of human, Neanderthal, and Denisovan genomes
 
 ### August
 
