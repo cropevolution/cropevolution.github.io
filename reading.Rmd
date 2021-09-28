@@ -12,7 +12,18 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### October
+
+#### Thursday October 7
+[Tittes et al, preprint](https://www.biorxiv.org/content/10.1101/2021.09.09.459637v1.full)
+Not so local: the population genetics of convergent adaptation in maize and teosinte
+
+
 ### September
+
+#### Thursday September 30
+[Morales-Cruz et al, 2021](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02467-z)
+Introgression among North American wild grapes (Vitis) fuels biotic and abiotic adaptation
 
 #### Thursday September 9
 [Hämälä et al, 2021](https://doi.org/10.1073/pnas.2102914118)
