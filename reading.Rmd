@@ -14,6 +14,10 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### October
 
+#### Thursday October 21
+[Fuentes et al, 2021](https://doi.org/10.1093/molbev/msab287)
+Domestication shapes recombination patterns in tomato
+
 #### Thursday October 7
 [Tittes et al, preprint](https://www.biorxiv.org/content/10.1101/2021.09.09.459637v1.full)
 Not so local: the population genetics of convergent adaptation in maize and teosinte

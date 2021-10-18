@@ -26,6 +26,27 @@ Markus is group leader in the Institute for Plant Sciences at the University of 
 <br>
 <!-- break -->
 
+## Postdoc
+
+<div style="float: left">
+<img src="own_images/people/akanksha.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Akanksha Singh** 
+<div style="float: left">
+</div>
+Akanksha studies the introduction history of grain amaranth to India and the sources of adaptive alleles. 
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 ## PhD students
 
 <div style="float: left">
@@ -80,7 +101,31 @@ Kerstin is a PhD student and part of the CEPLAS graduate school. Kerstin employs
 <br>
 <br>
 
+
+<div style="float: left">
+<img src="own_images/people/SusanneVollmer.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Susanne Vollmer** 
+<div style="float: left">
+</div>
+Susanne is a PhD student and part of the CEPLAS graduate school in collaboration with the [Hensel lab at HHU](https://www.ceplas.eu/en/research/people/dr-goetz-hensel). Susanne advances various molecular methods for amaranth and dissects the regulation of seed color adaptation.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Lab manager
+
+<div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
 **Roswitha Lentz** 
 <div style="float: left">
 </div>
