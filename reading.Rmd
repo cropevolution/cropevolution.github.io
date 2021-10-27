@@ -12,7 +12,19 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
+### November
+
+#### Thursday November 4
+[Ye, et al, 2021](https://www.nature.com/articles/s41559-019-0976-1)
+Genomic evidence of human selection on Vavilovian mimicry
+
+
 ### October
+
+#### Thursday October 28
+[Grover, et al, preprint](https://www.biorxiv.org/content/10.1101/2021.10.20.465142v1)
+Dual domestication, diversity, and differential introgression in Old World cotton diploids
 
 #### Thursday October 21
 [Fuentes et al, 2021](https://doi.org/10.1093/molbev/msab287)
