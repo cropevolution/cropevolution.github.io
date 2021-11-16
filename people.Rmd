@@ -162,12 +162,31 @@ Tom is a master student studying the the amaranth transcriptome and the involvem
 <br>
 <br>
 
-<!--
+
+<div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Julio Martinez** 
+<div style="float: left">
+</div>
+Julio is a master student wroking on the molecular validation of domestication genes in grain amaranth.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<!-- break
 <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 -->
-
 ## Student helpers and interns
 
 <div style="float: left">
@@ -188,32 +207,14 @@ Leonie is a CEPLAS intern evaluating the phenotypic diversity of a grain amarant
 <br>
 <br>
 
-**Julio Martinez** 
-<div style="float: left">
-</div>
-Julio is a master student wroking on the molecular validation of domestication genes in grain amaranth.
+
+
+
 <!-- break 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<div style="float: left">
-<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
-</div>
--->
-
-
-
 **Ahad Kazmi** 
 <div style="float: left">
 </div>
 Ahad is a biochemistry master student wroking on long read sequencing in amaranth.
-<!-- break 
 <br>
 <br>
 <br>
