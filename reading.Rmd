@@ -13,7 +13,22 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### December
+#### Thursday December 9
+[Monnahan, et al, 2021](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008945)
+Predicting evolutionary change at the DNA level in a natural Mimulus population
+
+#### Thursday December 2
+[Gibson, et al, 2021](https://elifesciences.org/articles/64165)
+Introgression shapes fruit color convergence in invasive Galápagos tomato
+
+
 ### November
+
+#### Thursday November 25
+[Wrightsman, et al, preprint](https://www.biorxiv.org/content/10.1101/2021.11.11.468292v1.full)
+Modeling chromatin state from sequence across angiosperms using recurrent convolutional neural networks
+
 
 #### Thursday November 18
 [Naish, et al, 2021](https://www.science.org/doi/10.1126/science.abi7489)
