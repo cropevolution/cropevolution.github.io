@@ -123,7 +123,7 @@ Susanne is a PhD student and part of the CEPLAS graduate school in collaboration
 ## Lab manager
 
 <div style="float: left">
-<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/roswitha.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 **Roswitha Lentz** 
