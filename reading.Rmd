@@ -13,6 +13,12 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+#### Thursday January 13
+[Cai et al 2021](https://www.nature.com/articles/s41467-021-27432-z)
+Genomic analyses provide insights into spinach domestication and the genetic basis of agronomic traits
+
+## 2021
+
 ### December
 #### Thursday December 9
 [Monnahan, et al, 2021](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008945)

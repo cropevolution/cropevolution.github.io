@@ -27,9 +27,7 @@ title: "Markus Stetter"
 - 2011 Guest student - Hebrew University of Jerusalem, Israel
 - 2011 BSc - University of Hohenheim, Germany
 
-## Awards
-- 2018 - 2019 DFG research fellowship
-- 2011 - 2013 KWS scholarship for students in plant breeding
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96594188-4"></script>
