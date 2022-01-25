@@ -13,6 +13,18 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### February
+
+#### Thursday February 3
+[Monroe, et al 2022](https://www.nature.com/articles/s41586-021-04269-6)
+Mutation bias reflects natural selection in Arabidopsis thaliana
+
+### January
+
+#### Thursday January 27
+[Dahan-Meir, et al preprint](https://www.biorxiv.org/content/10.1101/2022.01.10.475641v1)
+The genetic structure of a wild wheat population has remained associated with microhabitats over 36 years
+
 #### Thursday January 13
 [Cai et al 2021](https://www.nature.com/articles/s41467-021-27432-z)
 Genomic analyses provide insights into spinach domestication and the genetic basis of agronomic traits
@@ -34,7 +46,6 @@ Introgression shapes fruit color convergence in invasive Galápagos tomato
 #### Thursday November 25
 [Wrightsman, et al, preprint](https://www.biorxiv.org/content/10.1101/2021.11.11.468292v1.full)
 Modeling chromatin state from sequence across angiosperms using recurrent convolutional neural networks
-
 
 #### Thursday November 18
 [Naish, et al, 2021](https://www.science.org/doi/10.1126/science.abi7489)
@@ -69,7 +80,6 @@ Introgression among North American wild grapes (Vitis) fuels biotic and abiotic 
 #### Thursday September 9
 [Hämälä et al, 2021](https://doi.org/10.1073/pnas.2102914118)
 Genomic structural variants constrain and facilitate adaptation in natural populations of Theobroma cacao, the chocolate tree
-
 
 #### Thursday September 2
 [Schaefer et al, 2021](https://www.science.org/doi/10.1126/sciadv.abc0776)
