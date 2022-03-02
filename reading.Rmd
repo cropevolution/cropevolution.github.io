@@ -12,13 +12,24 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### March
+
+#### Thursday March 17
+[Wohns, et al 2022](https://www.science.org/doi/10.1126/science.abi8264)
+A unified genealogy of modern and ancient genomes
+
+#### Thursday March 10
+no C.R.O.P
+
+#### Thursday March 3
+[Kreiner, et al preprint](https://www.biorxiv.org/content/10.1101/2022.02.25.482047v1)
+Rapid adaptation and range expansion in response to agriculture over the last two centuries
 
 ### February
 
 #### Thursday February 17
 [Battlay, et al 2021](https://doi.org/10.1101/2021.09.13.459985)
 Pleiotropy drives repeatability in the genetic basis of adaptation
-
 
 #### Thursday February 10
 [Novo, et al 2022](https://doi.org/10.1371/journal.pgen.1009764)
