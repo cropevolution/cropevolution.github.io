@@ -197,7 +197,7 @@ Julio is a master student wroking on the molecular validation of domestication g
 **Leonie Eberhard** 
 <div style="float: left">
 </div>
-Leonie is a CEPLAS intern evaluating the phenotypic diversity of a grain amaranth reference population.
+Leonie is a student helper in the lab evaluating the phenotypic diversity of a grain amaranth reference population.
 <!-- break -->
 <br>
 <br>
@@ -208,6 +208,24 @@ Leonie is a CEPLAS intern evaluating the phenotypic diversity of a grain amarant
 <br>
 
 
+
+<div style="float: left">
+<img src="own_images/people/Laura_Merx.JPG" style="width: 100px ;border:10px solid white">
+</div>
+
+
+**Laura Merx** 
+<div style="float: left">
+</div>
+Laura is a CEPLAS rotation student working on large structural variants in amarnath
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <!-- break 
