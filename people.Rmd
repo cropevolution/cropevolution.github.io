@@ -170,7 +170,7 @@ Tom is a master student studying the the amaranth transcriptome and the involvem
 **Julio Martinez** 
 <div style="float: left">
 </div>
-Julio is a master student wroking on the molecular validation of domestication genes in grain amaranth and the conservation of the MBW regulation network.
+Julio is a master student working on the molecular validation of domestication genes in grain amaranth and the conservation of the MBW regulation network.
 <!-- break -->
 <br>
 <br>
@@ -187,6 +187,26 @@ Julio is a master student wroking on the molecular validation of domestication g
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 -->
+## Bachelor students
+
+
+<div style="float: left">
+<img src="own_images/people/Hurmain_Ahmad.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Hurmain Ahmad** 
+<div style="float: left">
+</div>
+Hurmain is a bachelor student ideintifing species diagnostic markers for the Amaranthus genus.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Student helpers and interns
 
 <div style="float: left">
@@ -214,10 +234,10 @@ Leonie is a student helper in the lab evaluating the phenotypic diversity of a g
 </div>
 
 
-**Laura Merx** 
+**Krzysztov Pukacz** 
 <div style="float: left">
 </div>
-Laura is a CEPLAS rotation student working on large structural variants in amarnath
+Krzysztov is a CEPLAS rotation student exploring Oxford Nanopore sequencing to identify structural variation in grain amaranth
 <!-- break -->
 <br>
 <br>
