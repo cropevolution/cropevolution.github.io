@@ -13,7 +13,7 @@
 
 <title>publications.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -152,6 +152,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -176,6 +177,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -328,7 +332,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -394,91 +398,171 @@ $(document).ready(function () {
 
 
 <div id="publications" class="section level1">
-<h1>Publications <a href="http://scholar.google.com/citations?user=yYKVZQQAAAAJ"><img src="own_images/scholar.png" style="width: 80px;"></a></h1>
+<h1>Publications
+<a href="http://scholar.google.com/citations?user=yYKVZQQAAAAJ"><img src="own_images/scholar.png" style="width: 80px;"></a></h1>
 <p>   </p>
 <div id="section" class="section level2">
 <h2>2021</h2>
 <ul>
-<li><p><a href="https://doi.org/10.1371/journal.pgen.1009797">Domestication Reshaped the Genetic Basis of Inbreeding Depression in a Maize Landrace Compared to its Wild Relative, Teosinte</a> LF Samayoa, BA Olukolu, CJ Yang, Q Chen, <strong>Markus G Stetter</strong>, Alessandra M York, Jose de Jesus Sanchez-Gonzalez, Jeffrey C Glaubitz, Peter J Bradbury, Maria Cinta Romay, Qi Sun, Jinliang Yang, Jeffrey Ross-Ibarra, Edward S Buckler, JF Doebley and James B Holland <em>PLOS Genetics</em><br />
-<a href="https://doi.org/10.1101/2021.09.01.458502">Preprint</a></p></li>
-<li><p><a href="https://doi.org/10.3390/agronomy11050970">Breeding Amaranth for Biomass: Evaluating Dry Matter Content and Biomass Potential in Early and Late Maturing Genotypes</a> Ali Baturaygil, <strong>Markus G Stetter</strong> and Karl Schmid <em>Agronomy</em></p></li>
-<li><p><a href="https://doi.org/10.1093/g3journal/jkab103">PopAmaranth: A population genetic genome browser for grain amaranths and their wild relatives</a><br />
-<strong>José Gonçalves-Dias</strong> and <strong>Markus G Stetter</strong> <em>G3</em><br />
-Link to PopAmaranth: <a href="https://amaranthgdb.org">amaranthGDB.org</a><br />
-<a href="https://doi.org/10.1101/2020.12.09.415331">Preprint</a></p></li>
-<li><p><a href="https://www.nature.com/articles/s41477-020-00834-5.epdf?sharing_token=_mN9oSJzgPbS9Ldsr01s8dRgN0jAjWel9jnR3ZoTv0OIqw-nLs7dqtihevHgjRdBgKyJmnWQSkGOUEc4hulR2jnTLjP4fqtKbSUSzA7iWbyA0E0YEvXdfVUO_1_dmi2uNdJtrPRcKz9O_jp58VwFcP02Yhzr7I3YNxgg8Oit1Xk%3D">Comparative evolutionary analysis and prediction of deleterious mutation patterns between sorghum and maize</a><br />
-Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, <strong>Markus G Stetter</strong>, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes, Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Edward S. Buckler, Jeffrey Ross-Ibarra and Michael A. Gore <em>Nature Plants</em><br />
+<li><p><a
+href="https://doi.org/10.1371/journal.pgen.1009797">Domestication
+Reshaped the Genetic Basis of Inbreeding Depression in a Maize Landrace
+Compared to its Wild Relative, Teosinte</a> LF Samayoa, BA Olukolu, CJ
+Yang, Q Chen, <strong>Markus G Stetter</strong>, Alessandra M York, Jose
+de Jesus Sanchez-Gonzalez, Jeffrey C Glaubitz, Peter J Bradbury, Maria
+Cinta Romay, Qi Sun, Jinliang Yang, Jeffrey Ross-Ibarra, Edward S
+Buckler, JF Doebley and James B Holland <em>PLOS Genetics</em><br />
+<a
+href="https://doi.org/10.1101/2021.09.01.458502">Preprint</a></p></li>
+<li><p><a href="https://doi.org/10.3390/agronomy11050970">Breeding
+Amaranth for Biomass: Evaluating Dry Matter Content and Biomass
+Potential in Early and Late Maturing Genotypes</a> Ali Baturaygil,
+<strong>Markus G Stetter</strong> and Karl Schmid
+<em>Agronomy</em></p></li>
+<li><p><a href="https://doi.org/10.1093/g3journal/jkab103">PopAmaranth:
+A population genetic genome browser for grain amaranths and their wild
+relatives</a><br />
+<strong>José Gonçalves-Dias</strong> and <strong>Markus G
+Stetter</strong> <em>G3</em><br />
+Link to PopAmaranth: <a
+href="https://amaranthgdb.org">amaranthGDB.org</a><br />
+<a
+href="https://doi.org/10.1101/2020.12.09.415331">Preprint</a></p></li>
+<li><p><a
+href="https://www.nature.com/articles/s41477-020-00834-5.epdf?sharing_token=_mN9oSJzgPbS9Ldsr01s8dRgN0jAjWel9jnR3ZoTv0OIqw-nLs7dqtihevHgjRdBgKyJmnWQSkGOUEc4hulR2jnTLjP4fqtKbSUSzA7iWbyA0E0YEvXdfVUO_1_dmi2uNdJtrPRcKz9O_jp58VwFcP02Yhzr7I3YNxgg8Oit1Xk%3D">Comparative
+evolutionary analysis and prediction of deleterious mutation patterns
+between sorghum and maize</a><br />
+Roberto Lozano, Elodie Gazave, Jhonathan P.R. dos Santos, <strong>Markus
+G Stetter</strong>, Ravi Valluru, Nonoy Bandillo, Samuel B. Fernandes,
+Patrick J. Brown, Nadia Shakoor, Todd C. Mockler, Edward S. Buckler,
+Jeffrey Ross-Ibarra and Michael A. Gore <em>Nature Plants</em><br />
 <a href="https://doi.org/10.1101/777623">Preprint</a></p></li>
 </ul>
 </div>
 <div id="section-1" class="section level2">
 <h2>2020</h2>
 <ul>
-<li><p><a href="https://doi.org/10.1093/jhered/esaa047">Male linked genomic regions determine sex in dioecious <em>Amaranthus palmeri</em></a><br />
-<strong>Cátia José Neves</strong>, Maor Matzrafi, <strong>Meik Thiele</strong>, Anne Lorant, Mohsen B. Mesgaran and <strong>Markus G. Stetter</strong> <em>Journal of Heredity</em><br />
-<a href="https://www.biorxiv.org/content/10.1101/2020.05.25.113597v1.full">Preprint</a></p></li>
-<li><p><a href="https://doi.org/10.1002/ajb2.1585">Limits and constraints to crop domestication</a><br />
-<strong>Markus G Stetter</strong> <em>American Journal of Botany</em></p></li>
-<li><p><a href="https://www.g3journal.org/content/early/2020/05/28/g3.120.401196">Loss of diversity and accumulation of genetic load in doubled-haploid lines from European maize landrace</a><br />
-Leo Zeitler, Jeffrey Ross-Ibarra and <strong>Markus G Stetter</strong> <em>G3</em><br />
-<a href="https://www.biorxiv.org/content/10.1101/817791v1">Preprint</a></p></li>
-<li><p><a href="https://doi.org/10.1534/genetics.119.302892">The temporal dynamics of background selection in non-equilibrium populations</a><br />
-Raul Torres*, <strong>Markus G Stetter</strong>*, Ryan Hernandez and Jeffrey Ross-Ibarra <em>Genetics</em><br />
-<a href="https://www.biorxiv.org/content/10.1101/618389v1">Preprint</a></p></li>
+<li><p><a href="https://doi.org/10.1093/jhered/esaa047">Male linked
+genomic regions determine sex in dioecious <em>Amaranthus
+palmeri</em></a><br />
+<strong>Cátia José Neves</strong>, Maor Matzrafi, <strong>Meik
+Thiele</strong>, Anne Lorant, Mohsen B. Mesgaran and <strong>Markus G.
+Stetter</strong> <em>Journal of Heredity</em><br />
+<a
+href="https://www.biorxiv.org/content/10.1101/2020.05.25.113597v1.full">Preprint</a></p></li>
+<li><p><a href="https://doi.org/10.1002/ajb2.1585">Limits and
+constraints to crop domestication</a><br />
+<strong>Markus G Stetter</strong> <em>American Journal of
+Botany</em></p></li>
+<li><p><a
+href="https://www.g3journal.org/content/early/2020/05/28/g3.120.401196">Loss
+of diversity and accumulation of genetic load in doubled-haploid lines
+from European maize landrace</a><br />
+Leo Zeitler, Jeffrey Ross-Ibarra and <strong>Markus G Stetter</strong>
+<em>G3</em><br />
+<a
+href="https://www.biorxiv.org/content/10.1101/817791v1">Preprint</a></p></li>
+<li><p><a href="https://doi.org/10.1534/genetics.119.302892">The
+temporal dynamics of background selection in non-equilibrium
+populations</a><br />
+Raul Torres*, <strong>Markus G Stetter</strong>*, Ryan Hernandez and
+Jeffrey Ross-Ibarra <em>Genetics</em><br />
+<a
+href="https://www.biorxiv.org/content/10.1101/618389v1">Preprint</a></p></li>
 </ul>
 </div>
 <div id="section-2" class="section level2">
 <h2>2019</h2>
 <ul>
-<li><a href="http://dx.doi.org/10.1093/molbev/msz304">Parallel seed color adaptation during multiple domestication attempts of an ancient new world grain</a><br />
-<strong>Markus G Stetter</strong>, Mireia Vidal-Villarejo and Karl Schmid <em>Molecular Biology and Evolution</em><br />
-<a href="https://www.biorxiv.org/content/10.1101/547943v1">Preprint</a></li>
+<li><a href="http://dx.doi.org/10.1093/molbev/msz304">Parallel seed
+color adaptation during multiple domestication attempts of an ancient
+new world grain</a><br />
+<strong>Markus G Stetter</strong>, Mireia Vidal-Villarejo and Karl
+Schmid <em>Molecular Biology and Evolution</em><br />
+<a
+href="https://www.biorxiv.org/content/10.1101/547943v1">Preprint</a></li>
 </ul>
 </div>
 <div id="section-3" class="section level2">
 <h2>2018</h2>
 <ul>
-<li><p><a href="http://dx.doi.org/10.1371/journal.pgen.1007794">Genetic architecture and selective sweeps after polygenic adaptation to distant trait optima</a><br />
-<strong>Markus G Stetter</strong>, Kevin Thornton and Jeffrey Ross-Ibarra <em>PLOS Genetics</em><br />
+<li><p><a href="http://dx.doi.org/10.1371/journal.pgen.1007794">Genetic
+architecture and selective sweeps after polygenic adaptation to distant
+trait optima</a><br />
+<strong>Markus G Stetter</strong>, Kevin Thornton and Jeffrey
+Ross-Ibarra <em>PLOS Genetics</em><br />
 <a href="http://dx.doi.org/10.1101/313247">Preprint</a></p></li>
-<li><p><a href="http://dx.doi.org/10.1007/s00122-018-3138-y">From Zero to Hero: The past, present and future of grain amaranth breeding</a><br />
-Dinesh C Joshi, Salej Sood, Rajashekara H, Lakshmi Kant, A Pattanayak, Anil Kumar, Dinesh Yadav and <strong>Markus G Stetter</strong> <em>Theoretical and Applied Genetics</em> <a href="articles/Joshi2018.pdf">PDF</a></p></li>
-<li><p><a href="http://dx.doi.org/10.1002/ajb2.1002">Adaptation in plant genomes: Bigger is different</a><br />
-Wenbin Mei, <strong>Markus G Stetter</strong>, Daniel J. Gates, Michelle C. Stitzer and Jeffrey Ross-Ibarra <em>American Journal of Botany</em> <a href="https://www.biorxiv.org/content/early/2017/10/10/196501">Preprint</a></p></li>
+<li><p><a href="http://dx.doi.org/10.1007/s00122-018-3138-y">From Zero
+to Hero: The past, present and future of grain amaranth
+breeding</a><br />
+Dinesh C Joshi, Salej Sood, Rajashekara H, Lakshmi Kant, A Pattanayak,
+Anil Kumar, Dinesh Yadav and <strong>Markus G Stetter</strong>
+<em>Theoretical and Applied Genetics</em> <a
+href="articles/Joshi2018.pdf">PDF</a></p></li>
+<li><p><a href="http://dx.doi.org/10.1002/ajb2.1002">Adaptation in plant
+genomes: Bigger is different</a><br />
+Wenbin Mei, <strong>Markus G Stetter</strong>, Daniel J. Gates, Michelle
+C. Stitzer and Jeffrey Ross-Ibarra <em>American Journal of Botany</em>
+<a
+href="https://www.biorxiv.org/content/early/2017/10/10/196501">Preprint</a></p></li>
 </ul>
 </div>
 <div id="section-4" class="section level2">
 <h2>2017</h2>
 <ul>
-<li><p><a href="http://dx.doi.org/10.1016/j.cub.2017.06.048">How to make a domesticate</a><br />
-<strong>Markus G Stetter</strong>, Daniel J Gates, Wenbin Mei and Jeffrey Ross-Ibarra <em>Current Biology</em><br />
+<li><p><a href="http://dx.doi.org/10.1016/j.cub.2017.06.048">How to make
+a domesticate</a><br />
+<strong>Markus G Stetter</strong>, Daniel J Gates, Wenbin Mei and
+Jeffrey Ross-Ibarra <em>Current Biology</em><br />
 <a href="https://peerj.com/preprints/2902">Preprint</a></p></li>
-<li><p><a href="http://dx.doi.org/10.1016/j.ympev.2016.12.029">Analysis of phylogenetic relationships and genome size evolution of the Amaranthus genus using GBS indicates the ancestors of an ancient crop</a><br />
-<strong>Markus G Stetter</strong> and Karl J Schmid <em>Molecular Phylogenetics and Evolution</em><br />
+<li><p><a href="http://dx.doi.org/10.1016/j.ympev.2016.12.029">Analysis
+of phylogenetic relationships and genome size evolution of the
+Amaranthus genus using GBS indicates the ancestors of an ancient
+crop</a><br />
+<strong>Markus G Stetter</strong> and Karl J Schmid <em>Molecular
+Phylogenetics and Evolution</em><br />
 <a href="http://dx.doi.org/10.1101/085472">Preprint</a></p></li>
-<li><p><a href="http://dx.doi.org/10.7717/peerj.2891">Increased root hair density by loss of WRKY6 in Arabidopsis thaliana</a><br />
-<strong>Markus G Stetter</strong>, Martin Benz and Uwe Ludewig <em>PeerJ</em><br />
-<a href="http://dx.doi.org/10.7287/peerj.preprints.2267v1">Preprint</a></p></li>
-<li><p><a href="http://dx.doi.org/10.1111/mec.13974">Genomic and phenotypic evidence for an incomplete domestication of South American grain amaranth (Amaranthus caudatus)</a><br />
-<strong>Markus G Stetter</strong>, Thomas Müller and Karl J Schmid <em>Molecular Ecology</em><br />
+<li><p><a href="http://dx.doi.org/10.7717/peerj.2891">Increased root
+hair density by loss of WRKY6 in Arabidopsis thaliana</a><br />
+<strong>Markus G Stetter</strong>, Martin Benz and Uwe Ludewig
+<em>PeerJ</em><br />
+<a
+href="http://dx.doi.org/10.7287/peerj.preprints.2267v1">Preprint</a></p></li>
+<li><p><a href="http://dx.doi.org/10.1111/mec.13974">Genomic and
+phenotypic evidence for an incomplete domestication of South American
+grain amaranth (Amaranthus caudatus)</a><br />
+<strong>Markus G Stetter</strong>, Thomas Müller and Karl J Schmid
+<em>Molecular Ecology</em><br />
 <a href="http://dx.doi.org/10.1101/025866">Preprint</a></p></li>
 </ul>
 </div>
 <div id="section-5" class="section level2">
 <h2>2016</h2>
 <ul>
-<li><a href="http://dx.doi.org/10.3389/fpls.2016.00816">Crossing methods and cultivation conditions for rapid production of segregating populations in three grain amaranth species</a><br />
-<strong>Markus G Stetter</strong>, Leo Zeitler, Adrian Steinhaus, Karoline Kroener, Michelle Biljecki and Karl J Schmid <em>Frontiers in Plant Science</em><br />
-<a href="http://dx.doi.org/10.7287/peerj.preprints.1951v1">Preprint</a></li>
+<li><a href="http://dx.doi.org/10.3389/fpls.2016.00816">Crossing methods
+and cultivation conditions for rapid production of segregating
+populations in three grain amaranth species</a><br />
+<strong>Markus G Stetter</strong>, Leo Zeitler, Adrian Steinhaus,
+Karoline Kroener, Michelle Biljecki and Karl J Schmid <em>Frontiers in
+Plant Science</em><br />
+<a
+href="http://dx.doi.org/10.7287/peerj.preprints.1951v1">Preprint</a></li>
 </ul>
 </div>
 <div id="section-6" class="section level2">
 <h2>2015</h2>
 <ul>
-<li><p><a href="http://dx.doi.org/10.1007/s10265-015-0733-8">Regulation of length and density of Arabidopsis root hairs by ammonium and nitrate</a><br />
-Thomas Vatter, Benjamin Neuhäuser, <strong>Markus G Stetter</strong> and Uwe Ludewig <em>Journal of plant research</em></p></li>
-<li><p><a href="http://dx.doi.org/10.1371/journal.pone.0120604">Uncovering genes and ploidy involved in the high diversity in root hair density, length and response to local scarce phosphate in Arabidopsis thaliana</a><br />
-<strong>Markus G Stetter</strong>, Karl Schmid and Uwe Ludewig <em>PLOS one</em></p></li>
+<li><p><a href="http://dx.doi.org/10.1007/s10265-015-0733-8">Regulation
+of length and density of Arabidopsis root hairs by ammonium and
+nitrate</a><br />
+Thomas Vatter, Benjamin Neuhäuser, <strong>Markus G Stetter</strong> and
+Uwe Ludewig <em>Journal of plant research</em></p></li>
+<li><p><a
+href="http://dx.doi.org/10.1371/journal.pone.0120604">Uncovering genes
+and ploidy involved in the high diversity in root hair density, length
+and response to local scarce phosphate in Arabidopsis thaliana</a><br />
+<strong>Markus G Stetter</strong>, Karl Schmid and Uwe Ludewig <em>PLOS
+one</em></p></li>
 </ul>
 <p>*Equal contribution</p>
 <!-- Global site tag (gtag.js) - Google Analytics -->

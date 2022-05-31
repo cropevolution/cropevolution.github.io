@@ -6,12 +6,22 @@ title: "What we read"
 C.R.O.P is our weekly journal club for anyone interested in evolution. 
 We meet on Thursdays at 4.00 pm at [Theatercafe Filmdose](https://goo.gl/maps/mamsnSV5ZqThF4YY8) for an open discussion about the weekly paper in a relaxed atmosphere. 
 
-**Until further notice we will meet online. Please email  [Markus](mailto:m.stetter@uni-koeln.de) if you would like to participate.**
+**Until further notice we will meet in the seminar room on the 4th floor of the Biocenter**
 
 Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
+### June
+
+#### Thursday June 9
+[Fu, et al 2022](https://www.nature.com/articles/s41559-022-01754-7)
+Genome-wide analyses of introgression between two sympatric Asian oak species
+
+#### Thursday June 2
+[Kivikoski, et al preprint](https://www.biorxiv.org/content/10.1101/2022.05.26.493536v1)
+Low heritability of crossover rate in wild sticklebacks
 
 ### May
 

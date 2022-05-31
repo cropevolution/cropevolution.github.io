@@ -13,7 +13,7 @@
 
 <title>functioning.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -152,6 +152,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -176,6 +177,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -328,7 +332,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -395,31 +399,70 @@ $(document).ready(function () {
 
 <!-- break -->
 <p><br> <!-- break --></p>
-<p>As young scientist myself, I have the PhD and postdoc time in fresh memory. My goal is to pass on the numerous great experiences and implement some of the ideas and inspirations I have gotten along the way. Everyone in the lab should get the training and opportunities they need to follow their curiosity and advance in their chosen career path. My task is to create the environment in which we can collaboratively advance. Below you can find information on the lab philosophy and expectations of lab members. Text and ideas in places borrow heavily from <a href="http://www.rilab.org/expectations.html">Jeff Ross-Ibarra</a> and <a href="http://www.rrlab.org/expectations.html">Rubén Rellán-Álvarez</a>.</p>
+<p>As young scientist myself, I have the PhD and postdoc time in fresh
+memory. My goal is to pass on the numerous great experiences and
+implement some of the ideas and inspirations I have gotten along the
+way. Everyone in the lab should get the training and opportunities they
+need to follow their curiosity and advance in their chosen career path.
+My task is to create the environment in which we can collaboratively
+advance. Below you can find information on the lab philosophy and
+expectations of lab members. Text and ideas in places borrow heavily
+from <a href="http://www.rilab.org/expectations.html">Jeff
+Ross-Ibarra</a> and <a
+href="http://www.rrlab.org/expectations.html">Rubén
+Rellán-Álvarez</a>.</p>
 <div id="general-rules" class="section level2">
 <h2>General Rules</h2>
 <div id="safety-first" class="section level3">
 <h3>Safety first</h3>
-<p>Your health and safety are more important than your research. This includes adhering to lab safety codes, as well as maintaining your physical and mental health. Never work in the lab if you are feeling sick, under medication that might affect your ability to work normally and definitely not under the effects of any kind of drugs. Avoid working in the lab by yourself doing potentially dangerous activities.</p>
+<p>Your health and safety are more important than your research. This
+includes adhering to lab safety codes, as well as maintaining your
+physical and mental health. Never work in the lab if you are feeling
+sick, under medication that might affect your ability to work normally
+and definitely not under the effects of any kind of drugs. Avoid working
+in the lab by yourself doing potentially dangerous activities.</p>
 </div>
 <div id="respect" class="section level3">
 <h3>Respect</h3>
-<p>I expect lab members to contribute to a productive and friendly environment conducive to learning and research. This includes treating your colleagues with respect, listening to others’ viewpoints and ideas, and ensuring the lab is a place where everybody feels welcome and appreciated. Racist, sexist, or other inappropriate comments or behavior will not be tolerated under any circumstance.</p>
+<p>I expect lab members to contribute to a productive and friendly
+environment conducive to learning and research. This includes treating
+your colleagues with respect, listening to others’ viewpoints and ideas,
+and ensuring the lab is a place where everybody feels welcome and
+appreciated. Racist, sexist, or other inappropriate comments or behavior
+will not be tolerated under any circumstance.</p>
 </div>
 </div>
 <div id="work" class="section level2">
 <h2>Work</h2>
-<p>Our lab is mostly a dry lab, meaning that we mostly work computational, but depending on the project wet lab and greenhouse experiments are involved from time to time. A perfect day in the lab (hopefully) starts with a cup of coffee, before checking on your plants in the greenhouse on the roof of the building. After, you sit down in front of your computer (Linux or Mac), you log onto the computing cluster, and realize that all the jobs you started the day before, finished successfully. All excited about the new results, you open R and make a wonderful plot that you share with your lab during lab meeting. Your lab fellows give you great feedback that motivates you for the next analysis and to write a manuscript. Somewhere in between all that you’ve also taken a lunch break and maybe someone brought cookies to the lab. Of course, not every day is perfect, but these are some of the things we do. If that sounds like a good work day to you, or includes things that you would like to do/learn, our lab is a good place for you.</p>
+<p>Our lab is mostly a dry lab, meaning that we mostly work
+computational, but depending on the project wet lab and greenhouse
+experiments are involved from time to time. A perfect day in the lab
+(hopefully) starts with a cup of coffee, before checking on your plants
+in the greenhouse on the roof of the building. After, you sit down in
+front of your computer (Linux or Mac), you log onto the computing
+cluster, and realize that all the jobs you started the day before,
+finished successfully. All excited about the new results, you open R and
+make a wonderful plot that you share with your lab during lab meeting.
+Your lab fellows give you great feedback that motivates you for the next
+analysis and to write a manuscript. Somewhere in between all that you’ve
+also taken a lunch break and maybe someone brought cookies to the lab.
+Of course, not every day is perfect, but these are some of the things we
+do. If that sounds like a good work day to you, or includes things that
+you would like to do/learn, our lab is a good place for you.</p>
 </div>
 <div id="general-lab-functioning" class="section level2">
 <h2>General lab functioning</h2>
 <ul>
 <li>We use Slack for lab internal communication</li>
-<li>The use of shared project management tools (e.g. trello) is encouraged.</li>
-<li>We have regular lab meetings and journal clubs where every lab member participates</li>
-<li>We write manuscripts in latex (unless there is a really good reason not to)</li>
+<li>The use of shared project management tools (e.g. trello) is
+encouraged.</li>
+<li>We have regular lab meetings and journal clubs where every lab
+member participates</li>
+<li>We write manuscripts in latex (unless there is a really good reason
+not to)</li>
 <li>Everyone is encouraged to take notes during meetings</li>
-<li>We use shared repositories to manage code and analysis notebooks</li>
+<li>We use shared repositories to manage code and analysis
+notebooks</li>
 <li>We post preprints and publish open access</li>
 </ul>
 </div>
@@ -427,90 +470,164 @@ $(document).ready(function () {
 <h2>Expectations (for all members)</h2>
 <div id="work-hours" class="section level4">
 <h4>Work hours</h4>
-<p>In general the time spent in the lab or working on your projects is not the most important factor, the progress is what counts. That being said, there is usually some correlation between productivity and time investment. We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours during the work week, since this is when most academic activities occur. There may be times when you feel like your project requires work late at night or on the weekends, but you are <em>not</em> expected to regularly work more than the normal work time in your contract. It is important that you take time off for personal life, vacations, etc. I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.</p>
+<p>In general the time spent in the lab or working on your projects is
+not the most important factor, the progress is what counts. That being
+said, there is usually some correlation between productivity and time
+investment. We are lucky enough to work in an area where flexible
+working hours are the norm. In order to be able to interact with the
+rest of the persons in the lab, we generally expect lab members to be
+present the majority of normal business hours during the work week,
+since this is when most academic activities occur. There may be times
+when you feel like your project requires work late at night or on the
+weekends, but you are <em>not</em> expected to regularly work more than
+the normal work time in your contract. It is important that you take
+time off for personal life, vacations, etc. I do ask, however, that you
+notify me if you will be absent for ≥1 day, and let me know in advance
+of any extended leave.</p>
 </div>
-<div id="seminars-journal-clubs-and-other-lab-and-institutional-activities" class="section level4">
-<h4>Seminars, journal clubs and other lab and institutional activities</h4>
-<p>Attendance to regular weekly lab meetings and journal club is expected of all lab members. Participation in weekly lab coffee is encouraged but not required.</p>
+<div
+id="seminars-journal-clubs-and-other-lab-and-institutional-activities"
+class="section level4">
+<h4>Seminars, journal clubs and other lab and institutional
+activities</h4>
+<p>Attendance to regular weekly lab meetings and journal club is
+expected of all lab members. Participation in weekly lab coffee is
+encouraged but not required.</p>
 </div>
 <div id="conferences" class="section level4">
 <h4>Conferences</h4>
-<p>Everyone is encouraged to attend at least one conference a year. Members of the lab regularly attend such meetings as the maize meeting, SMBE, ESEB, GPZ meetings and other national and international meetings. CEPLAS and other sources offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks. Each PhD student should be able to attend one conference per year after the first year and present their results at least one large international conference during their PhD. Postdocs are encouraged to attend at least one conference per year.</p>
+<p>Everyone is encouraged to attend at least one conference a year.
+Members of the lab regularly attend such meetings as the maize meeting,
+SMBE, ESEB, GPZ meetings and other national and international meetings.
+CEPLAS and other sources offer travel funding for graduate students and
+postdocs, and you should apply for external sources of funding to help
+cover travel expenses. Whenever possible, I will help fund attendance at
+one conference per year for each member of the lab on the condition that
+you are presenting a poster or talk at the meeting. Please provide ample
+time before the deadline for reviewing abstracts and posters or
+practicing talks. Each PhD student should be able to attend one
+conference per year after the first year and present their results at
+least one large international conference during their PhD. Postdocs are
+encouraged to attend at least one conference per year.</p>
 </div>
 <div id="authorship" class="section level4">
 <h4>Authorship</h4>
-<p>We follow the <a href="http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">IJME rules for authorship rules</a>:<br />
-1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND<br />
-2. Drafting the work or revising it critically for important intellectual content; AND<br />
+<p>We follow the <a
+href="http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html">IJME
+rules for authorship rules</a>:<br />
+1. Substantial contributions to the conception or design of the work; or
+the acquisition, analysis, or interpretation of data for the work;
+AND<br />
+2. Drafting the work or revising it critically for important
+intellectual content; AND<br />
 3. Final approval of the version to be published; AND<br />
-4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. Projects evolve over time and authorship, inclusion and author order will be re-evaluated accordingly.</p>
+4. Agreement to be accountable for all aspects of the work in ensuring
+that questions related to the accuracy or integrity of any part of the
+work are appropriately investigated and resolved. Projects evolve over
+time and authorship, inclusion and author order will be re-evaluated
+accordingly.</p>
 </div>
 <div id="open-science" class="section level4">
 <h4>Open Science</h4>
-<p>I feel strongly that open science is important. We publish preprints as soon as a manuscript is ready for submission. We publish our data as soon as we can. We document our work – with github, R markdown, readme files, etc. – so it is intelligible and reusable in the future. I expect members of the lab to practice open science.</p>
+<p>I feel strongly that open science is important. We publish preprints
+as soon as a manuscript is ready for submission. We publish our data as
+soon as we can. We document our work – with github, R markdown, readme
+files, etc. – so it is intelligible and reusable in the future. I expect
+members of the lab to practice open science.</p>
 </div>
 </div>
-<div id="specific-rules-for-the-different-members-of-the-lab" class="section level2">
+<div id="specific-rules-for-the-different-members-of-the-lab"
+class="section level2">
 <h2>Specific rules for the different members of the lab</h2>
 <div id="postdocs-and-senior-phd-students" class="section level3">
 <h3>Postdocs and senior PhD students</h3>
-<div id="my-responsibilities-to-postdocs-and-senior-phd-students" class="section level4">
+<div id="my-responsibilities-to-postdocs-and-senior-phd-students"
+class="section level4">
 <h4>My responsibilities to postdocs and senior PhD students:</h4>
 <ul>
-<li>Meet weekly (or bi-weekly if preferred) to discuss progress &amp; pitfalls.</li>
+<li>Meet weekly (or bi-weekly if preferred) to discuss progress &amp;
+pitfalls.</li>
 <li>Help interpreting results.</li>
-<li>Proof-read manuscripts in an acceptable amount of time (aiming for within 2 weeks)</li>
+<li>Proof-read manuscripts in an acceptable amount of time (aiming for
+within 2 weeks)</li>
 <li>Assist with identifying and writing postdoctoral fellowships.<br />
 </li>
-<li>Develop project ideas, including independent projects that can be taken with the postdoc.</li>
-<li>Discuss future career goals (e.g., do you want to teach, go into academia, industry, continue in research?), and plan ways to facilitate these goals.</li>
+<li>Develop project ideas, including independent projects that can be
+taken with the postdoc.</li>
+<li>Discuss future career goals (e.g., do you want to teach, go into
+academia, industry, continue in research?), and plan ways to facilitate
+these goals.</li>
 </ul>
 </div>
-<div id="expectations-of-postdocs-and-senior-phd-students" class="section level4">
+<div id="expectations-of-postdocs-and-senior-phd-students"
+class="section level4">
 <h4>Expectations of postdocs and senior PhD students:</h4>
 <ul>
 <li>Prepare for our regular progress/pitfalls meetings</li>
-<li>Write and submit manuscripts. I strongly encourage collaboration within the lab and with other labs. On average I expect your time as a postdoc in the lab to generate ~1-2 papers per year (first or co-authored), and in general this expectation seems to be not unreasonable.</li>
+<li>Write and submit manuscripts. I strongly encourage collaboration
+within the lab and with other labs. On average I expect your time as a
+postdoc in the lab to generate ~1-2 papers per year (first or
+co-authored), and in general this expectation seems to be not
+unreasonable.</li>
 <li>Proof-read manuscripts from other lab members.<br />
 </li>
-<li>Apply for external funding (either individual postdoc fellowships or contributing to larger lab grant writing).<br />
+<li>Apply for external funding (either individual postdoc fellowships or
+contributing to larger lab grant writing).<br />
 </li>
-<li>Maintain a set of lab notes, including directories of data, annotated codes &amp; versions, detailed methods. These need to be sufficient to reproduce results without additional instructions.</li>
-<li>Active participation in meetings (others will appreciate your feedback)</li>
-<li>Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors).</li>
+<li>Maintain a set of lab notes, including directories of data,
+annotated codes &amp; versions, detailed methods. These need to be
+sufficient to reproduce results without additional instructions.</li>
+<li>Active participation in meetings (others will appreciate your
+feedback)</li>
+<li>Participate in general lab responsibilities (servers, maintain
+common areas, taking turns hosting visitors).</li>
 <li>Participate in talk rehearsals of your colleagues.</li>
-<li>Optional, but encouraged: Mentor at least one undergraduate student.</li>
+<li>Optional, but encouraged: Mentor at least one undergraduate
+student.</li>
 </ul>
 </div>
 </div>
 <div id="master-and-junior-phd-students" class="section level3">
 <h3>Master and junior PhD students</h3>
-<div id="my-responsibilities-to-master-and-junior-phd-students" class="section level4">
+<div id="my-responsibilities-to-master-and-junior-phd-students"
+class="section level4">
 <h4>My responsibilities to Master and junior PhD students:</h4>
 <ul>
 <li>Develop project ideas.<br />
 </li>
 <li>Help interpreting results.<br />
 </li>
-<li>Proof-read and contribute to writing of thesis, abstracts and manuscripts.<br />
+<li>Proof-read and contribute to writing of thesis, abstracts and
+manuscripts.<br />
 </li>
-<li>Discuss future career goals (e.g., do you want to teach, go into academia, continue in research?), and plan ways to facilitate these goals.<br />
+<li>Discuss future career goals (e.g., do you want to teach, go into
+academia, continue in research?), and plan ways to facilitate these
+goals.<br />
 </li>
 <li>Meet weekly to discuss progress and pitfalls.</li>
 </ul>
 </div>
-<div id="expectations-of-master-and-junior-phd-students" class="section level4">
+<div id="expectations-of-master-and-junior-phd-students"
+class="section level4">
 <h4>Expectations of Master and junior PhD students:</h4>
 <ul>
 <li>Prepare for our regular progress/pitfalls</li>
-<li>Write and submit manuscripts. On average, I expect most students to produce three publications over the course of their PhD, including at least one first-author paper.</li>
-<li>Maintain a set of lab notes, including directories of data, annotated codes &amp; versions, detailed methods. These need to be sufficient to reproduce results without additional instructions.</li>
+<li>Write and submit manuscripts. On average, I expect most students to
+produce three publications over the course of their PhD, including at
+least one first-author paper.</li>
+<li>Maintain a set of lab notes, including directories of data,
+annotated codes &amp; versions, detailed methods. These need to be
+sufficient to reproduce results without additional instructions.</li>
 <li>Write thesis in due time.<br />
 </li>
 <li>Participate in talk rehearsals of your colleagues.<br />
 </li>
-<li>Participate in general lab responsibilities (servers, maintain common areas, taking turns hosting visitors, communal sampling and field work etc).</li>
-<li>Present research talks/posters at conferences over the course of your time in the lab. You are encouraged to do so annually, but this isn’t always possible.</li>
+<li>Participate in general lab responsibilities (servers, maintain
+common areas, taking turns hosting visitors, communal sampling and field
+work etc).</li>
+<li>Present research talks/posters at conferences over the course of
+your time in the lab. You are encouraged to do so annually, but this
+isn’t always possible.</li>
 </ul>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96594188-4"></script>
