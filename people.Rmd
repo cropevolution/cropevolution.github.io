@@ -210,14 +210,14 @@ Hurmain is a bachelor student ideintifing species diagnostic markers for the Ama
 ## Student helpers and interns
 
 <div style="float: left">
-<img src="own_images/people/Leonie_Eberhard.jpeg" style="width: 100px ;border:10px solid white">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
-**Leonie Eberhard** 
+**Vincent Kovarik** 
 <div style="float: left">
 </div>
-Leonie is a student helper in the lab evaluating the phenotypic diversity of a grain amaranth reference population.
+Vincent is a student helper in the lab evaluating the phenotypic diversity of a grain amaranth reference population.
 <!-- break -->
 <br>
 <br>
@@ -230,14 +230,14 @@ Leonie is a student helper in the lab evaluating the phenotypic diversity of a g
 
 
 <div style="float: left">
-<img src="own_images/people/Laura_Merx.JPG" style="width: 100px ;border:10px solid white">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
-**Krzysztov Pukacz** 
+**Anny Garces** 
 <div style="float: left">
 </div>
-Krzysztov is a CEPLAS rotation student exploring Oxford Nanopore sequencing to identify structural variation in grain amaranth
+Anny is a CEPLAS rotation student exploring structural variation in grain amaranth
 <!-- break -->
 <br>
 <br>
@@ -293,6 +293,13 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 ## Past Visitors
 - Cátia José Neves
 - Sabarna Bhattacharyya
+- Kerstin Schulz
+- Susanne Vollmer
+- Tatiana Stead
+- Kumsal Ecem Çolpan
+- Laura Merx
+- Krzysztof Pukacz 
+
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

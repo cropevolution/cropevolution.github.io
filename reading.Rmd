@@ -13,7 +13,12 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+
 ### June
+
+#### Thursday June 23
+[Liao, et al 2022](https://www.nature.com/articles/s41467-022-31112-x)
+The 3D architecture of the pepper genome and its relationship to function and evolution
 
 #### Thursday June 9
 [Fu, et al 2022](https://www.nature.com/articles/s41559-022-01754-7)
