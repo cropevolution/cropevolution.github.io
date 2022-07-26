@@ -210,7 +210,7 @@ Hurmain is a bachelor student ideintifing species diagnostic markers for the Ama
 ## Student helpers and interns
 
 <div style="float: left">
-<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/vincent_Kovarik.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
@@ -227,7 +227,7 @@ Vincent is a student helper in the lab evaluating the phenotypic diversity of a 
 <br>
 <br>
 
-
+<!-- break 
 
 <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
@@ -238,7 +238,7 @@ Vincent is a student helper in the lab evaluating the phenotypic diversity of a 
 <div style="float: left">
 </div>
 Anny is a CEPLAS rotation student exploring structural variation in grain amaranth
-<!-- break -->
+
 <br>
 <br>
 <br>
@@ -248,7 +248,7 @@ Anny is a CEPLAS rotation student exploring structural variation in grain amaran
 <br>
 
 
-<!-- break 
+
 **Ahad Kazmi** 
 <div style="float: left">
 </div>
@@ -299,7 +299,7 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 - Kumsal Ecem Çolpan
 - Laura Merx
 - Krzysztof Pukacz 
-
+- Anny Garces
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
