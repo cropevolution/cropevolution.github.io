@@ -120,6 +120,25 @@ Susanne is a PhD student and part of the CEPLAS graduate school in collaboration
 <br>
 
 
+<div style="float: left">
+<img src="own_images/people/tom.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+
+**Tom Winkler** 
+<div style="float: left">
+</div>
+Tom is a master student studying the the amaranth transcriptome and the involvement of transcriptomic changes in metabolic pathways
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Lab manager
 
 <div style="float: left">
@@ -142,25 +161,6 @@ Roswitha runs the wet lab and does the pipetting magic
 
 
 ## Master students
-
-<div style="float: left">
-<img src="own_images/people/tom.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-
-
-**Tom Winkler** 
-<div style="float: left">
-</div>
-Tom is a master student studying the the amaranth transcriptome and the involvement of transcriptomic changes in metabolic pathways
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 <div style="float: left">
@@ -210,7 +210,7 @@ Hurmain is a bachelor student ideintifing species diagnostic markers for the Ama
 ## Student helpers and interns
 
 <div style="float: left">
-<img src="own_images/vincent_Kovarik.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/vincent_Kovarik.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
@@ -227,6 +227,24 @@ Vincent is a student helper in the lab evaluating the phenotypic diversity of a 
 <br>
 <br>
 
+
+<div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+**Jan Krause** 
+<div style="float: left">
+</div>
+Jan is a student helper in the lab working on amaranth CMS systems.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!-- break 
 
 <div style="float: left">

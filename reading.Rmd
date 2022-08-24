@@ -12,9 +12,15 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### August
+
+#### Thursday August 25
+[Lian, et al 2022](https://www.nature.com/articles/s41467-022-31509-8)
+The megabase-scale crossover landscape is largely independent of sequence divergence
+
 ### July
 
-#### Thursday June 28
+#### Thursday July 28
 [Hu, et al preprint](https://www.biorxiv.org/content/10.1101/2022.07.15.500250v1)
 Allele-specific expression reveals multiple paths to highland adaptation in maize
 
