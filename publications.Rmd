@@ -8,7 +8,7 @@
 ## 2022
 
 * [Functional analysis of the BEACH domain gene MpSPIRRIG in Marchantia polymorpha]()  
-E Koebke, L Stephan, **Markus G Stetter**,  M Huelskamp  *Frontiers in Plant Science*  
+E Koebke, L Stephan, **Markus G Stetter** and  M Huelskamp  *Frontiers in Plant Science*  
 
 
 ## 2021
