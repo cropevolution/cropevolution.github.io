@@ -12,6 +12,12 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### September
+
+#### Thursday September 1
+[Bieker, et al 2022](https://www.science.org/doi/10.1126/sciadv.abo5115)
+Uncovering the genomic basis of an extraordinary plant invasion
+
 ### August
 
 #### Thursday August 25
