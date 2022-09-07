@@ -14,6 +14,10 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### September
 
+#### Thursday September 15
+[Vourlaki, et al preprint](https://www.biorxiv.org/content/10.1101/2022.08.24.505198v1)
+Detection of Domestication Signals through the Analysis of the Full Distribution of Fitness Effects using Forward Simulations and Polygenic Adaptation
+
 #### Thursday September 8
 [Buckley, et al 2022](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-022-01990-2)
 Variation in intraspecific demography drives localised concordance but species-wide discordance in response to past climatic change
