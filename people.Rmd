@@ -191,13 +191,13 @@ Julio is a master student working on the molecular validation of domestication g
 
 
 <div style="float: left">
-<img src="own_images/people/Hurmain_Ahmad.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Vivien_Pluekthun.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Hurmain Ahmad** 
+**Vivien Pluekthun** 
 <div style="float: left">
 </div>
-Hurmain is a bachelor student ideintifing species diagnostic markers for the Amaranthus genus.
+Vivien studies genetic determinants of germination in grain amaranth.
 <!-- break -->
 <br>
 <br>
@@ -210,14 +210,14 @@ Hurmain is a bachelor student ideintifing species diagnostic markers for the Ama
 ## Student helpers and interns
 
 <div style="float: left">
-<img src="own_images/people/vincent_Kovarik.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Jan_Krause.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
-**Vincent Kovarik** 
+**Jan Krause** 
 <div style="float: left">
 </div>
-Vincent is a student helper in the lab evaluating the phenotypic diversity of a grain amaranth reference population.
+Jan is the seed wizard in the lab.
 <!-- break -->
 <br>
 <br>
@@ -225,18 +225,16 @@ Vincent is a student helper in the lab evaluating the phenotypic diversity of a 
 <br>
 <br>
 <br>
-<br>
-
 
 <div style="float: left">
-<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Emily_Rywelski.JPG" style="width: 100px ;border:10px solid white">
 </div>
 
 
-**Jan Krause** 
+**Emily Rywelski** 
 <div style="float: left">
 </div>
-Jan is a student helper in the lab working on amaranth CMS systems.
+Emily works on pollen nucleous extraction and cell sorting.
 <!-- break -->
 <br>
 <br>
@@ -306,7 +304,7 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 
 ## Lab alumni
 - Sophie Schreiner (BSc student)
-- Tom Winkler (BSc student)
+- Tom Winkler (BSc, MSc student)
 
 ## Past Visitors
 - Cátia José Neves
