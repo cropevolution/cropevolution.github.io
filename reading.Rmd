@@ -13,6 +13,15 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### January
+#### Thursday January 12
+[Luo , et al 2022](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010513)
+Domestication and selection footprints in Persian walnuts (Juglans regia)
+
+
+
+## 2022
+
 ### November
 #### Thursday November 24
 [Díaz-Valenzuela, et al preprint](https://www.biorxiv.org/content/10.1101/2022.10.13.511672v1)
