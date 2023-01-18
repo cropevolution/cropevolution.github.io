@@ -14,6 +14,18 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 
 ### January
+
+
+#### Thursday January 26
+[James , et al 2022](https://www.annualreviews.org/doi/10.1146/annurev-arplant-071221-090809
+)
+Replicated Evolution in Plants
+
+#### Thursday January 19
+[Opedal , et al 2022](https://www.pnas.org/doi/10.1073/pnas.2203228120
+)
+Evolvability and trait function predict phenotypic divergence of plant populations
+
 #### Thursday January 12
 [Luo , et al 2022](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010513)
 Domestication and selection footprints in Persian walnuts (Juglans regia)
