@@ -12,18 +12,26 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### Febraury
+
+#### Thursday Febraury 9
+[Quagliariello et al., 2023](https://www.nature.com/articles/s41467-022-34416-0)
+Ancient oral microbiomes support gradual Neolithic dietary shifts towards agriculture
+
+#### Thursday Febraury 2
+[Shang et al., preprint](https://www.biorxiv.org/content/10.1101/2021.08.26.457771v5.full)
+Drivers of genomic landscapes of differentiation across Populus divergence gradient
+
+
 
 ### January
 
-
 #### Thursday January 26
-[James , et al 2022](https://www.annualreviews.org/doi/10.1146/annurev-arplant-071221-090809
-)
+[James , et al 2022](https://www.annualreviews.org/doi/10.1146/annurev-arplant-071221-090809)
 Replicated Evolution in Plants
 
 #### Thursday January 19
-[Opedal , et al 2022](https://www.pnas.org/doi/10.1073/pnas.2203228120
-)
+[Opedal , et al 2022](https://www.pnas.org/doi/10.1073/pnas.2203228120)
 Evolvability and trait function predict phenotypic divergence of plant populations
 
 #### Thursday January 12
