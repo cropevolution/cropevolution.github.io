@@ -12,17 +12,17 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
-### Febraury
+### February
 
-#### Thursday Febraury 23
+#### Thursday February 23
 [Liang et al., 2023](https://www.science.org/doi/10.1126/science.adf1323)
 Taxon-specific, phased siRNAs underlie a speciation locus in monkeyflowers
 
-#### Thursday Febraury 9
+#### Thursday February 9
 [Quagliariello et al., 2023](https://www.nature.com/articles/s41467-022-34416-0)
 Ancient oral microbiomes support gradual Neolithic dietary shifts towards agriculture
 
-#### Thursday Febraury 2
+#### Thursday February 2
 [Shang et al., preprint](https://www.biorxiv.org/content/10.1101/2021.08.26.457771v5.full)
 Drivers of genomic landscapes of differentiation across Populus divergence gradient
 
