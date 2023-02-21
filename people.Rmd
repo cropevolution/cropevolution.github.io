@@ -93,7 +93,7 @@ José is a PhD student studying gene flow between grain amaranth species and the
 **Julio Martinez** 
 <div style="float: left">
 </div>
-Julio is a master student working on the molecular validation of domestication genes in grain amaranth and the conservation of the MBW regulation network.
+Julio is working on the molecular validation of domestication genes in grain amaranth and the conservation of the MBW regulation network.
 <!-- break -->
 <br>
 <br>
@@ -151,7 +151,7 @@ Susanne is a PhD student and part of the CEPLAS graduate school in collaboration
 **Tom Winkler** 
 <div style="float: left">
 </div>
-Tom is a master student studying the the amaranth transcriptome and the involvement of transcriptomic changes in metabolic pathways
+Tom is a PhD student studying amaranth domestication and the involvement of transcriptomic changes in metabolic pathways
 <!-- break -->
 <br>
 <br>
@@ -164,7 +164,7 @@ Tom is a master student studying the the amaranth transcriptome and the involvem
 
 
 <div style="float: left">
-<img src="own_images/people/yuna.png" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Yuna_Zhang.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
