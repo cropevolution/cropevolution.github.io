@@ -12,6 +12,13 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### March
+
+#### Thursday March 9
+[Soudi et al., preprint](https://www.biorxiv.org/content/10.1101/2023.02.17.528989v1)
+Repeatability of adaptation in sunflowers: genomic regions harbouring inversions also drive adaptation in species lacking an inversion
+
+
 ### February
 
 #### Thursday February 23
