@@ -14,10 +14,19 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### March
 
-#### Thursday March 9
+#### Thursday March 23
 [Soudi et al., preprint](https://www.biorxiv.org/content/10.1101/2023.02.17.528989v1)
 Repeatability of adaptation in sunflowers: genomic regions harbouring inversions also drive adaptation in species lacking an inversion
 
+#### Thursday March 16
+[Zhong et al., 2022](https://onlinelibrary.wiley.com/doi/10.1111/mec.16454)
+Hard versus soft selective sweeps during domestication and improvement in soybean
+
+[Jensen et al., 2023](https://www.nature.com/articles/s41437-022-00575-5)
+Population genetic concerns related to the interpretation of empirical outliers and the neglect of common evolutionary processes
+
+[Zhong et al., 2023](https://www.nature.com/articles/s41437-023-00605-w)
+Wild progenitors provide a sound baseline model for evolutionary analysis of domesticated crop species
 
 ### February
 
