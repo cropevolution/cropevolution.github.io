@@ -12,7 +12,18 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
+### April
+
+#### Thursday April 20
+[He et al., preprint](https://www.biorxiv.org/content/10.1101/2023.01.10.523403v2)
+Heritable microbiome variation is correlated with source environment in locally adapted maize varieties
+
 ### March
+
+#### Thursday March 30
+[Zhao et al., 2023](https://www.nature.com/articles/s41477-023-01367-3)
+Population genomics unravels the Holocene history of bread wheat and its relatives
 
 #### Thursday March 23
 [Soudi et al., preprint](https://www.biorxiv.org/content/10.1101/2023.02.17.528989v1)
