@@ -4,10 +4,14 @@
 &nbsp;
 &nbsp;
 
+## Preprint
+
+* [Evolutionary rescue through gene flow despite genetic incompatibilities shaped diversity of the pseudo-cereal grain amaranth](https://doi.org/10.1101/2023.03.17.533106)
+**Gonçalves-Dias J, Singh A, Graf C and Stetter MG **
 
 ## 2022
 
-* [Functional analysis of the BEACH domain gene MpSPIRRIG in Marchantia polymorpha]()  
+* [Functional analysis of the BEACH domain gene MpSPIRRIG in Marchantia polymorpha](https://doi.org/10.3389%2Ffpls.2022.915268)  
 E Koebke, L Stephan, **Markus G Stetter** and  M Huelskamp  *Frontiers in Plant Science*  
 
 
