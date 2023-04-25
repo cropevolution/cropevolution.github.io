@@ -12,8 +12,18 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### May
+
+#### Thursday May 4
+[Simons et al., preprint](https://www.biorxiv.org/content/10.1101/2022.10.04.509926v1.full)
+Simple scaling laws control the genetic architectures of human complex traits
+
 
 ### April
+
+#### Thursday April 27
+[Mueller et al., 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284136)
+The taming of the weed: Developmental plasticity facilitated plant domestication
 
 #### Thursday April 20
 [He et al., preprint](https://www.biorxiv.org/content/10.1101/2023.01.10.523403v2)
