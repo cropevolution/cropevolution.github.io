@@ -12,6 +12,13 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
+### June
+
+#### Thursday June 1
+[Belluchi et al., 2023](https://www.researchsquare.com/article/rs-2976609/v1)
+A pan-genome of 72 Arabidopsis thaliana accessions reveals a conserved genome structure throughout the global species range
+
 ### May
 
 #### Thursday May 25
