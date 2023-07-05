@@ -13,7 +13,7 @@
 
 <title>What we read</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
 <!-- Slideshow container -->
 <div class="slideshow-container" ></div>
@@ -237,11 +237,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -270,8 +274,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -279,16 +283,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -410,6 +407,23 @@ atmosphere.</p>
 paper before and we dive directly in without formal presentation of the
 paper. If you would like to suggest a paper please email <a
 href="mailto:m.stetter@uni-koeln.de">Markus</a>.</p>
+<div id="july" class="section level3">
+<h3>July</h3>
+<div id="thursday-july-13" class="section level4">
+<h4>Thursday July 13</h4>
+<p><a
+href="https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.308">Tenaillon
+et al., 2023</a> The genomic scale of fluctuating selection in a natural
+plant population</p>
+</div>
+<div id="thursday-july-6" class="section level4">
+<h4>Thursday July 6</h4>
+<p><a
+href="https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16173?af=R">Tenaillon
+et al., 2023</a> Crop domestication as a step toward reproductive
+isolation</p>
+</div>
+</div>
 <div id="june" class="section level3">
 <h3>June</h3>
 <div id="thursday-june-22" class="section level4">
@@ -622,7 +636,7 @@ al 2022</a> The megabase-scale crossover landscape is largely
 independent of sequence divergence</p>
 </div>
 </div>
-<div id="july" class="section level3">
+<div id="july-1" class="section level3">
 <h3>July</h3>
 <div id="thursday-july-28" class="section level4">
 <h4>Thursday July 28</h4>
@@ -867,7 +881,7 @@ and Osborne, 2021</a> Crop origins explain variation in global
 agricultural relevance</p>
 </div>
 </div>
-<div id="july-1" class="section level3">
+<div id="july-2" class="section level3">
 <h3>July</h3>
 <div id="thursday-july-29" class="section level4">
 <h4>Thursday July 29</h4>
@@ -1126,7 +1140,7 @@ introgression patterns in intraspecific hybrids between wild and
 domesticated barley</p>
 </div>
 </div>
-<div id="july-2" class="section level3">
+<div id="july-3" class="section level3">
 <h3>July</h3>
 <div id="thursday-july-16" class="section level4">
 <h4>Thursday July 16</h4>
@@ -1390,7 +1404,7 @@ genomic landscape of recombination rate variation in European Aspen
 (Populus tremula)</p>
 </div>
 </div>
-<div id="july-3" class="section level3">
+<div id="july-4" class="section level3">
 <h3>July</h3>
 <div id="thursday-july-25" class="section level4">
 <h4>Thursday July 25</h4>

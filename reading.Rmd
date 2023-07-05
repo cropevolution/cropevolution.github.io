@@ -13,6 +13,16 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### July
+
+#### Thursday July 13
+[Tenaillon et al., 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.308)
+The genomic scale of fluctuating selection in a natural plant population
+
+#### Thursday July 6
+[Tenaillon et al., 2023](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16173?af=R)
+Crop domestication as a step toward reproductive isolation
+
 ### June
 #### Thursday June 22
 [Wuest et al., 2023](https://www.nature.com/articles/s41467-023-39130-z)
