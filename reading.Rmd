@@ -14,9 +14,12 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 
 ### July
+#### Thursday July 20
+[Xiao, 2023](https://www.pnas.org/doi/10.1073/pnas.2222041120)
+Adaptive and maladaptive introgression in grapevine domestication 
 
 #### Thursday July 13
-[Tenaillon et al., 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.308)
+[Kelly, 2023](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.308)
 The genomic scale of fluctuating selection in a natural plant population
 
 #### Thursday July 6
