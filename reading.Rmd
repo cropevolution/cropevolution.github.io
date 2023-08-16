@@ -13,6 +13,11 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### August
+#### Thursday August 17
+[Sicard, 2023](https://www.nature.com/articles/ncomms8960)
+Divergent sorting of a balanced ancestral polymorphism underlies the establishment of gene-flow barriers in Capsella
+
 ### July
 #### Thursday July 20
 [Xiao, 2023](https://www.pnas.org/doi/10.1073/pnas.2222041120)
