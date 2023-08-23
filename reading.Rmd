@@ -14,7 +14,7 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 
 ### August
-#### Thursday August 17
+#### Thursday August 24
 [Sicard, 2023](https://www.nature.com/articles/ncomms8960)
 Divergent sorting of a balanced ancestral polymorphism underlies the establishment of gene-flow barriers in Capsella
 
