@@ -46,6 +46,22 @@ Akanksha studies the introduction history of grain amaranth to India and the sou
 <br>
 
 
+<div style="float: left">
+<img src="own_images/people/Takou-Margarita-2.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Margarita Takou** 
+<div style="float: left">
+</div>
+Margarita studies polygenic selection in an experimental population of European maize. 
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## PhD candidates
 
@@ -66,25 +82,6 @@ Corbinian is a PhD student studying the genetic landscape of grain amaranth and 
 <br>
 <br>
 
-
-
-
-<div style="float: left">
-<img src="own_images/people/Julio.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-**Julio Martinez** 
-<div style="float: left">
-</div>
-Julio is working on the molecular validation of domestication genes in grain amaranth and the conservation of the MBW regulation network.
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
@@ -197,25 +194,6 @@ Roswitha runs the wet lab and does the pipetting magic
 
 
 
-## Visitors
-
-<div style="float: left">
-<img src="own_images/people/roger_sulub.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-**Roger Antonio Sulub Tun ** 
-<div style="float: left">
-</div>
-Roger is a visiting PhD student from CICY in Mexico and studies the center of origin of *A. cruentus*
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ## Student helpers and interns
 
@@ -253,6 +231,25 @@ Emily works on pollen nucleous extraction and cell sorting.
 <br>
 <br>
 <br>
+
+
+<div style="float: left">
+<img src="own_images/people/Jan_Krause.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Jan Krause** 
+<div style="float: left">
+</div>
+Jan studies the diversity of Cetral American grain amaranth.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <!-- break 
 
 <div style="float: left">
@@ -315,6 +312,9 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 ## Lab alumni
 - Sophie Schreiner (BSc student)
 - Tom Winkler (BSc, MSc student)
+- José Goncalves-Dias (PhD student)
+- Julio Martinez (MSc student)
+
 
 ## Past Visitors
 - Cátia José Neves
@@ -326,7 +326,8 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 - Laura Merx
 - Krzysztof Pukacz 
 - Anny Garces
-
+- Nguyen Quang Huy
+- Roger Antonio Sulub Tun 
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ1CKNGTV5"></script>
