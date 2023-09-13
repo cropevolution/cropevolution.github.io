@@ -13,6 +13,16 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### September
+#### Thursday September 21
+[Raingeval et al., preprint](https://www.biorxiv.org/content/10.1101/2023.09.06.556499v1.full)
+Retrotransposon-driven environmental regulation of FLC leads to adaptive response to herbicide
+
+
+#### Thursday September 14
+[Gu et al., 2023](https://www.nature.com/articles/s41588-023-01495-8)
+Structure and function of rice hybrid genomes reveal genetic basis and optimal performance of heterosis
+
 ### August
 #### Thursday August 24
 [Sicard, 2023](https://www.nature.com/articles/ncomms8960)
