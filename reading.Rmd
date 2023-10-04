@@ -15,6 +15,11 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### October
 
+#### Thursday October 12
+[  Opedal, et al., 2023](https://www.pnas.org/doi/10.1073/pnas.2203228120
+Evolvability and trait function predict phenotypic divergence of plant populations
+
+
 #### Thursday October 5
 [ Zeitler, et al., 2023](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010883)
 Purging due to self-fertilization does not prevent accumulation of expansion load
