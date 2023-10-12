@@ -13,11 +13,30 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### November
+
+#### Thursday November 9
+[Zwaenepoel, et al., preprint](https://www.nature.com/articles/s41467-023-41251-4)
+Genomes of cultivated and wild Capsicum species provide insights into pepper domestication and population differentiation
+
+#### Thursday November 2
+[Zwaenepoel, et al., preprint](https://www.biorxiv.org/content/10.1101/2023.09.24.559235v1)
+Polygenic barriers to gene flow: the role of dominance, haploid selection and heterogeneous genetic architectures
+
 ### October
+#### Thursday October 26
+[Stitzer et al., preprint](https://www.biorxiv.org/content/10.1101/2023.09.18.557618v1)
+Transposable element abundance subtly contributes to lower fitness in maize
+
+
+#### Thursday October 19
+[Redmond,, et al., preprint](https://www.biorxiv.org/content/10.1101/2023.09.11.557157v1)
+Single-plant-omics reveals the cascade of transcriptional changes during the vegetative-to-reproductive transition
+
 
 #### Thursday October 12
-[  Opedal, et al., 2023](https://www.pnas.org/doi/10.1073/pnas.2203228120
-Evolvability and trait function predict phenotypic divergence of plant populations
+[Khaipho-Burch, et al., 2023](https://www.nature.com/articles/d41586-023-02895-w?utm_source=Nature+Briefing&utm_campaign=ac0c637986-briefing-dy-20230922&utm_medium=email&utm_term=0_c9dfd39373-ac0c637986-46253114)
+Genetic modification can improve crop yields — but stop overselling it
 
 
 #### Thursday October 5
