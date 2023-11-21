@@ -13,7 +13,21 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### December
+
+#### Thursday December 7
+[Ruffley, et al., preprint](https://www.biorxiv.org/content/10.1101/2023.10.16.562583v1)
+Conflicts in natural selection constrain adaptation to climate change in Arabidopsis thaliana
+
 ### November
+#### Thursday November 30
+[O’Brien, et al., preprint](https://www.biorxiv.org/content/10.1101/2023.10.26.564303v2)
+The distribution of fitness effects during adaptive walks using a simple genetic network
+
+
+#### Thursday November 23
+[Desbiez-Piat, et al., 2023](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad186/7310833)
+Pervasive G × E interactions shape adaptive trajectories and the exploration of the phenotypic space in artificial selection experiments
 
 #### Thursday November 16
 [Benegas, et al., preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504706v3)
