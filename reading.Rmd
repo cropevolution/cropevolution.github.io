@@ -13,6 +13,22 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### January
+
+#### Thursday February 1
+[Kreiner, et al., 2023](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010865)
+
+Quantifying the role of genome size and repeat content in adaptive variation and the architecture of flowering time in Amaranthus tuberculatus
+
+### January
+#### Thursday January 25
+[Langmüller, et al., 2023](https://academic.oup.com/nar/article/51/17/9203/7240371?login=true)
+The genomic distribution of transposable elements is driven by spatially variable purifying selection 
+
+
+## 2023
+
+
 ### December
 
 #### Thursday December 7
