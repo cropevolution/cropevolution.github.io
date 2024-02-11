@@ -4,7 +4,7 @@ title: "What we read"
 &nbsp;
 
 C.R.O.P is our weekly journal club for anyone interested in evolution. 
-We meet on Thursdays at 4.00 pm at [Theatercafe Filmdose](https://goo.gl/maps/mamsnSV5ZqThF4YY8) for an open discussion about the weekly paper in a relaxed atmosphere. 
+We meet on Tuesday at 4.00 pm at [Theatercafe Filmdose](https://goo.gl/maps/mamsnSV5ZqThF4YY8) for an open discussion about the weekly paper in a relaxed atmosphere. 
 
 **Until further notice we will meet in the seminar room on the 4th floor of the Biocenter**
 
@@ -13,14 +13,22 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
-### January
+### Feburary
+
+#### Tuesday February 27
+[ Walter et al, 2024](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrad065/7577653)
+Environmental effects on genetic variance are likely to constrain adaptation in novel environments 
+
+#### Tuesday February 20
+[Pope et al, 2023](https://www.pnas.org/doi/full/10.1073/pnas.2208116120)
+The expansion of agriculture has shaped the recent evolutionary history of a specialized squash pollinator
 
 #### Thursday February 1
 [Kreiner, et al., 2023](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010865)
-
 Quantifying the role of genome size and repeat content in adaptive variation and the architecture of flowering time in Amaranthus tuberculatus
 
 ### January
+
 #### Thursday January 25
 [Langmüller, et al., 2023](https://academic.oup.com/nar/article/51/17/9203/7240371?login=true)
 The genomic distribution of transposable elements is driven by spatially variable purifying selection 
