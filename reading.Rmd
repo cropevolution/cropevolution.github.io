@@ -13,11 +13,14 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
-### Feburary
 
-#### Tuesday February 27
+### March
+
+#### Tuesday March 5
 [ Walter et al, 2024](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrad065/7577653)
 Environmental effects on genetic variance are likely to constrain adaptation in novel environments 
+
+### Feburary
 
 #### Tuesday February 20
 [Pope et al, 2023](https://www.pnas.org/doi/full/10.1073/pnas.2208116120)
