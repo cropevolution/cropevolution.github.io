@@ -219,7 +219,7 @@ Roswitha runs the wet lab and does the pipetting magic
 **Maria Rodriguez** 
 <div style="float: left">
 </div>
-Maria studies of betalain accumulation and its fitness consequences under stress in amaranth.
+Maria studie betalain accumulation and its fitness consequences under stress in amaranth.
 <!-- break -->
 <br>
 <br>
@@ -237,7 +237,8 @@ Maria studies of betalain accumulation and its fitness consequences under stress
 **Carlotta Sehl** 
 <div style="float: left">
 </div>
-Maria studies of betalain accumulation and its fitness consequences under stress in amaranth.
+Carlotta develops grafting as tool for genome editing in amaranth
+
 <!-- break -->
 <br>
 <br>
