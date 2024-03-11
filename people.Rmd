@@ -251,7 +251,7 @@ Maria studies of betalain accumulation and its fitness consequences under stress
 
 
 <div style="float: left">
-<img src="own_images/people/Aslinur_Aktürk.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Aslinur_Aktuerk.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
