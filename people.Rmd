@@ -26,7 +26,7 @@ Markus is group leader in the Institute for Plant Sciences at the University of 
 <br>
 <!-- break -->
 
-## Postdoc
+## Postdocs
 
 <div style="float: left">
 <img src="own_images/people/akanksha.jpg" style="width: 100px ;border:10px solid white">
@@ -163,6 +163,23 @@ Yuna studies polygenic adaptation and the evolution of trait syndromes as part o
 <br>
 <br>
 
+## Office
+<div style="float: left">
+<img src="own_images/people/Katharina_Borowski.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Katharina Borowski** 
+<div style="float: left">
+</div>
+Roswitha runs the office and does the paper work magic
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Lab manager
 
@@ -192,19 +209,54 @@ Roswitha runs the wet lab and does the pipetting magic
 </div>
 -->
 
+## BSc Thesis
 
 
+<div style="float: left">
+<img src="own_images/people/Maria_Rodriguez.JPG" style="width: 100px ;border:10px solid white">
+</div>
+
+**Maria Rodriguez** 
+<div style="float: left">
+</div>
+Maria studies of betalain accumulation and its fitness consequences under stress in amaranth.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div style="float: left">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Carlotta Sehl** 
+<div style="float: left">
+</div>
+Maria studies of betalain accumulation and its fitness consequences under stress in amaranth.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Student helpers and interns
 
 <div style="float: left">
-<img src="own_images/people/Vivien_Pluekthun.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Vivien Pluekthun** 
+**Fernanda Daniela Giampaoli** 
 <div style="float: left">
 </div>
-Vivien studies genetic determinants of germination in grain amaranth.
+Fernanda helps with wet lab duties.
 <!-- break -->
 <br>
 <br>
@@ -215,14 +267,32 @@ Vivien studies genetic determinants of germination in grain amaranth.
 <br>
 
 <div style="float: left">
-<img src="own_images/people/Emily_Rywelski.JPG" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
-**Emily Rywelski** 
+**Laura Brüggemann** 
 <div style="float: left">
 </div>
-Emily works on pollen nucleous extraction and cell sorting.
+Laura helps with the plant work and seed handling
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div style="float: left">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+**Aslinur Aktürk** 
+<div style="float: left">
+</div>
+Aslinur updates AmaranthGDB to the most recent reference genome.
 <!-- break -->
 <br>
 <br>
@@ -233,14 +303,16 @@ Emily works on pollen nucleous extraction and cell sorting.
 <br>
 
 
+
 <div style="float: left">
-<img src="own_images/people/Jan_Krause.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Luca_Weber.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Jan Krause** 
+
+**Luca Weber** 
 <div style="float: left">
 </div>
-Jan studies the diversity of Cetral American grain amaranth.
+Luca studies the impact of a transposable element on domestication traits in amaranth.
 <!-- break -->
 <br>
 <br>
