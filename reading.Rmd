@@ -12,9 +12,21 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### April
 
+#### Tuesday April 2
+Easter break
 
 ### March
+
+
+#### Tuesday March 26
+Easter break
+
+
+#### Tuesday March 19
+[ He et al, 2024](https://www.nature.com/articles/s41588-024-01655-4)
+Large-scale gene expression alterations introduced by structural variation drive morphotype diversification in Brassica oleracea
 
 #### Tuesday March 12
 [ He et al, 2024](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03203-z)
