@@ -83,27 +83,6 @@ Corbinian is a PhD student studying the genetic landscape of grain amaranth and 
 <br>
 
 
-
-
-
-<div style="float: left">
-<img src="own_images/people/kerstin.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-**Kerstin Schulz** 
-<div style="float: left">
-</div>
-Kerstin is a PhD student and part of the CEPLAS graduate school. Kerstin employs ancestral recombination graphs to study the evolution of maize 
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 <div style="float: left">
 <img src="own_images/people/SusanneVollmer.jpg" style="width: 100px ;border:10px solid white">
 </div>
@@ -210,6 +189,23 @@ Roswitha runs the wet lab and does the pipetting magic
 -->
 
 ## BSc Thesis
+<div style="float: left">
+<img src="own_images/people/Bartlomiej_Chachula.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Bartlomiej Chachula** 
+<div style="float: left">
+</div>
+Bartlomiej seed color change during amaranth domestication using AI driven seed phenotyping.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 <div style="float: left">
