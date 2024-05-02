@@ -6,11 +6,17 @@
 
 ## Preprint
 
-* [Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation and anthocyanin regulator co-option in amaranth](https://doi.org/10.1101/2023.08.24.554588)
-**Winkler TS, Vollmer SK and Stetter MG**
+
+
+
+Coming soon
 
 ## 2024
-[Eight arguments why biodiversity is important to safeguard food security](https://doi.org/10.1002/ppp3.10492)
+* [Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation and anthocyanin regulator co-option in amaranth]( https://doi.org/10.1111/nph.19736)
+**Winkler TS, Vollmer SK**,Dyballa-Rukes N, Metzger S  and **Stetter MG**
+[Preprint](https://doi.org/10.1101/2023.08.24.554588)
+
+* [Eight arguments why biodiversity is important to safeguard food security](https://doi.org/10.1002/ppp3.10492)
 Dannenberg P, Braun B, Greiner C, Follmann A, Haug M, Semedi Hargo Yuwono P, **Stetter M**, Widlok T and Kopriva S.  *Plants, People, Planet*
 
 

@@ -266,23 +266,6 @@ Aslinur updates AmaranthGDB to the most recent reference genome.
 <br>
 
 
-<div style="float: left">
-<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-
-**Laura Brüggemann** 
-<div style="float: left">
-</div>
-Laura helps with the plant work and seed handling
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div style="float: left">
 <img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
@@ -309,10 +292,10 @@ Fernanda helps with wet lab duties.
 </div>
 
 
-**Luca Weber** 
+**Ella Ludwig** 
 <div style="float: left">
 </div>
-Luca studies the impact of a transposable element on domestication traits in amaranth.
+Ella studies stuctural variation in amaranth.
 <!-- break -->
 <br>
 <br>
@@ -386,6 +369,7 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 - Tom Winkler (BSc, MSc student)
 - José Goncalves-Dias (PhD student)
 - Julio Martinez (MSc student)
+- Kerstin Schulz
 
 
 ## Past Visitors
@@ -400,6 +384,7 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 - Anny Garces
 - Nguyen Quang Huy
 - Roger Antonio Sulub Tun 
+- Luca Weber
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ1CKNGTV5"></script>

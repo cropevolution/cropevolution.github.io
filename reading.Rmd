@@ -12,6 +12,24 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### May
+
+#### Tuesday May 28
+[Garner et al, preprint](https://www.biorxiv.org/content/10.1101/2023.04.19.537550v1.full)
+A cis-regulatory point mutation at a R2R3-Myb transcription factor contributes to speciation by reinforcement in Phlox drummondii
+
+#### Tuesday May 21
+[Schraiber et al, preprint](https://www.biorxiv.org/content/10.1101/2024.02.10.579721v2.full)
+Unifying approaches from statistical genetics and phylogenetics for mapping phenotypes in structured populations
+
+#### Tuesday May 14
+[Sun et al, 2024](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.19738)
+A WOX homolog disrupted by a transposon led to the loss of spines and contributed to the domestication of lettuce
+
+#### Tuesday May 7
+[Lian et al, 2024](https://www.nature.com/articles/s41588-024-01715-9)
+A pan-genome of 69 Arabidopsis thaliana accessions reveals a conserved genome structure throughout the global species range
+
 ### April
 
 #### Tuesday April 30
