@@ -288,7 +288,7 @@ Fernanda helps with wet lab duties.
 
 
 <div style="float: left">
-<img src="own_images/people/Luca_Weber.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/ella_ludwig.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
