@@ -12,18 +12,18 @@
 Coming soon
 
 ## 2024
-* [Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation and anthocyanin regulator co-option in amaranth]( https://doi.org/10.1111/nph.19736)
-**Winkler TS, Vollmer SK**,Dyballa-Rukes N, Metzger S  and **Stetter MG**
+* [Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation and anthocyanin regulator co-option in amaranth]( https://doi.org/10.1111/nph.19736)  
+**Winkler TS, Vollmer SK**,Dyballa-Rukes N, Metzger S  and **Stetter MG** *New Phytologist*  
 [Preprint](https://doi.org/10.1101/2023.08.24.554588)
 
-* [Eight arguments why biodiversity is important to safeguard food security](https://doi.org/10.1002/ppp3.10492)
+* [Eight arguments why biodiversity is important to safeguard food security](https://doi.org/10.1002/ppp3.10492)  
 Dannenberg P, Braun B, Greiner C, Follmann A, Haug M, Semedi Hargo Yuwono P, **Stetter M**, Widlok T and Kopriva S.  *Plants, People, Planet*
 
 
 ## 2023
 
-* [Genetic incompatibilities and evolutionary rescue by wild relatives shaped grain amaranth domestication](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad177/7239273?utm_source=authortollfreelink&utm_campaign=mbe&utm_medium=email&guestAccessKey=172dbed5-2be8-44b6-9a54-2e1c537889d1) 
-**Gonçalves-Dias J, Singh A, Graf C and Stetter MG** *Molecular Biology and Evolution*
+* [Genetic incompatibilities and evolutionary rescue by wild relatives shaped grain amaranth domestication](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad177/7239273?utm_source=authortollfreelink&utm_campaign=mbe&utm_medium=email&guestAccessKey=172dbed5-2be8-44b6-9a54-2e1c537889d1)  
+**Gonçalves-Dias J\*, Singh A\*, Graf C and Stetter MG** *Molecular Biology and Evolution*   
 [Preprint](https://doi.org/10.1101/2023.03.17.533106)
 
 ## 2022
