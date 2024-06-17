@@ -246,27 +246,6 @@ Carlotta develops grafting as tool for genome editing in amaranth
 
 ## Student helpers and interns
 
-
-<div style="float: left">
-<img src="own_images/people/Aslinur_Aktuerk.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-
-**Aslinur Aktürk** 
-<div style="float: left">
-</div>
-Aslinur updates AmaranthGDB to the most recent reference genome.
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
 <div style="float: left">
 <img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
