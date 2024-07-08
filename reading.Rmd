@@ -14,6 +14,19 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### July
 
+#### Tuesday July 23
+[Arca et al, 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.14022) 
+Genotyping of DNA pools identifies untapped landraces and genomic regions to develop next-generation varieties
+
+#### Tuesday July 16
+[Cao et al, 2024](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03310-x) 
+DNA methylation variations underlie lettuce domestication and divergence
+
+#### Tuesday July 9
+[Andrade et al, 2024](https://www.nature.com/articles/s41559-024-02443-3) 
+Selection against domestication alleles in introduced rabbit populations
+
+
 #### Tuesday July 2
 [Ament-Velásquez et al, 2022](https://academic.oup.com/mbe/article/39/11/msac242/6806091) 
 The Dynamics of Adaptation to Stress from Standing Genetic Variation and de novo Mutations

@@ -9,7 +9,8 @@
 
 
 
-Coming soon
+* [Local selection shaped the diversity of European maize landraces.](https://doi.org/10.1101/2024.06.07.597898)   
+**Takou, M, Schulz K and Stetter MG** (2024).  bioRxiv, 2024-06.
 
 ## 2024
 * [Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation and anthocyanin regulator co-option in amaranth]( https://doi.org/10.1111/nph.19736)  
