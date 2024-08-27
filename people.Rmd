@@ -28,11 +28,61 @@ Markus is group leader in the Institute for Plant Sciences at the University of 
 
 ## Postdocs
 
+
+<div style="float: left">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Maxime Kadner** 
+<div style="float: left">
+<a href=""><img src="own_images/email_icon.png" style="width: 30px;"></a>
+
+</div>
+<div style="float: left">
+</div>
+Maxime studies the molecular changes that converted wild plants to crops using grain amaranth as a model. 
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div style="float: left">
+<img src="own_images/people/Schilbert_Hanna_Marie.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+
+**Hanna Marie Schilbert** 
+<div style="float: left">
+<a href=""><img src="own_images/scholar.png" style="width: 30px;"></a>
+
+</div>
+<div style="float: left">
+</div>
+Hanna studies how pleiotropy evolves as part of [TRR 341](https://trr341.uni-koeln.de/). 
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <div style="float: left">
 <img src="own_images/people/akanksha.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 **Akanksha Singh** 
+<div style="float: left">
+<a href="https://scholar.google.com/citations?hl=en&user=ymVnY3IAAAAJ"><img src="own_images/scholar.png" style="width: 30px;"></a>
+<a href="mailto:asingh3@uni-koeln.de"><img src="own_images/email_icon.png" style="width: 30px;"></a>
+</div>
 <div style="float: left">
 </div>
 Akanksha studies the introduction history of grain amaranth to India and the sources of adaptive alleles. 
@@ -52,9 +102,17 @@ Akanksha studies the introduction history of grain amaranth to India and the sou
 
 **Margarita Takou** 
 <div style="float: left">
+<a href="https://scholar.google.com/citations?user=raYNChEAAAAJ&hl=en"><img src="own_images/scholar.png" style="width: 30px;"></a>
+<a href="mailto:mtakou1@uni-koeln.de"><img src="own_images/email_icon.png" style="width: 30px;"></a>
+
 </div>
+<div style="float: left">
+</div>
+
 Margarita studies polygenic selection in an experimental population of European maize. 
 <!-- break -->
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -84,13 +142,37 @@ Corbinian is a PhD student studying the genetic landscape of grain amaranth and 
 
 
 <div style="float: left">
+<img src="own_images/people/ella_ludwig.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+**Ella Ludwig** 
+<div style="float: left">
+</div>
+Ella studies stuctural variation in amaranth.
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<div style="float: left">
 <img src="own_images/people/SusanneVollmer.jpg" style="width: 100px ;border:10px solid white">
 </div>
+
+
+
+
 
 **Susanne Vollmer** 
 <div style="float: left">
 </div>
-Susanne is a PhD student and part of the CEPLAS graduate school in collaboration with the [Hensel lab at HHU](https://www.ceplas.eu/en/research/people/dr-goetz-hensel). Susanne advances various molecular methods for amaranth and dissects the regulation of seed color adaptation.
+Susanne is a PhD student and part of the CEPLAS graduate school in collaboration with the [Hensel lab at HHU](https://www.ceplas.eu/en/research/people/dr-goetz-hensel). Susanne advances various molecular methods for amaranth and dissects the regulation of betalain pigments.
 <!-- break -->
 <br>
 <br>
@@ -131,7 +213,7 @@ Tom is a PhD student studying amaranth domestication and the involvement of tran
 **Yuna Zhang** 
 <div style="float: left">
 </div>
-Yuna studies polygenic adaptation and the evolution of trait syndromes as part of the TRR 341 
+Yuna studies polygenic adaptation and the evolution of trait syndromes as part of the [TRR 341](https://trr341.uni-koeln.de/).
 
 <!-- break -->
 <br>
@@ -160,16 +242,16 @@ Katharina runs the office and does the paper work magic
 <br>
 <br>
 
-## Lab manager
+## Lab managers
 
 <div style="float: left">
-<img src="own_images/people/roswitha.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/EvelinFahle.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Roswitha Lentz** 
+**Evelin Fahle** 
 <div style="float: left">
 </div>
-Roswitha runs the wet lab and does the pipetting magic
+Evelin runs our large scale applications and does pipetting magic
 <!-- break -->
 <br>
 <br>
@@ -180,6 +262,22 @@ Roswitha runs the wet lab and does the pipetting magic
 <br>
 
 
+<div style="float: left">
+<img src="own_images/people/Leia2024.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Leia Mijatovic** 
+<div style="float: left">
+</div>
+Leia runs the cloning and molecular analysis in the wet lab and does pipetting magic
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <!-- break
@@ -263,18 +361,14 @@ Fernanda helps with wet lab duties.
 <br>
 <br>
 
-
-
-
 <div style="float: left">
-<img src="own_images/people/ella_ludwig.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
-
-**Ella Ludwig** 
+**Sophie Feyerabend** 
 <div style="float: left">
 </div>
-Ella studies stuctural variation in amaranth.
+Sophie helps with plant work and field experiments.
 <!-- break -->
 <br>
 <br>

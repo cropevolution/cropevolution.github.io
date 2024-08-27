@@ -28,6 +28,17 @@ Understanding how populations adapt to changing environments is essential to be 
 Crop domestication is a well-suited model to study polygenic adaptation, because strong selection shaped the phenotype of crops in evolutionary short time.
 Additionally, for many crops, such as maize, phenotype and genotype data is available for a large number of individuals over many generations.
 
+
+## Evolution of pathway replacement
+
+![](own_images/cover_NP_amaranth.png)
+
+Novel traits can provide fitness advantages and drive evolution. New specialised metabolites are traits that arose in different plant lineages, and even replaced existing metabolites. Why, and how almost universal metabolic pathways can be replaced in entire groups of species by biochemically distinct pathways without persistence of any species producing both metabolites remains unknown. 
+
+The replacement of the widely conserved red pigment anthocyanin by the biochemically distinct betalains offers a unique opportunity to understand the integration of novel traits into existing regulatory systems. Notably, no plant species producing both anthocyanins and betalains has yet been identified, but both show similar environmental responses. 
+We study the evolution of betalain pigments in a multi-scale apporach.
+
+
 # Our models
 
 ## Domestication genomics of amaranth
@@ -60,6 +71,10 @@ We are interested in the evolutionary consequences of maize expansion and in par
 We also make use of genomic data from doubled haploid libraries, generated from heterozygous maize landraces, and experimental populations to study the impact of negative alleles.
 
 
+## Our Work is supported by
+* DFG
+* TRR 341
+* BMBF
 
 
 <!-- Google tag (gtag.js) -->
