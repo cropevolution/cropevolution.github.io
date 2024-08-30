@@ -18,7 +18,7 @@ Please contact us if you are interested in joining the lab.
 <div style="float: left">
 <a href="https://twitter.com/mgstetter"><img src="own_images/Twitter_logo_blue.png" style="width: 20px;"></a><a href="http://mstetter.github.io"><img src="own_images/Home_icon_black.png" style="width: 20px;"></a><a href="https://scholar.google.de/citations?user=yYKVZQQAAAAJ&hl=en"><img src="own_images/scholar.png" style="width: 30px;"></a><a href="http://github.com/mstetter"><img src="own_images/GitHub-Mark-32px.png" style="width:20px;"></a>
 </div>
-Markus is group leader in the Institute for Plant Sciences at the University of Cologne  [read more](about.html)  
+Markus is group leader in the Institute for Plant Sciences at the University of Cologne.  [read more](about.html)  
 
 <!-- break -->
 <br>
@@ -192,7 +192,7 @@ Susanne is a PhD student and part of the CEPLAS graduate school in collaboration
 **Tom Winkler** 
 <div style="float: left">
 </div>
-Tom is a PhD student studying amaranth domestication and the involvement of transcriptomic changes in metabolic pathways
+Tom is a PhD student studying amaranth domestication and the involvement of transcriptomic changes in metabolic pathways.
 <!-- break -->
 <br>
 <br>
@@ -232,7 +232,7 @@ Yuna studies polygenic adaptation and the evolution of trait syndromes as part o
 **Katharina Borowski** 
 <div style="float: left">
 </div>
-Katharina runs the office and does the paper work magic
+Katharina runs the office and does the paper work magic.
 <!-- break -->
 <br>
 <br>
@@ -251,7 +251,7 @@ Katharina runs the office and does the paper work magic
 **Evelin Fahle** 
 <div style="float: left">
 </div>
-Evelin runs our large scale applications and does pipetting magic
+Evelin runs our large scale applications and does pipetting magic.
 <!-- break -->
 <br>
 <br>
@@ -269,7 +269,7 @@ Evelin runs our large scale applications and does pipetting magic
 **Leia Mijatovic** 
 <div style="float: left">
 </div>
-Leia runs the cloning and molecular analysis in the wet lab and does pipetting magic
+Leia runs the cloning and molecular analysis in the wet lab and does pipetting magic.
 <!-- break -->
 <br>
 <br>
@@ -331,7 +331,7 @@ Maria studie betalain accumulation and its fitness consequences under stress in 
 **Carlotta Sehl** 
 <div style="float: left">
 </div>
-Carlotta develops grafting as tool for genome editing in amaranth
+Carlotta develops grafting as tool for genome editing in amaranth.
 
 <!-- break -->
 <br>
@@ -345,7 +345,7 @@ Carlotta develops grafting as tool for genome editing in amaranth
 ## Student helpers and interns
 
 <div style="float: left">
-<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/fernanda_Giampaoli.jpeg" style="width: 100px ;border:10px solid white">
 </div>
 
 **Fernanda Daniela Giampaoli** 
