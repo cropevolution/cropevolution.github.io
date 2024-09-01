@@ -184,7 +184,7 @@ Susanne is a PhD student and part of the CEPLAS graduate school in collaboration
 
 
 <div style="float: left">
-<img src="own_images/people/tom.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Tom_Winkler_2024.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 

@@ -12,6 +12,17 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
+### September
+
+#### Tuesday September 10
+[Booker, 2024](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae033/7735308) 
+The structure of the environment influences the patterns and genetics of local adaptation
+
+#### Tuesday September 3
+[Fiscus, et al, preprint](https://www.biorxiv.org/content/10.1101/2024.08.22.609253v1) 
+Climate, population size, and dispersal influences mutational load across the landscape in Vitis arizonica
+
 ### August
 Summer break
 
