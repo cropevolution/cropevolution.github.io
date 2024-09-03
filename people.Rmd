@@ -30,7 +30,7 @@ Markus is group leader in the Institute for Plant Sciences at the University of 
 
 
 <div style="float: left">
-<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/maxime_kadner.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 **Maxime Kadner** 
