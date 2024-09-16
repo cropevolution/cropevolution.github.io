@@ -15,6 +15,15 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### September
 
+#### Tuesday September 24
+[Short and Streisfeld, preprint](https://www.biorxiv.org/content/10.1101/2024.08.26.609732v1.full) 
+The genomic outcomes of hybridization vary over time within a monkeyflower radiation
+
+#### Tuesday September 17
+[Long, preprint](https://www.biorxiv.org/content/10.1101/2024.02.14.580345v1.full) 
+Muller’s Ratchet in Action: The Erosion of Sexual Reproduction Genes in Domesticated Cassava (Manihot esculenta)
+
+
 #### Tuesday September 10
 [Booker, 2024](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae033/7735308) 
 The structure of the environment influences the patterns and genetics of local adaptation
