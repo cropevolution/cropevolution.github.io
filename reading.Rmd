@@ -15,7 +15,7 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### October
 
-#### Tuesday October 8
+#### Tuesday October 22
 [McKenzie et al, preprint](https://www.biorxiv.org/content/10.1101/2024.09.25.614826v1.full) 
 A massive community-science flower color dataset reveals convergent evolution of delayed flowering phenology in North American red-flowering plants
 
