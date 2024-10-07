@@ -15,6 +15,18 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### October
 
+#### Tuesday October 8
+[McKenzie et al, preprint](https://www.biorxiv.org/content/10.1101/2024.09.25.614826v1.full) 
+A massive community-science flower color dataset reveals convergent evolution of delayed flowering phenology in North American red-flowering plants
+
+#### Tuesday October 15
+TRR 341 seminar
+
+#### Tuesday October 8
+[Huang et al, preprint](https://www.biorxiv.org/content/10.1101/2024.09.17.613564v1.full) 
+Varying recombination landscapes between individuals are driven by polymorphic transposable elements
+
+
 #### Tuesday October 1
 [Li, preprint](https://www.biorxiv.org/content/10.1101/2024.09.19.613351v1) 
 The utility of environmental data from traditional varieties for climate-adaptive maize breeding
