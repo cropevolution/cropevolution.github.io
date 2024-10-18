@@ -60,7 +60,7 @@ Maxime studies the molecular changes that converted wild plants to crops using g
 **Hanna Marie Schilbert** 
 <div style="float: left">
 <a href="https://scholar.google.de/citations?hl=de&pli=1&user=jusNDNUAAAAJ"><img src="own_images/scholar.png" style="width: 30px;"></a>
-
+<a href="mailto:hschilbe@uni-koeln.de"><img src="own_images/email_icon.png" style="width: 30px;"></a>
 </div>
 <div style="float: left">
 </div>
