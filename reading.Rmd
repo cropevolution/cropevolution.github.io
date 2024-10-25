@@ -13,7 +13,18 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### November
+
+#### Tuesday November 5
+[Ni et al, 2024](https://www.science.org/doi/10.1126/science.ado5331) 
+Human-driven evolution of color in a stonefly mimic
+
+
 ### October
+
+#### Tuesday October 29
+[Schuh and Morris, preprint](https://www.biorxiv.org/content/10.1101/2024.10.03.615829v1.full) 
+Loss of pleiotropic regulatory functions in Tannin1, the sorghum ortholog of Arabidopsis master regulator TTG1
 
 #### Tuesday October 22
 [McKenzie et al, preprint](https://www.biorxiv.org/content/10.1101/2024.09.25.614826v1.full) 
