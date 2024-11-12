@@ -12,6 +12,11 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### December
+
+#### December December 3
+[Burgarella et al, 2024](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae039/7731525?login=false) 
+Mating systems and recombination landscape strongly shape genetic diversity and selection in wheat relatives
 
 ### November
 
@@ -23,9 +28,6 @@ Regulatory variation controlling architectural pleiotropy in maize
 [Guillotin et al., 2023](https://www.nature.com/articles/s41586-023-06053-0) 
 A pan-grass transcriptome reveals patterns of cellular divergence in crops
 
-#### Tuesday November 12
-[Burgarella et al, 2024](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae039/7731525?login=false) 
-Mating systems and recombination landscape strongly shape genetic diversity and selection in wheat relatives
 
 #### Tuesday November 5
 [Ni et al, 2024](https://www.science.org/doi/10.1126/science.ado5331) 
