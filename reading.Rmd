@@ -6,7 +6,7 @@ title: "What we read"
 C.R.O.P is our weekly journal club for anyone interested in evolution. 
 We meet on Tuesday at 4.15 pm at [Theatercafe Filmdose](https://goo.gl/maps/mamsnSV5ZqThF4YY8) for an open discussion about the weekly paper in a relaxed atmosphere. 
 
-**Until further notice we will meet in the seminar room on the 3rd floor of the Biocenter**
+**Until further notice we will meet in the seminar room on the 3rd floor of the CoMB**
 
 Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
@@ -14,6 +14,18 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 
 ### November
+
+#### Tuesday November 26
+[Bertolini et al., 2023](https://www.biorxiv.org/content/10.1101/2023.08.19.553731) 
+Regulatory variation controlling architectural pleiotropy in maize
+
+#### Tuesday November 19
+[Guillotin et al., 2023](https://www.nature.com/articles/s41586-023-06053-0) 
+A pan-grass transcriptome reveals patterns of cellular divergence in crops
+
+#### Tuesday November 12
+[Burgarella et al, 2024](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae039/7731525?login=false) 
+Mating systems and recombination landscape strongly shape genetic diversity and selection in wheat relatives
 
 #### Tuesday November 5
 [Ni et al, 2024](https://www.science.org/doi/10.1126/science.ado5331) 
