@@ -14,6 +14,10 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### December
 
+#### December December 17
+[Ramos-Madrigal et al, 2024](https://www.cell.com/cell/abstract/S0092-8674(24)01277-7) 
+The genomic origin of early maize in eastern North America
+
 #### December December 3
 [Burgarella et al, 2024](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae039/7731525?login=false) 
 Mating systems and recombination landscape strongly shape genetic diversity and selection in wheat relatives
