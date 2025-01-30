@@ -12,16 +12,36 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+
+### February
+
+#### Tuesday February 25
+[Castellano et al, preprint](https://www.biorxiv.org/content/10.1101/2022.08.24.505198v4) 
+Detection of Domestication Signals through the Analysis of the Full Distribution of Fitness Effects
+
+#### Tuesday February 18
+[Shaw et al, 2025](https://www.nature.com/articles/s41586-024-08458-x) 
+Global meta-analysis shows action is needed to halt genetic diversity loss
+
+#### Tuesday February 11
+[Chevin and Bridle, 2025](https://royalsocietypublishing.org/doi/10.1098/rstb.2023.0322) 
+Impacts of limits to adaptation on population and community persistence in a changing environment
+
+#### Tuesday February 4
+[Cheng et al, 2025](https://www.nature.com/articles/s41586-024-08476-9) 
+Leveraging a phased pangenome for haplotype design of hybrid potato
+
+
 ### January
 
-#### Tuesday Janaury 28
+#### Tuesday January 28
 [Groh et al, 2024](https://www.science.org/doi/10.1126/science.ado5578) 
 Ancient structural variants control sex-specific flowering time morphs in walnuts and hickories
 
-#### Tuesday Janaury 21
+#### Tuesday January 21
 TRR 341 Seminar
 
-#### Tuesday Janaury 14
+#### Tuesday January 14
 [Ramos-Madrigal et al, 2024](https://www.cell.com/cell/abstract/S0092-8674(24)01277-7) 
 The genomic origin of early maize in eastern North America
 
