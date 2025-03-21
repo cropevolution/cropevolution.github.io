@@ -6,11 +6,19 @@
 
 ## Preprint
 
-* [Going New Places: Successful Adaptation and Genomic Integrity of Grain Amaranth in India.](https://www.biorxiv.org/content/10.1101/2024.09.04.610786v1)  
+* [Going New Places: Successful Adaptation and Genomic Integrity of Grain Amaranth in India.](https://www.biorxiv.org/content/10.1101/2024.09.04.610786v1)   
 **Singh, A and Stetter, MG**. bioRxiv, 2024-09.
 
-* [Local selection shaped the diversity of European maize landraces.](https://doi.org/10.1101/2024.06.07.597898)   
-**Takou, M, Schulz K and Stetter MG**.  bioRxiv, 2024-06.
+
+* [First Successful Targeted Mutagenesis Using CRISPR/Cas9 in Stably Transformed Grain Amaranth Tissue](https://doi.org/10.1101/2025.02.22.639339)  
+**Vollmer, SK, Stetter,  MG** and Hensel, G. bioRxiv, 2025-02.
+
+## 2025
+
+* [Local selection shaped the diversity of European maize landraces.](https://doi.org/10.1111/mec.17720)  
+**Takou, M, Schulz K and Stetter MG**. *Molecular Ecology*  
+[preprint](https://doi.org/10.1101/2024.06.07.597898).
+
 
 ## 2024
 * [Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation and anthocyanin regulator co-option in amaranth]( https://doi.org/10.1111/nph.19736)  

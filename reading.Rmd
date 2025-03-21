@@ -13,6 +13,22 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### April
+
+#### Tuesday April 8
+[Zhang et al, 2025](https://www.nature.com/articles/s41477-025-01905-1) 
+Transposon proliferation drives genome architecture and regulatory evolution in wild and domesticated peppers
+
+#### Tuesday April 1
+[Sedeek et al, preprint](https://www.biorxiv.org/content/10.1101/2025.03.03.641344v1) 
+Nutritional quality and genetic differences of five amaranth cultivars revealed by metabolome profiling and whole-genome sequencing
+
+### March
+
+#### Tuesday March 25
+[Zhang et al, 2025](https://www.nature.com/articles/s41559-025-02653-3) 
+Genetic basis of camouflage in an alpine plant and its long-term co-evolution with an insect herbivore
+
 ### February
 
 #### Tuesday February 25
