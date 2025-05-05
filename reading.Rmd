@@ -13,6 +13,24 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### May
+#### Tuesday May 27
+[Gautier et al, 2024](https://academic.oup.com/mbe/article/41/7/msae121/7695851) 
+Genomic Reconstruction of the Successful Establishment of a Feralized Bovine Population on the Subantarctic Island of Amsterdam
+
+#### Tuesday May 20
+[Kistler et al, 2025](https://www.science.org/doi/10.1126/science.adq0018) 
+Historic manioc genomes illuminate maintenance of diversity under long-lived clonal cultivation
+
+#### Tuesday May 13
+[Jiang et al, 2025](https://www.nature.com/articles/s41467-025-58021-z) 
+Incorporating genetic load contributes to predicting Arabidopsis thaliana’s response to climate change
+
+#### Tuesday May 6
+[Anderson et al, 2025](https://www.science.org/doi/10.1126/science.adr1010) 
+Adaptation and gene flow are insufficient to rescue a montane plant under climate change
+
+
 ### April
 #### Tuesday April 29
 [Gompert et al, 2025](https://www.science.org/doi/abs/10.1126/science.adp3745) 
