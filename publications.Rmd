@@ -5,6 +5,8 @@
 &nbsp;
 
 ## Preprint
+* [Domestication shaped the chromatin landscape of grain amaranth](https://doi.org/10.1101/2025.04.17.649361)   
+**Graf, C, Winkler, TS**, Maughan, PJ, and **Stetter, MG**
 
 * [Going New Places: Successful Adaptation and Genomic Integrity of Grain Amaranth in India.](https://www.biorxiv.org/content/10.1101/2024.09.04.610786v1)   
 **Singh, A and Stetter, MG**. bioRxiv, 2024-09.
