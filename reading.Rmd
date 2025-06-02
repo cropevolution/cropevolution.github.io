@@ -13,6 +13,23 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### June
+#### Tuesday June 24
+[Razo-Mejia et al, preprint](https://doi.org/10.1101/2025.05.07.652616) 
+Learning the Shape of Evolutionary Landscapes: Geometric Deep Learning Reveals Hidden Structure in Phenotype-to-Fitness Maps
+
+#### Tuesday June 17
+[Chevin and Chauhan, 2025](https://academic.oup.com/evolut/advance-article-abstract/doi/10.1093/evolut/qpaf070/8110000) 
+Evolution of plasticity and character displacement in a fluctuating environment
+
+#### Tuesday June 10
+[Almeida-Silva and Van de Peer, preprint](https://doi.org/10.1101/2025.05.27.656262) 
+Gene expression divergence following gene and genome duplications in spatially resolved plant transcriptomes
+
+#### Tuesday June 03
+[Chen et al, 2025](https://doi.org/10.1126/science.ads2871) 
+A single domestication origin of adzuki bean in Japan and the evolution of domestication genes
+
 ### May
 #### Tuesday May 27
 [Gautier et al, 2024](https://academic.oup.com/mbe/article/41/7/msae121/7695851) 
