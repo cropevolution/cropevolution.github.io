@@ -35,14 +35,14 @@ A domestication change at PvMYB26 in common bean sheds light on the origins of M
 [Ruffley et al, preprint](https://www.biorxiv.org/content/10.1101/2023.10.16.562583v2.full) 
 Selection constraints of plant adaptation can be relaxed by gene editing
 
-
+#### Tuesday July 1
+[Lutz et al, preprint](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003226) 
+Species-wide gene editing of a flowering regulator reveals hidden phenotypic variation
 
 
 ### June
 
-#### Tuesday June 30
-[Lutz et al, preprint](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003226) 
-Species-wide gene editing of a flowering regulator reveals hidden phenotypic variation
+
 
 #### Tuesday June 24
 [Razo-Mejia et al, preprint](https://doi.org/10.1101/2025.05.07.652616) 
