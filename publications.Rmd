@@ -6,16 +6,18 @@
 
 ## Preprint
 * [Domestication shaped the chromatin landscape of grain amaranth](https://doi.org/10.1101/2025.04.17.649361)   
-**Graf, C, Winkler, TS**, Maughan, PJ, and **Stetter, MG**
-
-* [Going New Places: Successful Adaptation and Genomic Integrity of Grain Amaranth in India.](https://www.biorxiv.org/content/10.1101/2024.09.04.610786v1)   
-**Singh, A and Stetter, MG**. bioRxiv, 2024-09.
-
+**Graf C, Winkler TS**, Maughan PJ and **Stetter, MG**. bioRxiv
 
 * [First Successful Targeted Mutagenesis Using CRISPR/Cas9 in Stably Transformed Grain Amaranth Tissue](https://doi.org/10.1101/2025.02.22.639339)  
-**Vollmer, SK, Stetter,  MG** and Hensel, G. bioRxiv, 2025-02.
+**Vollmer SK, Stetter  MG** and Hensel G. bioRxiv
 
 ## 2025
+
+* [Going New Places: Successful Adaptation and Genomic Integrity of Grain Amaranth in India.](https://www.biorxiv.org/content/10.1101/2024.09.04.610786v1)   
+**Singh, A and Stetter MG**. 
+
+* [Assessing and Mining Grain Amaranth Diversity for Sustainable Cropping Systems]()  
+**Stetter MG**, Joshi D and **Singh A**
 
 * [Local selection shaped the diversity of European maize landraces.](https://doi.org/10.1111/mec.17720)  
 **Takou, M, Schulz K and Stetter MG**. *Molecular Ecology*  

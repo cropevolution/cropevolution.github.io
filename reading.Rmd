@@ -13,7 +13,37 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+
+### August
+Summer break
+
+### July
+
+#### Tuesday July 29
+[Korfmann, et al, preprint](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003226) 
+Coalescence and Translation: A Language Model for Population Genetics
+
+#### Tuesday July 22
+[Wu et al, preprint](https://www.biorxiv.org/content/10.1101/2025.05.28.654549v1) 
+Rapid adaptation and extinction across climates in synchronized outdoor evolution experiments of Arabidopsis thaliana
+
+#### Tuesday July 15
+[Celebioglu et al, preprint](https://www.biorxiv.org/content/10.1101/2025.05.15.654381v1.full) 
+A domestication change at PvMYB26 in common bean sheds light on the origins of Middle American agriculture
+
+#### Tuesday July 8
+[Ruffley et al, preprint](https://www.biorxiv.org/content/10.1101/2023.10.16.562583v2.full) 
+Selection constraints of plant adaptation can be relaxed by gene editing
+
+
+
+
 ### June
+
+#### Tuesday June 30
+[Lutz et al, preprint](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003226) 
+Species-wide gene editing of a flowering regulator reveals hidden phenotypic variation
+
 #### Tuesday June 24
 [Razo-Mejia et al, preprint](https://doi.org/10.1101/2025.05.07.652616) 
 Learning the Shape of Evolutionary Landscapes: Geometric Deep Learning Reveals Hidden Structure in Phenotype-to-Fitness Maps
