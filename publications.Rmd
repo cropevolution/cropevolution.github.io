@@ -12,15 +12,15 @@
 **Vollmer SK, Stetter  MG** and Hensel G. bioRxiv
 
 ## 2025
+* [Assessing and mining grain amaranth diversity for sustainable cropping systems](https://doi.org/10.1007/s00122-025-04940-w)    
+**Stetter MG**, Joshi DC and **Singh A** *Theor Appl Genet*
 
-* [Going New Places: Successful Adaptation and Genomic Integrity of Grain Amaranth in India.](https://www.biorxiv.org/content/10.1101/2024.09.04.610786v1)   
+* [Going New Places: Successful Adaptation and Genomic Integrity of Grain Amaranth in India.](https://doi.org/10.1111/eva.70124)     
 **Singh, A and Stetter MG**. 
+[Preprint](https://www.biorxiv.org/content/10.1101/2024.09.04.610786v1)
 
-* [Assessing and Mining Grain Amaranth Diversity for Sustainable Cropping Systems]()  
-**Stetter MG**, Joshi D and **Singh A**
-
-* [Local selection shaped the diversity of European maize landraces.](https://doi.org/10.1111/mec.17720)  
-**Takou, M, Schulz K and Stetter MG**. *Molecular Ecology*  
+* [Local selection shaped the diversity of European maize landraces.](https://doi.org/10.1111/mec.17720).  
+**Takou, M, Schulz K and Stetter MG**. *Molecular Ecology*    
 [preprint](https://doi.org/10.1101/2024.06.07.597898).
 
 
