@@ -20,12 +20,13 @@ Summer break
 ### July
 
 #### Tuesday July 29
-[Korfmann, et al, preprint](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003226) 
-Coalescence and Translation: A Language Model for Population Genetics
-
-#### Tuesday July 22
 [Wu et al, preprint](https://www.biorxiv.org/content/10.1101/2025.05.28.654549v1) 
 Rapid adaptation and extinction across climates in synchronized outdoor evolution experiments of Arabidopsis thaliana
+
+#### Tuesday July 22
+[Zebell, et al, 2025]https://www.nature.com/articles/s41586-025-09243-0) 
+Cryptic variation fuels plant phenotypic change through hierarchical epistasis
+
 
 #### Tuesday July 15
 [Celebioglu et al, preprint](https://www.biorxiv.org/content/10.1101/2025.05.15.654381v1.full) 
