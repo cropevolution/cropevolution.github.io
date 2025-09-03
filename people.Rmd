@@ -286,53 +286,15 @@ Leia runs the cloning and molecular analysis in the wet lab and does pipetting m
 </div>
 -->
 
-## BSc Thesis
+## MSc Thesis
 <div style="float: left">
-<img src="own_images/people/Bartlomiej_Chachula.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/fernanda_Giampaoli.jpeg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Bartlomiej Chachula** 
+**Fernanda Daniela Giampaoli** 
 <div style="float: left">
 </div>
-Bartlomiej seed color change during amaranth domestication using AI driven seed phenotyping.
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-<div style="float: left">
-<img src="own_images/people/Maria_Rodriguez.JPG" style="width: 100px ;border:10px solid white">
-</div>
-
-**Maria Rodriguez** 
-<div style="float: left">
-</div>
-Maria studie betalain accumulation and its fitness consequences under stress in amaranth.
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<div style="float: left">
-<img src="own_images/people/Carlotta_Sehl.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-**Carlotta Sehl** 
-<div style="float: left">
-</div>
-Carlotta develops grafting as tool for genome editing in amaranth.
-
+Fernanda helps with wet lab duties.
 <!-- break -->
 <br>
 <br>
