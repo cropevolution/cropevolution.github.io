@@ -12,6 +12,20 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### September
+
+#### Tuesday September 23
+[Morris et al, bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.01.667986v1) 
+Developing future resilience from signatures of adaptation across the sorghum pangenome
+
+
+#### Tuesday September 16
+[Singh et al, bioRxiv](https://www.biorxiv.org/content/10.1101/2025.07.07.663194v1) 
+Highly modular genomic architecture underlies combinatorial mechanism of speciation and adaptive radiation
+
+#### Tuesday September 9
+[Zhang et al, 2025](https://www.cell.com/cell/fulltext/S0092-8674(25)00736-6?ftag=MSF0951a18) 
+Ancient hybridization underlies tuberization and radiation of the potato lineage
 
 
 ### August
