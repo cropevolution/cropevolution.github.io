@@ -12,6 +12,12 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### October
+
+#### Tuesday October 14
+[Pineau et al, bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.02.679894v1) 
+The genomic response to drought across spatiotemporal scales in Amaranthus tuberculatus
+
 ### September
 
 #### Tuesday September 23
