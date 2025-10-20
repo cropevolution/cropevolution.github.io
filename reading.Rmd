@@ -14,6 +14,14 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### October
 
+#### Tuesday October 28
+[Guo et al, 2025](https://www.nature.com/articles/s41586-025-09533-7) 
+A haplotype-based evolutionary history of barley domestication
+
+#### Tuesday October 21
+[Fiscus et al, 2025](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70238) 
+Mutational load and adaptive variation are shaped by climate and species range dynamics in Vitis arizonica
+
 #### Tuesday October 14
 [Pineau et al, bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.02.679894v1) 
 The genomic response to drought across spatiotemporal scales in Amaranthus tuberculatus
