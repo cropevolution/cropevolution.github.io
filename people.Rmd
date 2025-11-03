@@ -95,7 +95,7 @@ Akanksha studies the introduction history of grain amaranth to India and the sou
 <br>
 <br>
 
-
+<!-- break 
 <div style="float: left">
 <img src="own_images/people/Takou-Margarita-2.jpg" style="width: 100px ;border:10px solid white">
 </div>
@@ -110,6 +110,30 @@ Akanksha studies the introduction history of grain amaranth to India and the sou
 </div>
 
 Margarita studies polygenic selection in an experimental population of European maize. 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+-->
+
+## PhD candidates
+
+
+<div style="float: left">
+<img src="own_images/people/fernanda_Giampaoli.jpeg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Fernanda Daniela Giampaoli** 
+<div style="float: left">
+</div>
+Fernanda studies the evolution of betalain pigments and trait novelty. 
 <!-- break -->
 <br>
 <br>
@@ -118,10 +142,7 @@ Margarita studies polygenic selection in an experimental population of European 
 <br>
 <br>
 <br>
-<br>
-<br>
 
-## PhD candidates
 
 <div style="float: left">
 <img src="own_images/people/Corbinian_Graf.JPG" style="width: 100px ;border:10px solid white">
@@ -286,15 +307,17 @@ Leia runs the cloning and molecular analysis in the wet lab and does pipetting m
 </div>
 -->
 
-## MSc Thesis
+## BSc Thesis
 <div style="float: left">
-<img src="own_images/people/fernanda_Giampaoli.jpeg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Fernanda Daniela Giampaoli** 
+**Cedric Koehler** 
 <div style="float: left">
 </div>
-Fernanda helps with wet lab duties.
+
+Cedric studies the genetic control of domestication traits in amaranth.
+
 <!-- break -->
 <br>
 <br>
@@ -305,23 +328,6 @@ Fernanda helps with wet lab duties.
 <br>
 
 ## Student helpers and interns
-
-<div style="float: left">
-<img src="own_images/people/fernanda_Giampaoli.jpeg" style="width: 100px ;border:10px solid white">
-</div>
-
-**Fernanda Daniela Giampaoli** 
-<div style="float: left">
-</div>
-Fernanda helps with wet lab duties.
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div style="float: left">
 <img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
@@ -340,17 +346,16 @@ Sophie helps with plant work and field experiments.
 <br>
 <br>
 
-<!-- break 
 
 <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
-**Anny Garces** 
+**Alicia Vossmann** 
 <div style="float: left">
 </div>
-Anny is a CEPLAS rotation student exploring structural variation in grain amaranth
+Alicia is an intern, testing the function of transcription factors regulating betalain biosynthesis.
 
 <br>
 <br>
@@ -361,6 +366,7 @@ Anny is a CEPLAS rotation student exploring structural variation in grain amaran
 <br>
 
 
+<!-- break 
 
 **Ahad Kazmi** 
 <div style="float: left">
@@ -400,12 +406,12 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 <!-- break -->
 
 ## Lab alumni
-- Sophie Schreiner (BSc student)
-- Tom Winkler (BSc, MSc student)
-- José Goncalves-Dias (PhD student)
-- Julio Martinez (MSc student)
+- [Margarita Takou (Postdoc)](https://scholar.google.com/citations?user=raYNChEAAAAJ&hl=en)
 - Kerstin Schulz
-
+- Julio Martinez (MSc student)
+- José Goncalves-Dias (PhD student)
+- Tom Winkler (BSc, MSc student)
+- Sophie Schreiner (BSc student)
 
 ## Past Visitors
 - Cátia José Neves
