@@ -5,13 +5,25 @@
 &nbsp;
 
 ## Preprint
-* [Domestication shaped the chromatin landscape of grain amaranth](https://doi.org/10.1101/2025.04.17.649361)   
-**Graf C, Winkler TS**, Maughan PJ and **Stetter, MG**. bioRxiv
+
+* [Domestication of the ancient grain Amaranthus cruentus L.]()  
+Sulub-Tun RA , **Singh A** , Cifuentes-Velasquez R, **Stetter MG** and Sanchez-del Pino I. bioRxiv 
+
+* [Adaptive Dynamics of Quantitative Traits in a Steadily Changing Environment](https://doi.org/10.1101/2025.09.28.679017)   
+Pahujani S, **Zhang Y, Stetter MG** and Krug J. bioRxiv 
 
 * [First Successful Targeted Mutagenesis Using CRISPR/Cas9 in Stably Transformed Grain Amaranth Tissue](https://doi.org/10.1101/2025.02.22.639339)  
 **Vollmer SK, Stetter  MG** and Hensel G. bioRxiv
 
 ## 2025
+
+* [Domestication shaped the chromatin landscape of grain amaranth](https://doi.org/10.1038/s41467-025-66445-w)  
+**Graf C, Winkler TS**, Maughan PJ and **Stetter, MG**. *Nature Communications*
+[Preprint](https://doi.org/10.1101/2025.04.17.649361)
+
+* [The Molecular Basis of Adaptation to Climatic Factors and Range Change in Plants](https://doi.org/10.1146/annurev-ecolsys-102723-053810)   
+Hancock A, Portalier S, Fulgione A, **Stetter MG**, & de Meaux, J *Annual Review of Ecology, Evolution, and Systematics*
+
 * [Assessing and mining grain amaranth diversity for sustainable cropping systems](https://doi.org/10.1007/s00122-025-04940-w)    
 **Stetter MG**, Joshi DC and **Singh A** *Theor Appl Genet*
 
@@ -25,6 +37,7 @@
 
 
 ## 2024
+
 * [Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation and anthocyanin regulator co-option in amaranth]( https://doi.org/10.1111/nph.19736)  
 **Winkler TS, Vollmer SK**,Dyballa-Rukes N, Metzger S  and **Stetter MG** *New Phytologist*  
 [Preprint](https://doi.org/10.1101/2023.08.24.554588)

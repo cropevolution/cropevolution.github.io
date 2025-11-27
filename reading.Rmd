@@ -13,6 +13,19 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+
+### December
+
+#### Tuesday December 16
+[Spence et al, 2025](https://www.nature.com/articles/s41586-025-09703-7) 
+Specificity, length and luck drive gene rankings in association studies
+
+
+#### Tuesday December 2
+[Feng et al, 2025](https://www.biorxiv.org/content/10.1101/2024.12.09.627636v2) 
+An X-linked sex determination mechanism in cannabis and hop
+
+
 ### November
 
 #### Tuesday November 25

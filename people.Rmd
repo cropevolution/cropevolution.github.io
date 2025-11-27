@@ -348,7 +348,7 @@ Sophie helps with plant work and field experiments.
 
 
 <div style="float: left">
-<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Alicia_Vossmann.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
