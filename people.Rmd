@@ -348,14 +348,14 @@ Sophie helps with plant work and field experiments.
 
 
 <div style="float: left">
-<img src="own_images/people/Alicia_Vossmann.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Charlotte_Scharphuis.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
-**Alicia Vossmann** 
+**Charlotte Scharphuis** 
 <div style="float: left">
 </div>
-Alicia is an intern, testing the function of transcription factors regulating betalain biosynthesis.
+Charlotte is a BSc student in Biology and helps with plant care and lab duties. 
 
 <br>
 <br>
@@ -365,6 +365,23 @@ Alicia is an intern, testing the function of transcription factors regulating be
 <br>
 <br>
 
+<div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+**Pia Wiesemann** 
+<div style="float: left">
+</div>
+Pia is a BSc student in Biology and helps with plant care and lab duties. 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!-- break 
 

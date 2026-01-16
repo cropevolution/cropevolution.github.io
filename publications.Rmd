@@ -5,6 +5,8 @@
 &nbsp;
 
 ## Preprint
+* [The grain amaranth pangenome reveals domestication-associated changes in diversity and function of structural variation](https://www.biorxiv.org/cgi/content/short/2026.01.08.698315v1)   
+**Ludwig E, Winkler TS and Stetter MG**  bioRxiv 
 
 * [Domestication of the ancient grain Amaranthus cruentus L.]()  
 Sulub-Tun RA , **Singh A** , Cifuentes-Velasquez R, **Stetter MG** and Sanchez-del Pino I. bioRxiv 
