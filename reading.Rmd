@@ -13,6 +13,19 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### March
+
+#### Tuesday March 17
+[Sielmann, 2026](https://www.biorxiv.org/content/10.64898/2026.02.01.703099v1) 
+The genetic architecture of local adaptation is historically contingent
+
+#### Tuesday March 10
+No CROP 
+
+#### Tuesday March 3
+[Sielmann, 2026](https://www.biorxiv.org/content/10.64898/2026.01.28.699851v1.full) 
+Predicting agronomic performance of maize land-races in various and future environments by combining genomic prediction and ecogenetics
+
 ### February
 
 #### Tuesday Feburary 17
