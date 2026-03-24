@@ -13,7 +13,24 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### April
+
+#### Tuesday April 14
+[Rebollo, preprint](https://www.biorxiv.org/content/10.1101/2025.01.14.633033v1) 
+Leveraging ancestral recombination graphs for quantitative genetic analysis of rice yield in indica and japonica subspecies
+
+#### Tuesday April 6
+[Anstett, preprint](https://www.science.org/doi/10.1126/science.adu0995) 
+Rapid evolution predicts demographic recovery after extreme drought
+
 ### March
+#### Tuesday March 31
+[Epstein, preprint](https://www.nature.com/articles/s41586-026-10229-9) 
+The maize recombination landscape evolved during domestication
+
+#### Tuesday March 24
+[Morris, 2026](https://www.nature.com/articles/s41586-026-10229-9) 
+A sorghum pangenome reference improves global crop trait discovery
 
 #### Tuesday March 17
 [Sielmann, 2026](https://www.biorxiv.org/content/10.64898/2026.02.01.703099v1) 
