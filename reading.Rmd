@@ -25,12 +25,12 @@ Rapid evolution predicts demographic recovery after extreme drought
 
 ### March
 #### Tuesday March 31
-[Epstein, preprint](https://www.nature.com/articles/s41586-026-10229-9) 
+[Epstein, preprint](https://www.biorxiv.org/content/10.1101/2024.11.04.621928v1) 
 The maize recombination landscape evolved during domestication
 
 #### Tuesday March 24
-[Morris, 2026](https://www.nature.com/articles/s41586-026-10229-9) 
-A sorghum pangenome reference improves global crop trait discovery
+[Song, 2026]((https://www.nature.com/articles/s41586-026-10229-9)https://www.nature.com/articles/s41559-025-02887-1) 
+Adaptive tracking with antagonistic pleiotropy results in seemingly neutral molecular evolution
 
 #### Tuesday March 17
 [Sielmann, 2026](https://www.biorxiv.org/content/10.64898/2026.02.01.703099v1) 

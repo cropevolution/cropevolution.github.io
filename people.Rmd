@@ -52,19 +52,18 @@ Maxime studies the molecular changes that converted wild plants to crops using g
 
 
 <div style="float: left">
-<img src="own_images/people/Schilbert_Hanna_Marie.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
 
-**Hanna Marie Schilbert** 
+**Doro Lindtke** 
 <div style="float: left">
-<a href="https://scholar.google.de/citations?hl=de&pli=1&user=jusNDNUAAAAJ"><img src="own_images/scholar.png" style="width: 30px;"></a>
-<a href="mailto:hschilbe@uni-koeln.de"><img src="own_images/email_icon.png" style="width: 30px;"></a>
+<a href="https://scholar.google.de/"><img src="own_images/scholar.png" style="width: 30px;"></a>
 </div>
 <div style="float: left">
 </div>
-Hanna studies how pleiotropy evolves as part of [TRR 341](https://trr341.uni-koeln.de/). 
+Doro studies how pleiotropy evolves as part of [TRR 341](https://trr341.uni-koeln.de/). 
 <!-- break -->
 <br>
 <br>
@@ -78,7 +77,7 @@ Hanna studies how pleiotropy evolves as part of [TRR 341](https://trr341.uni-koe
 <img src="own_images/people/akanksha.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Akanksha Singh** 
+**Akanksha Singh (currently on leave)** 
 <div style="float: left">
 <a href="https://scholar.google.com/citations?hl=en&user=ymVnY3IAAAAJ"><img src="own_images/scholar.png" style="width: 30px;"></a>
 <a href="mailto:asingh3@uni-koeln.de"><img src="own_images/email_icon.png" style="width: 30px;"></a>
@@ -95,21 +94,20 @@ Akanksha studies the introduction history of grain amaranth to India and the sou
 <br>
 <br>
 
-<!-- break 
+
 <div style="float: left">
-<img src="own_images/people/Takou-Margarita-2.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Elli_cryan.jpeg" style="width: 100px ;border:10px solid white">
 </div>
 
-**Margarita Takou** 
+**Elli Cryan** 
 <div style="float: left">
-<a href="https://scholar.google.com/citations?user=raYNChEAAAAJ&hl=en"><img src="own_images/scholar.png" style="width: 30px;"></a>
-<a href="mailto:mtakou1@uni-koeln.de"><img src="own_images/email_icon.png" style="width: 30px;"></a>
+<a href="https://scholar.google.com/"><img src="own_images/scholar.png" style="width: 30px;"></a>
 
 </div>
 <div style="float: left">
 </div>
 
-Margarita studies polygenic selection in an experimental population of European maize. 
+Elli is a CIF fellow from the University of California, Irvine. She studies the gene regulatory netwrok of anthocyanins in various species.
 
 
 <br>
@@ -121,7 +119,7 @@ Margarita studies polygenic selection in an experimental population of European 
 <br>
 <br>
 <br>
--->
+
 
 ## PhD candidates
 
@@ -328,24 +326,6 @@ Cedric studies the genetic control of domestication traits in amaranth.
 <br>
 
 ## Student helpers and interns
-
-<div style="float: left">
-<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-**Sophie Feyerabend** 
-<div style="float: left">
-</div>
-Sophie helps with plant work and field experiments.
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 <div style="float: left">
 <img src="own_images/people/Charlotte_Scharphuis.jpg" style="width: 100px ;border:10px solid white">
