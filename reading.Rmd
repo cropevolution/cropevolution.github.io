@@ -13,7 +13,27 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+### May
+
+#### Tuesday May 12
+[Grundler, 2026](https://www.science.org/doi/10.1126/science.adp4642) 
+A geographic history of human genetic ancestry
+
+#### Tuesday May 5
+[Chen, 2026](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00368-4) 
+Gene flow from the European wild apple and selection shaped the domesticated apple genome
+
+
 ### April
+
+#### Tuesday April 28
+[Nocchi, 2026](https://www.biorxiv.org/content/10.1101/2025.01.14.633033v1) 
+Replicated hybrid zones reveal genomic patterns of local adaptation and introgression in spruce
+
+
+#### Tuesday April 21
+Evolutionary rescue seminar
+
 
 #### Tuesday April 14
 [Rebollo, preprint](https://www.biorxiv.org/content/10.1101/2025.01.14.633033v1) 

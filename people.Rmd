@@ -325,6 +325,44 @@ Cedric studies the genetic control of domestication traits in amaranth.
 <br>
 <br>
 
+
+<div style="float: left">
+<img src="own_images/people/KranichMatthias.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Matthias Kranich** 
+<div style="float: left">
+</div>
+
+Matthias works on the interactive vizualisation of the amaranth pangenome.
+
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div style="float: left">
+<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Rosa Fleer** 
+<div style="float: left">
+</div>
+
+Rosa is studying the molecular basis of tissue specific regulation of betalains
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Student helpers and interns
 
 <div style="float: left">
