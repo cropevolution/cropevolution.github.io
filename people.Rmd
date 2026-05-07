@@ -28,6 +28,26 @@ Markus is group leader in the Institute for Plant Sciences at the University of 
 
 ## Postdocs
 
+<div style="float: left">
+<img src="own_images/people/doudou_kong.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+**Doudou Kong** 
+<div style="float: left">
+<a href=""><img src="own_images/email_icon.png" style="width: 30px;"></a>
+</div>
+
+<div style="float: left">
+</div>
+Doudou studies the integration of metabolic pathways into regulatory networks. 
+
+<!-- break -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div style="float: left">
 <img src="own_images/people/maxime_kadner.jpg" style="width: 100px ;border:10px solid white">
@@ -347,7 +367,7 @@ Matthias works on the interactive vizualisation of the amaranth pangenome.
 
 
 <div style="float: left">
-<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/rosa_fleer.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 **Rosa Fleer** 
