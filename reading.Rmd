@@ -15,6 +15,14 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### May
 
+#### Tuesday May 26
+[Lev-Mirom, 2026](https://www.nature.com/articles/s41477-026-02283-y) 
+Ancient grains illuminate the mosaic origin of domesticated wheat
+
+#### Tuesday May 19
+[Kramer, 2025](https://academic.oup.com/plcell/article-abstract/37/10/koaf219/8258484?redirectedFrom=fulltext&login=false) 
+Identification of a cleaved aberrant RNA associated with the initiation of transgene silencing
+
 #### Tuesday May 12
 [Grundler, 2026](https://www.science.org/doi/10.1126/science.adp4642) 
 A geographic history of human genetic ancestry
