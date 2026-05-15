@@ -2,7 +2,7 @@
 <br>
 <!-- break -->
 
-As young scientist myself, I have the PhD and postdoc time in fresh memory. My goal is to pass on the numerous great experiences and implement some of the ideas and inspirations I have gotten along the way. Everyone in the lab should get the training and opportunities they need to follow their curiosity and advance in their chosen career path. My task is to create the environment in which we can collaboratively advance. Below you can find information on the lab philosophy and expectations of lab members. Text and ideas in places borrow heavily from [Jeff Ross-Ibarra](http://www.rilab.org/expectations.html) and [Rubén Rellán-Álvarez](http://www.rrlab.org/expectations.html).
+My goal is to pass on the numerous great experiences and implement some of the ideas and inspirations I have gotten along the way. Everyone in the lab should get the training and opportunities they need to follow their curiosity and advance in their chosen career path. My task is to create the environment in which we can collaboratively advance. Below you can find information on the lab philosophy and expectations of lab members. Text and ideas in places borrow heavily from [Jeff Ross-Ibarra](http://www.rilab.org/expectations.html) and [Rubén Rellán-Álvarez](http://www.rrlab.org/expectations.html).
 
 ## General Rules
 
@@ -21,7 +21,7 @@ Our lab is mostly a dry lab, meaning that we mostly work computational, but depe
 ## General lab functioning
 - We use Slack for lab internal communication
 - The use of shared project management tools (e.g. trello) is encouraged.
-- We have regular lab meetings and journal clubs where every lab member participates
+- We have regular lab meetings where every lab member participates
 - We write manuscripts in latex (unless there is a really good reason not to)
 - Everyone is encouraged to take notes during meetings
 - We use shared repositories to manage code and analysis notebooks
@@ -31,13 +31,19 @@ Our lab is mostly a dry lab, meaning that we mostly work computational, but depe
 
 #### Work hours
 In general the time spent in the lab or working on your projects is not the most important factor, the progress is what counts. That being said, there is usually some correlation between productivity and time investment.
-We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours during the work week, since this is when most academic activities occur. There may be times when you feel like your project requires work late at night or on the weekends, but you are *not* expected to regularly work more than the normal work time in your contract.  It is important that you take time off for personal life, vacations, etc. I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.
+We are lucky enough to work in an area where flexible working hours are the norm. In order to be able to interact with the rest of the persons in the lab, we generally expect lab members to be present the majority of normal business hours during the work week, since this is when most academic activities occur. 
+To create a reasonable overlap everyone should be in *latest* by 9.00 am.
+There may be times when you feel like your project requires work late at night or on the weekends, but you are *not* expected to regularly work more than the normal work time.  It is important that you take time off for personal life, vacations, etc. I do ask, however, that you notify me if you will be absent for ≥1 day, and let me know in advance of any extended leave.
+Sometimes working from home might be beneficial for specific tasks. As a general rule, you can work one day per week from home. Please notify me by email at least the day before. You should be available to the lab through Slack/Email while you are working from home. 
 
-#### Seminars, journal clubs and other lab and institutional activities   
-Attendance to regular weekly lab meetings and journal club is expected of all lab members. Participation in weekly lab coffee is encouraged but not required. 
+#### Seminars and other lab and institutional activities   
+Attendance to regular weekly lab meetings is expected of all lab members. Participation in weekly lab coffee is encouraged but not required. 
+
+#### Journal Club
+The after-work journal club (CROP) is an educational offer I provide outside of working hours. Participation in not compulsory, but encouraged for those who want to develop a deeper understanding of evolutionary genomics and discuss the most recent developments in the field. If you participate, you are expected to have read the paper. You don't have to have solved all open questions before; bring them to have them discussed. The goal is to have an informal fun science discussion around the paper.
 
 #### Conferences
-Everyone is encouraged to attend at least one conference a year. Members of the lab regularly attend such meetings as the maize meeting, SMBE, ESEB, GPZ meetings and other national and international meetings. CEPLAS and other sources offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks. Each PhD student should be able to attend one conference per year after the first year and present their results at least one large international conference during their PhD. Postdocs are encouraged to attend at least one conference per year.
+Everyone is encouraged to attend one conference a year. Members of the lab regularly attend such meetings as SMBE, ESEB, maize meeting, GPZ meetings and other national and international meetings. CEPLAS and other sources offer travel funding for graduate students and postdocs, and you should apply for external sources of funding to help cover travel expenses. Whenever possible, I will help fund attendance at one conference per year for each member of the lab on the condition that you are presenting a poster or talk at the meeting. Please provide ample time before the deadline for reviewing abstracts and posters or practicing talks. Each PhD student should be able to attend one conference per year after the first year and present their results at least one large international conference during their PhD. Postdocs are encouraged to attend one conference per year.
 
 #### Authorship
 We follow the [IJME rules for authorship rules](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html):   
@@ -58,7 +64,7 @@ I feel strongly that open science is important. We publish preprints as soon as 
 #### My responsibilities to postdocs and senior PhD students:  
 
 
-- Meet weekly (or bi-weekly if preferred) to discuss progress & pitfalls. 
+- Meet bi-weekly (or weekly if preferred) to discuss progress & pitfalls. 
 - Help interpreting results.
 - Proof-read manuscripts in an acceptable amount of time (aiming for within 2 weeks)
 - Assist with identifying and writing postdoctoral fellowships.  
@@ -85,7 +91,7 @@ I feel strongly that open science is important. We publish preprints as soon as 
 - Help interpreting results.  
 - Proof-read and contribute to writing of thesis, abstracts and manuscripts.  
 - Discuss future career goals (e.g., do you want to teach, go into academia, continue in research?), and plan ways to facilitate these goals.  
-- Meet weekly to discuss progress and pitfalls.
+- Meet regularly to discuss progress and pitfalls.
 
 #### Expectations of Master and junior PhD students:  
 
