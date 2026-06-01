@@ -13,6 +13,12 @@ The idea is that everyone reads the paper before and we dive directly in without
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
 
+
+### June
+
+#### Tuesday June 2nd
+[Parret, 2026](https://www.nature.com/articles/s41559-026-03080-8) 
+Genetic rescue increases long-term fitness despite elevating putative genetic load in a male-dimorphic mite
 ### May
 
 #### Tuesday May 26
