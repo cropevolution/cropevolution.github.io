@@ -16,7 +16,20 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 ### June
 
-#### Tuesday June 9nd
+#### Tuesday June 30
+[Sumi, et al, 2025](https://academic.oup.com/pcp/article/66/7/1061/8152726) 
+Flower color variations are determined by betalain biosynthetic genes in Portulaca umbraticola 
+
+#### Tuesday June 23
+[Tiozon et al, 2026](https://www.biorxiv.org/content/10.64898/2026.02.16.706232v1.full) 
+Enhanced phenylalanine biosynthesis amplifies light-stress-driven phenylpropanoid production in Arabidopsis
+
+#### Tuesday June 16
+[Wojcik et al, 2026](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.71031) 
+Evolution of crop phenotypic spaces through domestication
+
+
+#### Tuesday June 9
 [Ouzounis, 2026](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014287) 
 The total eclipse of bioinformatics: From disruption to convention, and a gentle warning
 
