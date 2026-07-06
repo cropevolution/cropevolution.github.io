@@ -14,11 +14,32 @@ If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-
 
 
 
+### August 
+No meeting summer break
+
+### July
+
+#### Tuesday July 28
+[Haghani, et al, preprint](https://www.biorxiv.org/content/10.1101/2025.11.07.687308v1) 
+Insertion of an invading retrovirus regulates a novel color trait in swordtail fish
+
+#### Tuesday July 21
+[Potente, et al, 2026](https://www.science.org/doi/10.1126/sciadv.aec1996) 
+Distinct genomic architectures but the same gene underlie the convergent evolution of a plant supergene
+
+#### Tuesday July 14
+[Carleial, et al, preprint](https://www.biorxiv.org/content/10.1101/2025.07.04.662749v1.full) 
+Genetic basis of traits and local adaptation in UK silver birch
+
+
+#### Tuesday July 7
+[Sumi, et al, 2025](https://academic.oup.com/pcp/article/66/7/1061/8152726) 
+Flower color variations are determined by betalain biosynthetic genes in Portulaca umbraticola 
+
 ### June
 
 #### Tuesday June 30
-[Sumi, et al, 2025](https://academic.oup.com/pcp/article/66/7/1061/8152726) 
-Flower color variations are determined by betalain biosynthetic genes in Portulaca umbraticola 
+Public viewing SMBE
 
 #### Tuesday June 23
 [Tiozon et al, 2026](https://www.biorxiv.org/content/10.64898/2026.02.16.706232v1.full) 
