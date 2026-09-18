@@ -12,6 +12,16 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### September
+
+#### Tuesday September 29
+[Stitzer, et al, preprint](https://www.biorxiv.org/content/10.1101/2025.01.22.633974v1.full) 
+Extensive genome evolution distinguishes maize within a stable tribe of grasses
+
+
+#### Tuesday September 22
+[Ye, et al, 2026](https://www.nature.com/articles/s41586-026-11005-5?error=cookies_not_supported&code=3f131a65-d785-4553-b7fc-a24c80211d7a) 
+Predicting genome-wide functional constraints with GPN-Star
 
 
 ### August 
