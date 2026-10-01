@@ -486,12 +486,13 @@ Contact us if you are interested in joining the lab. [contact us](mailto:mgstett
 <!-- break -->
 
 ## Lab alumni
+
+- Hanna Schilbert (Postdoc)
+- Susanne Vollmer (PhD student)
 - [Margarita Takou (Postdoc)](https://scholar.google.com/citations?user=raYNChEAAAAJ&hl=en)
-- Kerstin Schulz
+- Kerstin Schulz (MSc student)
 - Julio Martinez (MSc student)
 - José Goncalves-Dias (PhD student)
-- Tom Winkler (BSc, MSc student)
-- Sophie Schreiner (BSc student)
 
 ## Past Visitors
 - Cátia José Neves
