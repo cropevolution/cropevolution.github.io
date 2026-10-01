@@ -137,8 +137,6 @@ Elli is a [CIF](https://cif.uni-koeln.de/) fellow from the University of Califor
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 ## PhD candidates
@@ -201,17 +199,17 @@ Ella studies stuctural variation in amaranth.
 
 
 <div style="float: left">
-<img src="own_images/people/SusanneVollmer.jpg" style="width: 100px ;border:10px solid white">
+<img src="own_images/people/Cedric_Koehler.jpg" style="width: 100px ;border:10px solid white">
 </div>
 
 
 
 
 
-**Susanne Vollmer** 
+**Cedric Koehler** 
 <div style="float: left">
 </div>
-Susanne is a PhD student and part of the CEPLAS graduate school in collaboration with the [Hensel lab at HHU](https://www.ceplas.eu/en/research/people/dr-goetz-hensel). Susanne advances various molecular methods for amaranth and dissects the regulation of betalain pigments.
+Cedric studies the adaptation of maize to multiple stessors as part of the FOR 6101 [Multistress](https://multistress.uni-goettingen.de/)
 <!-- break -->
 <br>
 <br>
@@ -326,24 +324,6 @@ Leia runs the cloning and molecular analysis in the wet lab and does pipetting m
 -->
 
 ## BSc Thesis
-<div style="float: left">
-<img src="own_images/people/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
-</div>
-
-**Cedric Koehler** 
-<div style="float: left">
-</div>
-
-Cedric studies the genetic control of domestication traits in amaranth.
-
-<!-- break -->
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 <div style="float: left">
@@ -383,6 +363,8 @@ Rosa is studying the molecular basis of tissue specific regulation of betalains
 <br>
 <br>
 <br>
+
+
 ## Student helpers and interns
 
 <div style="float: left">
@@ -418,8 +400,7 @@ Pia is a BSc student in Biology and helps with plant care and lab duties.
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 <!-- break 
 
@@ -438,6 +419,50 @@ Ahad is a biochemistry master student wroking on long read sequencing in amarant
  <div style="float: left">
 <img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
 </div>-->
+
+
+
+## Guests
+
+
+<div style="float: left">
+<img src="own_images/people/Pablo_Albertos.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+**Pablo Albertos** 
+<div style="float: left">
+</div>
+Pablo is professor for plant physiology at the University of Salamanca studying the natural variation in ABA response of amaranth with us
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div style="float: left">
+<img src="own_images/DSC_0020.jpg" style="width: 100px ;border:10px solid white">
+</div>
+
+
+**Sandra Macias** 
+<div style="float: left">
+</div>
+Sandra is a PhD student from the University of Salamanca studying the ABA response of amaranth.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 
 
 ## Joining the lab

@@ -5,17 +5,33 @@
 &nbsp;
 
 ## Preprint
-* [The grain amaranth pangenome reveals domestication-associated changes in diversity and function of structural variation](https://www.biorxiv.org/cgi/content/short/2026.01.08.698315v1)   
+
+* [Pleiotropy and repeated mutation drove convergent domestication of grain amaranth](https://doi.org/10.64898/2026.02.26.708151).  
+**Winkler TS, Kadner M, Graf C, Lentz R, Martinez J, Singh A, Stetter MG**. bioRxiv
+
+* [Standing genetic variation drives polygenic adaptation to different environmental shifts](https://doi.org/10.64898/2026.09.14.751342).  
+**Zhang Y and Stetter MG**. bioRxiv
+
+* [The grain amaranth pangenome reveals domestication-associated changes in diversity and function of structural variation](https://www.biorxiv.org/cgi/content/short/2026.01.08.698315v1)      
 **Ludwig E, Winkler TS and Stetter MG**  bioRxiv 
 
-* [Domestication of the ancient grain Amaranthus cruentus L.]()  
-Sulub-Tun RA , **Singh A** , Cifuentes-Velasquez R, **Stetter MG** and Sanchez-del Pino I. bioRxiv 
+* [Time series analysis in a maize landrace reveals rapid fixation of beneficial alleles](https://doi.org/10.64898/2026.03.25.713886).   
+**Takou M**, Terán-Pineda M, da Silva S, Schön CC, **Stetter MG**. bioRxiv
 
-* [Adaptive Dynamics of Quantitative Traits in a Steadily Changing Environment](https://doi.org/10.1101/2025.09.28.679017)   
-Pahujani S, **Zhang Y, Stetter MG** and Krug J. bioRxiv 
 
-* [First Successful Targeted Mutagenesis Using CRISPR/Cas9 in Stably Transformed Grain Amaranth Tissue](https://doi.org/10.1101/2025.02.22.639339)  
-**Vollmer SK, Stetter  MG** and Hensel G. bioRxiv
+## 2026
+
+* [Repeated domestication shaped the evolution of grain amaranth in Mesoamerica](https://doi.org/10.1093/gbe/evag243).  
+Sulub-Tun RA , **Singh A** , Cifuentes-Velasquez R, **Stetter MG** and Sanchez-del Pino I. *Genome Biology and Evolution*
+[Preprint](https://www.biorxiv.org/content/10.1101/2025.11.27.690906v1)
+
+* [Adaptive Dynamics of Quantitative Traits in a Steadily Changing Environment](https://doi.org/10.1093/genetics/iyag168)    
+Pahujani S, **Zhang Y, Stetter MG** and Krug J. *Genetics*
+[bioRxiv](https://doi.org/10.1101/2025.09.28.679017)
+
+* [First Successful Targeted Mutagenesis Using CRISPR/Cas9 in Stably Transformed Grain Amaranth Tissue](https://doi.org/10.1111/pbi.70590).  
+**Vollmer SK, Stetter  MG** and Hensel G. *Plant Biotechnology Journal*
+[bioRxiv](https://doi.org/10.1101/2025.02.22.639339) 
 
 ## 2025
 
