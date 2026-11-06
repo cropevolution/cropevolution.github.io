@@ -10,6 +10,19 @@ Anybody is welcome to join us.
 The idea is that everyone reads the paper before and we dive directly in without formal presentation of the paper. 
 If you would like to suggest a paper please email [Markus](mailto:m.stetter@uni-koeln.de).
 
+### November
+
+#### Tuesday November 24
+[Ranaweera, et al, preprint](https://www.biorxiv.org/content/10.64898/2026.10.28.762560v1) 
+Spatial expression evolution of duplicated genes post-whole genome duplication in cultivated tomato
+
+#### Tuesday November 17
+[Lawson, et al, preprint](https://www.biorxiv.org/content/10.64898/2026.11.03.764076v1) 
+Inferring modularity in genotype-phenotype maps using patterns of epistasis and pleiotropy
+
+#### Tuesday November 10
+[Jahner, et al, 2026](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.70191) 
+Interpretable and Predictive Models Based on High-Dimensional Data in Ecology and Evolution
 
 
 ### October
